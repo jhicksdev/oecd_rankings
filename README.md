@@ -13,6 +13,8 @@ For more information about the OECD, please visit the [Organisation for Economic
   - [Global Peace Index](#global-peace-index)
   - [Corruption Perceptions Index](#corruption-perceptions-index)
   - [Social Progress Index (SPI)](#social-progress-index-spi)
+  - [Global Gender Gap Report](#global-gender-gap-report)
+  - [Legatum Prosperity Index](#legatum-prosperity-index)
   - [Data Coverage](#data-coverage)
 - [Data Calculation](#data-calculation)
   - [Explanation](#explanation)
@@ -61,21 +63,31 @@ The Global Peace Index ranks countries based on peace and stability, considering
 
 The Corruption Perceptions Index ranks countries based on perceived levels of public sector corruption. For more information, visit the [Transparency International CPI page](https://www.transparency.org/en/cpi).
 
-## Social Progress Index (SPI)
+### Social Progress Index (SPI)
 
 The SPI ranks countries based on social and environmental performance, considering factors like basic human needs, foundations of well-being, and opportunity. For more information, visit the [Social Progress Index website](https://www.socialprogress.org/).
 
+### Global Gender Gap Report
+
+The Global Gender Gap Report measures gender-based disparities in areas like economic participation, education, health, and political empowerment. It provides insights into progress toward gender parity across different countries. For more information, visit the [World Economic Forum Global Gender Gap Report page](https://www.weforum.org/publications/global-gender-gap-report-2024/digest/).
+
+### Legatum Prosperity Index
+
+The Legatum Prosperity Index ranks countries based on prosperity and well-being, considering factors like economic quality, business environment, governance, and personal freedom. For more information, visit the [Legatum Prosperity Index page](https://www.prosperity.com/).
+
 ### Data Coverage
 
-The data used in this project covers the following years:
+As of December 2024, the datasets used in this project cover the following years:
 
 | Dataset                       | Year |
 | ----------------------------- | ---- |
-| Human Development Index (HDI) | 2022 |
-| World Happiness Report        | 2024 |
-| Global Peace Index            | 2024 |
 | Corruption Perceptions Index  | 2023 |
+| Global Gender Gap Report      | 2022 |
+| Global Peace Index            | 2024 |
+| Human Development Index (HDI) | 2022 |
+| Legatum Prosperity Index      | 2023 |
 | Social Progress Index (SPI)   | 2022 |
+| World Happiness Report        | 2024 |
 
 ## Data Calculation
 
