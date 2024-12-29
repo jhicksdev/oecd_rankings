@@ -1,150 +1,187 @@
 [
   {
-    "country": "IS",
-    "score": 0.9835185724614895
-  },
-  {
     "country": "DK",
-    "score": 0.9433457523267187
+    "score": 0.958,
+    "rank": 1
   },
   {
     "country": "FI",
-    "score": 0.932995351507312
+    "score": 0.94,
+    "rank": 2
+  },
+  {
+    "country": "IS",
+    "score": 0.931,
+    "rank": 3
   },
   {
     "country": "CH",
-    "score": 0.927599006923657
+    "score": 0.92,
+    "rank": 4
   },
   {
     "country": "NZ",
-    "score": 0.9139210872352083
-  },
-  {
-    "country": "IE",
-    "score": 0.912497641937925
-  },
-  {
-    "country": "NL",
-    "score": 0.9042062495016503
-  },
-  {
-    "country": "AT",
-    "score": 0.901103660529885
+    "score": 0.92,
+    "rank": 4
   },
   {
     "country": "NO",
-    "score": 0.8983907730154254
+    "score": 0.905,
+    "rank": 6
   },
   {
-    "country": "AU",
-    "score": 0.8883577412379943
+    "country": "IE",
+    "score": 0.893,
+    "rank": 7
   },
   {
-    "country": "CA",
-    "score": 0.886092466319271
-  },
-  {
-    "country": "BE",
-    "score": 0.880869838120158
-  },
-  {
-    "country": "SI",
-    "score": 0.8802042750994064
+    "country": "NL",
+    "score": 0.893,
+    "rank": 7
   },
   {
     "country": "SE",
-    "score": 0.8717820204725536
+    "score": 0.879,
+    "rank": 9
+  },
+  {
+    "country": "CA",
+    "score": 0.87,
+    "rank": 10
+  },
+  {
+    "country": "AU",
+    "score": 0.869,
+    "rank": 11
+  },
+  {
+    "country": "AT",
+    "score": 0.866,
+    "rank": 12
   },
   {
     "country": "DE",
-    "score": 0.8710154347265283
+    "score": 0.865,
+    "rank": 13
   },
   {
-    "country": "CZ",
-    "score": 0.857611244012152
+    "country": "BE",
+    "score": 0.857,
+    "rank": 14
   },
   {
     "country": "GB",
-    "score": 0.8435392325045239
-  },
-  {
-    "country": "ES",
-    "score": 0.8243663444656594
-  },
-  {
-    "country": "JP",
-    "score": 0.8199849148066916
-  },
-  {
-    "country": "LT",
-    "score": 0.8172151735943506
+    "score": 0.823,
+    "rank": 15
   },
   {
     "country": "EE",
-    "score": 0.816410238878817
+    "score": 0.818,
+    "rank": 16
+  },
+  {
+    "country": "JP",
+    "score": 0.811,
+    "rank": 17
+  },
+  {
+    "country": "SI",
+    "score": 0.803,
+    "rank": 18
+  },
+  {
+    "country": "CZ",
+    "score": 0.789,
+    "rank": 19
+  },
+  {
+    "country": "ES",
+    "score": 0.773,
+    "rank": 20
+  },
+  {
+    "country": "LT",
+    "score": 0.771,
+    "rank": 21
   },
   {
     "country": "PT",
-    "score": 0.8145105803724805
-  },
-  {
-    "country": "IT",
-    "score": 0.8022751641927011
-  },
-  {
-    "country": "PL",
-    "score": 0.796655093621428
-  },
-  {
-    "country": "LV",
-    "score": 0.7865369371830754
-  },
-  {
-    "country": "HU",
-    "score": 0.7817823087139053
-  },
-  {
-    "country": "SK",
-    "score": 0.7780985042447139
-  },
-  {
-    "country": "KR",
-    "score": 0.7778715350484237
+    "score": 0.769,
+    "rank": 22
   },
   {
     "country": "FR",
-    "score": 0.762587755823848
+    "score": 0.762,
+    "rank": 23
   },
   {
-    "country": "GR",
-    "score": 0.7585689886233616
+    "country": "KR",
+    "score": 0.748,
+    "rank": 24
   },
   {
-    "country": "CR",
-    "score": 0.7428431470194826
+    "country": "LV",
+    "score": 0.745,
+    "rank": 25
+  },
+  {
+    "country": "IT",
+    "score": 0.744,
+    "rank": 26
+  },
+  {
+    "country": "PL",
+    "score": 0.734,
+    "rank": 27
   },
   {
     "country": "CL",
-    "score": 0.736470019839472
+    "score": 0.726,
+    "rank": 28
+  },
+  {
+    "country": "SK",
+    "score": 0.72,
+    "rank": 29
   },
   {
     "country": "US",
-    "score": 0.700754292743668
+    "score": 0.709,
+    "rank": 30
+  },
+  {
+    "country": "CR",
+    "score": 0.696,
+    "rank": 31
+  },
+  {
+    "country": "GR",
+    "score": 0.689,
+    "rank": 32
+  },
+  {
+    "country": "HU",
+    "score": 0.684,
+    "rank": 33
   },
   {
     "country": "IL",
-    "score": 0.656148520927029
+    "score": 0.654,
+    "rank": 34
   },
   {
     "country": "MX",
-    "score": 0.5924982432776834
+    "score": 0.508,
+    "rank": 35
   },
   {
     "country": "TR",
-    "score": 0.539943177723907
+    "score": 0.478,
+    "rank": 36
   },
   {
     "country": "CO",
-    "score": 0.509109816360379
+    "score": 0.474,
+    "rank": 37
   }
 ]

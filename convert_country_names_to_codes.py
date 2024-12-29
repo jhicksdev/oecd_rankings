@@ -10,6 +10,8 @@ from typing import List, TypedDict
 import logging
 
 ROOT_PATH = Path(dirname(abspath(__file__)))
+DATA_PATH = ROOT_PATH / "data"
+UNCODED_PATH = DATA_PATH / "uncoded"
 COUNTRIES_PATH = ROOT_PATH / "countries.json"
 
 
@@ -63,13 +65,13 @@ def main() -> None:
     parser.add_argument(
         "--input-dir",
         type=Path,
-        default=ROOT_PATH / "data",
+        default=UNCODED_PATH,
         help="Input directory containing uncoded CSV files",
     )
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=ROOT_PATH / "data",
+        default=DATA_PATH,
         help="Output directory for coded CSV files",
     )
     args = parser.parse_args()

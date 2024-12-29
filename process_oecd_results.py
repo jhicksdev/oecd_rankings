@@ -90,9 +90,17 @@ def save_results_as_json(output_file: Path, required_score_count: int):
                     if len(country.scores) == required_score_count
                     and country.code in OECD_COUNTRIES
                 ],
-                key=lambda x: x["score"],
+                key=lambda x: round(x["score"], 3),
                 reverse=True,
             )
+            rank = 1
+            for i, result in enumerate(results):
+                if i > 0 and round(results[i - 1]["score"], 3) != round(
+                    result["score"], 3
+                ):
+                    rank = i + 1
+                result["score"] = round(result["score"], 3)
+                result["rank"] = rank
             dump(results, file, indent=2)
     except IOError as e:
         logging.error(f"Error writing to file {output_file}: {e}")
@@ -101,7 +109,7 @@ def save_results_as_json(output_file: Path, required_score_count: int):
 def save_results_as_csv(output_file: Path, required_score_count: int):
     try:
         with open(output_file, "w", encoding="utf-8", newline="") as file:
-            fieldnames = ["country", "score"]
+            fieldnames = ["rank", "country", "score"]
             writer = DictWriter(file, fieldnames=fieldnames)
             writer.writeheader()
             results = sorted(
@@ -111,10 +119,17 @@ def save_results_as_csv(output_file: Path, required_score_count: int):
                     if len(country.scores) == required_score_count
                     and country.code in OECD_COUNTRIES
                 ],
-                key=lambda x: x["score"],
+                key=lambda x: round(x["score"], 3),
                 reverse=True,
             )
-            for result in results:
+            rank = 1
+            for i, result in enumerate(results):
+                if i > 0 and round(results[i - 1]["score"], 3) != round(
+                    result["score"], 3
+                ):
+                    rank = i + 1
+                result["score"] = round(result["score"], 3)
+                result["rank"] = rank
                 writer.writerow(result)
     except IOError as e:
         logging.error(f"Error writing to file {output_file}: {e}")
