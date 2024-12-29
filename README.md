@@ -34,14 +34,15 @@ For more information about the OECD, please visit the [Organisation for Economic
 
 ## Project Structure
 
-- `process_oecd_results.py`: Processes CSV files in the `data` directory, generates results for OECD member countries, and exports the results in JSON and/or CSV formats. It also identifies missing OECD member countries.
 - `convert_country_names_to_codes.py`: Converts country names in uncoded CSV files to country codes using data from `countries.json`.
-- `fetch_countries.py`: Fetches country data from an external API and merges it with existing data in `countries.json`.
+- `countries.json`: JSON file containing country codes and names.
 - `country.py`: Defines the `Country` class used to manage country data and calculate average scores.
 - `data/`: Directory containing CSV files with international rankings data.
-- `results.json`: JSON file containing the processed results for OECD member countries.
+- `data/uncoded/`: Directory containing uncoded CSV files with international rankings data.
+- `fetch_countries.py`: Fetches country data from an external API and merges it with existing data in `countries.json`.
+- `process_oecd_results.py`: Processes CSV files in the `data` directory, generates results for OECD member countries, and exports the results in JSON and/or CSV formats. It also identifies missing OECD member countries.
 - `results.csv`: CSV file containing the processed results for OECD member countries.
-- `countries.json`: JSON file containing country codes and names.
+- `results.json`: JSON file containing the processed results for OECD member countries.
 
 ## Data Sources
 
