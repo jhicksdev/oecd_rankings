@@ -1,0 +1,29 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore uncoded data files
+data/*_UNCODED.csv
+
+# Allow coded data files
+!data/*.csv
+
+# Ignore JSON files
+*.json
+!results.json
+!countries.json
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
