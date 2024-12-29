@@ -160,8 +160,8 @@ Process CSV files in the `data` directory, generate results for OECD member coun
 
 - `process_oecd_results.py`:
   - `--input-dir`: Input directory containing CSV files (default: `data`).
-  - `--output-file`: Output file for results.
-  - `--format`: Output format (`json`, `csv`, or `both`).
+  - `--output-file`: Specify the output file for the results. By default, the results are exported to `results.[csv,json]` in the root directory.
+  - `--format`: Output format (`json`, `csv`, or `both`) (default: `both`).
 
 ## Example
 

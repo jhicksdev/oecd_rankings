@@ -169,7 +169,7 @@ def main():
     parser.add_argument(
         "--format",
         choices=["json", "csv", "both"],
-        default="json",
+        default="both",
         help="Output format (json, csv, or both)",
     )
     args = parser.parse_args()
