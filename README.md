@@ -12,6 +12,7 @@ For more information about the OECD, please visit the [Organisation for Economic
   - [World Happiness Report](#world-happiness-report)
   - [Global Peace Index](#global-peace-index)
   - [Corruption Perceptions Index](#corruption-perceptions-index)
+  - [Social Progress Index (SPI)](#social-progress-index-spi)
   - [Data Coverage](#data-coverage)
 - [Data Calculation](#data-calculation)
   - [Explanation](#explanation)
@@ -60,6 +61,10 @@ The Global Peace Index ranks countries based on peace and stability, considering
 
 The Corruption Perceptions Index ranks countries based on perceived levels of public sector corruption. For more information, visit the [Transparency International CPI page](https://www.transparency.org/en/cpi).
 
+## Social Progress Index (SPI)
+
+The SPI ranks countries based on social and environmental performance, considering factors like basic human needs, foundations of well-being, and opportunity. For more information, visit the [Social Progress Index website](https://www.socialprogress.org/).
+
 ### Data Coverage
 
 The data used in this project covers the following years:
@@ -70,6 +75,7 @@ The data used in this project covers the following years:
 | World Happiness Report        | 2024 |
 | Global Peace Index            | 2024 |
 | Corruption Perceptions Index  | 2023 |
+| Social Progress Index (SPI)   | 2022 |
 
 ## Data Calculation
 
