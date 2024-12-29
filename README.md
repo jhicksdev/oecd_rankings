@@ -13,6 +13,9 @@ For more information about the OECD, please visit the [Organisation for Economic
   - [Global Peace Index](#global-peace-index)
   - [Data Coverage](#data-coverage)
 - [Data Calculation](#data-calculation)
+  - [Explanation](#explanation)
+  - [Note](#note)
+- [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Usage](#usage)
   - [Fetch Country Data](#fetch-country-data)
@@ -21,6 +24,8 @@ For more information about the OECD, please visit the [Organisation for Economic
   - [Command-Line Arguments](#command-line-arguments)
 - [Example](#example)
 - [Missing OECD Countries](#missing-oecd-countries)
+- [Contributing](#contributing)
+- [Contact](#contact)
 - [License](#license)
 
 ## Project Structure
