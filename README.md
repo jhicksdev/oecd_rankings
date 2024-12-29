@@ -1,6 +1,27 @@
 # OECD Rankings
 
-This project processes international rankings data for OECD member countries. It fetches country data, converts country names to codes, processes CSV files to generate results, and exports the results in both JSON and CSV formats. Additionally, it identifies any OECD member countries that are missing from the results due to incomplete data.
+This project aims to provide a comprehensive analysis of OECD member countries based on various international rankings. By normalizing and comparing data from different sources, the project helps identify areas where countries excel and areas that need improvement. The results can be used by policymakers, researchers, and the general public to gain insights into the performance of OECD countries across different metrics.
+
+For more information about the OECD, please visit the [Organisation for Economic Co-operation and Development (OECD) website](https://www.oecd.org/).
+
+## Table of Contents
+
+- [Project Structure](#project-structure)
+- [Data Sources](#data-sources)
+  - [Human Development Index (HDI)](#human-development-index-hdi)
+  - [World Happiness Report](#world-happiness-report)
+  - [Global Peace Index](#global-peace-index)
+  - [Data Coverage](#data-coverage)
+- [Data Calculation](#data-calculation)
+- [Setup](#setup)
+- [Usage](#usage)
+  - [Fetch Country Data](#fetch-country-data)
+  - [Convert Country Names to Codes](#convert-country-names-to-codes)
+  - [Process OECD Results](#process-oecd-results)
+  - [Command-Line Arguments](#command-line-arguments)
+- [Example](#example)
+- [Missing OECD Countries](#missing-oecd-countries)
+- [License](#license)
 
 ## Project Structure
 
@@ -50,6 +71,34 @@ The data used in this project covers the following years:
 | Human Development Index (HDI) | 2022 |
 | World Happiness Report        | 2024 |
 | Global Peace Index            | 2024 |
+
+## Data Calculation
+
+The scores in the CSV files in the `data` directory have been normalized to values between 0 (worst) and 1 (best). This normalization allows for a standardized comparison across different datasets. The normalization is done using the following formula:
+
+```python
+normalized_score = (raw_score - min_score) / (max_score - min_score)
+```
+
+### Explanation
+
+- `raw_score`: The original score from the dataset.
+- `min_score`: The minimum score in the dataset.
+- `max_score`: The maximum score in the dataset.
+- `normalized_score`: The normalized score, ranging from 0 to 1.
+
+This process ensures that all scores are on a common scale, making it easier to compare different countries across various metrics such as human development, safety, happiness, etc.
+
+### Note
+
+The normalization process has been done manually using third-party software unrelated to this project. The normalized scores are then used in this project to generate the final rankings and results.
+
+By using normalized scores, the project can provide a more accurate and fair comparison of how each OECD member country excels in different areas.
+
+## Prerequisites
+
+- Python 3.6 or higher
+- Internet connection (for fetching country data)
 
 ## Setup
 
@@ -130,6 +179,21 @@ This will generate `results.json` and `results.csv` files in the root directory,
 The following OECD member countries were excluded from the results due to incomplete data:
 
 - Luxembourg (LU)
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. For major changes, please discuss them in an issue first to ensure they align with the project's goals.
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
+
+## Contact
+
+For questions or support, please contact Joseph Hicks at [jhicksdev@gmail.com](mailto:jhicksdev@gmail.com).
 
 ## License
 
