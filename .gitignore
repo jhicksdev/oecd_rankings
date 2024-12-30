@@ -18,7 +18,7 @@ data/*_UNCODED.csv
 
 # Ignore JSON files
 *.json
-!results.json
+!oecd_analysis.json
 !countries.json
 
 # Ignore log files
