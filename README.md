@@ -15,6 +15,7 @@ For more information about the OECD, please visit the [Organisation for Economic
   - [Social Progress Index (SPI)](#social-progress-index-spi)
   - [Global Gender Gap Report](#global-gender-gap-report)
   - [Legatum Prosperity Index](#legatum-prosperity-index)
+  - [The Economist Democracy Index](#the-economist-democracy-index)
   - [Data Coverage](#data-coverage)
 - [Data Calculation](#data-calculation)
   - [Explanation](#explanation)
