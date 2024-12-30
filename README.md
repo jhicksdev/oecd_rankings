@@ -41,7 +41,7 @@ For more information about the OECD, please visit the [Organisation for Economic
 - `data/uncoded/`: Directory containing uncoded CSV files with international rankings data.
 - `fetch_countries.py`: Fetches country data from an external API and merges it with existing data in `countries.json`.
 - `process_oecd_results.py`: Processes CSV files in the `data` directory, generates results for OECD member countries, and exports the results in JSON format. It also identifies missing OECD member countries.
-- `results.json`: JSON file containing the processed results for OECD member countries.
+- `oecd_analysis.json`: JSON file containing the processed results for OECD member countries.
 
 ## Data Sources
 
@@ -183,7 +183,7 @@ Process CSV files in the `data` directory, generate results for OECD member coun
 
 - `process_oecd_results.py`:
   - `--input-dir`: Input directory containing CSV files (default: `data`).
-  - `--output-file`: Specify the output file for the results. By default, the results are exported to `results.json` in the root directory.
+  - `--output-file`: Specify the output file for the results. By default, the results are exported to `oecd_analysis.json` in the root directory.
 
 ## Example
 
@@ -193,7 +193,7 @@ To process the OECD results and export them in a JSON format, run:
 ./process_oecd_results.py
 ```
 
-This will generate `results.json` in the root directory, and if any OECD member countries are missing from the results, they will be listed in the `missing_countries` section of the `results.json` file.
+This will generate `oecd_analysis.json` in the root directory, and if any OECD member countries are missing from the results, they will be listed in the `missing_countries` section of the `oecd_analysis.json` file.
 
 ## Contributing
 

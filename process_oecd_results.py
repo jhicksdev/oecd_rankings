@@ -12,7 +12,7 @@ from country import Country
 
 ROOT_PATH = Path(dirname(abspath(__file__)))
 DATA_PATH = ROOT_PATH / "data"
-RESULTS_PATH = ROOT_PATH / "results.json"
+OECD_ANALYSIS_PATH = ROOT_PATH / "oecd_analysis.json"
 
 # List of OECD member country codes
 OECD_COUNTRIES = {
@@ -134,7 +134,7 @@ def main():
     logging.basicConfig(level=logging.INFO)
     file_count = process_csv_files(args.input_dir)
 
-    output_file = args.output_file or RESULTS_PATH
+    output_file = args.output_file or OECD_ANALYSIS_PATH
     save_results_as_json(output_file, file_count)
     logging.info(f"Results saved to {output_file}")
 
