@@ -27,7 +27,6 @@ For more information about the OECD, please visit the [Organisation for Economic
   - [Process OECD Results](#process-oecd-results)
   - [Command-Line Arguments](#command-line-arguments)
 - [Example](#example)
-- [Missing OECD Countries](#missing-oecd-countries)
 - [Contributing](#contributing)
 - [Contact](#contact)
 - [License](#license)
@@ -40,8 +39,7 @@ For more information about the OECD, please visit the [Organisation for Economic
 - `data/`: Directory containing CSV files with international rankings data.
 - `data/uncoded/`: Directory containing uncoded CSV files with international rankings data.
 - `fetch_countries.py`: Fetches country data from an external API and merges it with existing data in `countries.json`.
-- `process_oecd_results.py`: Processes CSV files in the `data` directory, generates results for OECD member countries, and exports the results in JSON and/or CSV formats. It also identifies missing OECD member countries.
-- `results.csv`: CSV file containing the processed results for OECD member countries.
+- `process_oecd_results.py`: Processes CSV files in the `data` directory, generates results for OECD member countries, and exports the results in JSON format. It also identifies missing OECD member countries.
 - `results.json`: JSON file containing the processed results for OECD member countries.
 
 ## Data Sources
@@ -76,6 +74,10 @@ The Global Gender Gap Report measures gender-based disparities in areas like eco
 
 The Legatum Prosperity Index ranks countries based on prosperity and well-being, considering factors like economic quality, business environment, governance, and personal freedom. For more information, visit the [Legatum Prosperity Index page](https://www.prosperity.com/).
 
+### The Economist Democracy Index
+
+The Economist Democracy Index ranks countries based on their democratic status, considering factors like electoral process and pluralism, civil liberties, and political culture. For more information, visit the [Economist Intelligence Unit Democracy Index page](https://www.eiu.com/n/campaigns/democracy-index-2023/).
+
 ### Data Coverage
 
 As of December 2024, the datasets used in this project cover the following years:
@@ -88,6 +90,7 @@ As of December 2024, the datasets used in this project cover the following years
 | Human Development Index (HDI) | 2022 |
 | Legatum Prosperity Index      | 2023 |
 | Social Progress Index (SPI)   | 2022 |
+| The Economist Democracy Index | 2023 |
 | World Happiness Report        | 2024 |
 
 ## Data Calculation
@@ -160,10 +163,10 @@ Convert country names in uncoded CSV files to country codes using data from `cou
 
 ### Process OECD Results
 
-Process CSV files in the `data` directory, generate results for OECD member countries, and export the results in JSON and/or CSV formats. It also identifies missing OECD member countries:
+Process CSV files in the `data` directory, generate results for OECD member countries, and export the results in JSON format. It also identifies missing OECD member countries:
 
 ```sh
-./process_oecd_results.py --format both
+./process_oecd_results.py
 ```
 
 ### Command-Line Arguments
@@ -179,24 +182,17 @@ Process CSV files in the `data` directory, generate results for OECD member coun
 
 - `process_oecd_results.py`:
   - `--input-dir`: Input directory containing CSV files (default: `data`).
-  - `--output-file`: Specify the output file for the results. By default, the results are exported to `results.[csv,json]` in the root directory.
-  - `--format`: Output format (`json`, `csv`, or `both`) (default: `both`).
+  - `--output-file`: Specify the output file for the results. By default, the results are exported to `results.json` in the root directory.
 
 ## Example
 
-To process the OECD results and export them in both JSON and CSV formats, run:
+To process the OECD results and export them in a JSON format, run:
 
 ```sh
-./process_oecd_results.py --format both
+./process_oecd_results.py
 ```
 
-This will generate `results.json` and `results.csv` files in the root directory, and if any OECD member countries are missing from the results, a `MISSING_COUNTRIES.txt` file will be created listing those countries.
-
-## Missing OECD Countries
-
-The following OECD member countries were excluded from the results due to incomplete data:
-
-- Luxembourg (LU)
+This will generate `results.json` in the root directory, and if any OECD member countries are missing from the results, they will be listed in the `missing_countries` section of the `results.json` file.
 
 ## Contributing
 

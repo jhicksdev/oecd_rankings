@@ -2,7 +2,7 @@
 
 import argparse
 import logging
-from csv import DictReader, DictWriter
+from csv import DictReader
 from json import dump
 from os import listdir
 from os.path import abspath, dirname
@@ -12,9 +12,7 @@ from country import Country
 
 ROOT_PATH = Path(dirname(abspath(__file__)))
 DATA_PATH = ROOT_PATH / "data"
-RESULTS_PATH_JSON = ROOT_PATH / "results.json"
-RESULTS_PATH_CSV = ROOT_PATH / "results.csv"
-MISSING_COUNTRIES_PATH = ROOT_PATH / "MISSING_COUNTRIES.txt"
+RESULTS_PATH = ROOT_PATH / "results.json"
 
 # List of OECD member country codes
 OECD_COUNTRIES = {
@@ -101,54 +99,19 @@ def save_results_as_json(output_file: Path, required_score_count: int):
                     rank = i + 1
                 result["score"] = round(result["score"], 3)
                 result["rank"] = rank
-            dump(results, file, indent=2)
+
+            missing_countries = [
+                country.code
+                for country in Country.get_all()
+                if country.code in OECD_COUNTRIES
+                and len(country.scores) != required_score_count
+            ]
+
+            output_data = {"results": results, "missing_countries": missing_countries}
+
+            dump(output_data, file, indent=2)
     except IOError as e:
         logging.error(f"Error writing to file {output_file}: {e}")
-
-
-def save_results_as_csv(output_file: Path, required_score_count: int):
-    try:
-        with open(output_file, "w", encoding="utf-8", newline="") as file:
-            fieldnames = ["rank", "country", "score"]
-            writer = DictWriter(file, fieldnames=fieldnames)
-            writer.writeheader()
-            results = sorted(
-                [
-                    country.to_json()
-                    for country in Country.get_all()
-                    if len(country.scores) == required_score_count
-                    and country.code in OECD_COUNTRIES
-                ],
-                key=lambda x: round(x["score"], 3),
-                reverse=True,
-            )
-            rank = 1
-            for i, result in enumerate(results):
-                if i > 0 and round(results[i - 1]["score"], 3) != round(
-                    result["score"], 3
-                ):
-                    rank = i + 1
-                result["score"] = round(result["score"], 3)
-                result["rank"] = rank
-                writer.writerow(result)
-    except IOError as e:
-        logging.error(f"Error writing to file {output_file}: {e}")
-
-
-def save_missing_countries(required_score_count: int):
-    missing_countries = [
-        country.code
-        for country in Country.get_all()
-        if country.code in OECD_COUNTRIES
-        and len(country.scores) != required_score_count
-    ]
-    if missing_countries:
-        try:
-            with open(MISSING_COUNTRIES_PATH, "w", encoding="utf-8") as file:
-                for country_code in missing_countries:
-                    file.write(f"{country_code}\n")
-        except IOError as e:
-            logging.error(f"Error writing to file {MISSING_COUNTRIES_PATH}: {e}")
 
 
 def main():
@@ -166,28 +129,14 @@ def main():
         type=Path,
         help="Output file for results",
     )
-    parser.add_argument(
-        "--format",
-        choices=["json", "csv", "both"],
-        default="both",
-        help="Output format (json, csv, or both)",
-    )
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO)
     file_count = process_csv_files(args.input_dir)
 
-    if args.format in ["json", "both"]:
-        output_file = args.output_file or RESULTS_PATH_JSON
-        save_results_as_json(output_file, file_count)
-        logging.info(f"Results saved to {output_file}")
-
-    if args.format in ["csv", "both"]:
-        output_file = args.output_file or RESULTS_PATH_CSV
-        save_results_as_csv(output_file, file_count)
-        logging.info(f"Results saved to {output_file}")
-
-    save_missing_countries(file_count)
+    output_file = args.output_file or RESULTS_PATH
+    save_results_as_json(output_file, file_count)
+    logging.info(f"Results saved to {output_file}")
 
 
 if __name__ == "__main__":
