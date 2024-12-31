@@ -88,7 +88,7 @@ def main() -> None:
     fetched_countries = fetch_countries(COUNTRIES_API_URL, FIELDS)
     if fetched_countries:
         merged_countries = merge_countries(existing_countries, fetched_countries)
-        save_countries_to_file(merged_countries, COUNTRIES_PATH, args.minify)
+        save_countries_to_file(merged_countries, COUNTRIES_PATH, bool(args.minify))
         logging.info(f"Countries data saved to {COUNTRIES_PATH}")
 
 

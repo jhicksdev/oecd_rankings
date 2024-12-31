@@ -1,5 +1,11 @@
 from __future__ import annotations
-from typing import List, Optional
+from typing import List, Optional, TypedDict
+
+
+class Result(TypedDict):
+    code: str
+    rank: int
+    score: float
 
 
 class Country:
@@ -27,7 +33,7 @@ class Country:
         return Country.__instances
 
     @staticmethod
-    def get_results() -> List[dict]:
+    def get_results() -> List[Result]:
         return [country.to_json() for country in Country.get_all()]
 
     @property
@@ -44,8 +50,9 @@ class Country:
     def get_average_score(self) -> float:
         return sum(self.__scores) / len(self.__scores) if self.__scores else 0.0
 
-    def to_json(self) -> dict:
+    def to_json(self) -> Result:
         return {
-            "country": self.__code,
+            "code": self.__code,
+            "rank": 0,
             "score": self.get_average_score(),
         }

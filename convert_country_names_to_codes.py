@@ -82,10 +82,10 @@ def main() -> None:
         logging.error(f"No countries data found in {COUNTRIES_PATH}")
         return
 
-    for filename in listdir(args.input_dir):
+    for filename in listdir(Path(args.input_dir)):
         if filename.endswith("_UNCODED.csv"):
-            input_file = args.input_dir / filename
-            output_file = args.output_dir / filename.replace("_UNCODED", "")
+            input_file = Path(args.input_dir) / filename
+            output_file = Path(args.output_dir) / filename.replace("_UNCODED", "")
             convert_file(input_file, output_file, countries)
             logging.info(f"Processed file {input_file}")
 

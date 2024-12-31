@@ -7,8 +7,9 @@ from json import dump
 from os import listdir
 from os.path import abspath, dirname
 from pathlib import Path
+from typing import TypedDict
 
-from country import Country
+from country import Country, Result
 
 ROOT_PATH = Path(dirname(abspath(__file__)))
 DATA_PATH = ROOT_PATH / "data"
@@ -57,6 +58,11 @@ OECD_COUNTRIES = {
 }
 
 
+class OutputData(TypedDict):
+    results: list[Result]
+    excluded: list[str]
+
+
 def process_csv_files(input_dir: Path) -> int:
     file_count = 0
     for filename in listdir(input_dir):
@@ -100,14 +106,17 @@ def save_results_as_json(output_file: Path, required_score_count: int):
                 result["score"] = round(result["score"], 3)
                 result["rank"] = rank
 
-            missing_countries = [
+            excluded_countries = [
                 country.code
                 for country in Country.get_all()
                 if country.code in OECD_COUNTRIES
                 and len(country.scores) != required_score_count
             ]
 
-            output_data = {"results": results, "missing_countries": missing_countries}
+            output_data: OutputData = {
+                "results": results,
+                "excluded": excluded_countries,
+            }
 
             dump(output_data, file, indent=2)
     except IOError as e:
@@ -126,7 +135,7 @@ def main():
     )
     parser.add_argument(
         "--output-file",
-        type=Path,
+        type=str,
         help="Output file for results",
     )
     args = parser.parse_args()
@@ -134,7 +143,7 @@ def main():
     logging.basicConfig(level=logging.INFO)
     file_count = process_csv_files(args.input_dir)
 
-    output_file = args.output_file or OECD_ANALYSIS_PATH
+    output_file = Path(args.output_file) if args.output_file else OECD_ANALYSIS_PATH
     save_results_as_json(output_file, file_count)
     logging.info(f"Results saved to {output_file}")
 
