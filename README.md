@@ -170,6 +170,20 @@ Process CSV files in the `data` directory, generate results for OECD member coun
 ./process_oecd_results.py
 ```
 
+### Run All Scripts
+
+To run all scripts in sequence (fetch country data, convert country names to codes, and process OECD results), you can use the `run_all.sh` script:
+
+```sh
+./run_all.sh
+```
+
+This will execute the following commands in order:
+
+1. `./fetch_countries.py --minify`
+2. `./convert_country_names_to_codes.py`
+3. `./process_oecd_results.py`
+
 ### Command-Line Arguments
 
 - `fetch_countries.py`:
