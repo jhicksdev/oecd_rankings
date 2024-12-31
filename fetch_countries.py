@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 
 import argparse
+import logging
 from json import dump, load
 from os.path import abspath, dirname, exists
 from pathlib import Path
-from requests import get, RequestException
-from typing import List, TypedDict, Dict
-import logging
+from typing import Dict, List, TypedDict
+
+from requests import RequestException, get
 
 ROOT_PATH = Path(dirname(abspath(__file__)))
 COUNTRIES_PATH = ROOT_PATH / "countries.json"

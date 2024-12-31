@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 
 import argparse
+import logging
 from csv import DictReader, DictWriter
 from json import load
 from os import listdir
 from os.path import abspath, dirname, exists
 from pathlib import Path
 from typing import List, TypedDict
-import logging
 
 ROOT_PATH = Path(dirname(abspath(__file__)))
 DATA_PATH = ROOT_PATH / "data"

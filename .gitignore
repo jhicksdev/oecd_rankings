@@ -27,3 +27,6 @@ data/*_UNCODED.csv
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+# Ignore cache files
+.ruff_cache/
