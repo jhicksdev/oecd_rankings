@@ -16,6 +16,7 @@ For more information about the OECD, please visit the [Organisation for Economic
   - [Global Gender Gap Report](#global-gender-gap-report)
   - [Legatum Prosperity Index](#legatum-prosperity-index)
   - [The Economist Democracy Index](#the-economist-democracy-index)
+  - [Global Organized Crime Index](#global-organized-crime-index)
   - [Data Coverage](#data-coverage)
 - [Data Calculation](#data-calculation)
   - [Explanation](#explanation)
@@ -79,14 +80,19 @@ The Legatum Prosperity Index ranks countries based on prosperity and well-being,
 
 The Economist Democracy Index ranks countries based on their democratic status, considering factors like electoral process and pluralism, civil liberties, and political culture. For more information, visit the [Economist Intelligence Unit Democracy Index page](https://www.eiu.com/n/campaigns/democracy-index-2023/).
 
+### Global Organized Crime Index
+
+The Global Organized Crime Index ranks countries based on their vulnerability to organized crime, considering factors like corruption, criminal justice, and law enforcement. For more information, visit the [Global Initiative Against Transnational Organized Crime page](https://globalinitiative.net/).
+
 ### Data Coverage
 
-As of December 2024, the datasets used in this project cover the following years:
+As of January 2025, the datasets used in this project cover the following years:
 
 | Dataset                       | Year |
 | ----------------------------- | ---- |
 | Corruption Perceptions Index  | 2023 |
 | Global Gender Gap Report      | 2022 |
+| Global Organized Crime Index  | 2023 |
 | Global Peace Index            | 2024 |
 | Human Development Index (HDI) | 2022 |
 | Legatum Prosperity Index      | 2023 |
