@@ -17,6 +17,8 @@ For more information about the OECD, please visit the [Organisation for Economic
   - [Legatum Prosperity Index](#legatum-prosperity-index)
   - [The Economist Democracy Index](#the-economist-democracy-index)
   - [Global Organized Crime Index](#global-organized-crime-index)
+  - [Environmental Performance Index](#environmental-performance-index)
+  - [WorldRiskIndex](#worldriskindex)
   - [Data Coverage](#data-coverage)
 - [Data Calculation](#data-calculation)
   - [Explanation](#explanation)
@@ -84,21 +86,31 @@ The Economist Democracy Index ranks countries based on their democratic status, 
 
 The Global Organized Crime Index ranks countries based on their vulnerability to organized crime, considering factors like corruption, criminal justice, and law enforcement. For more information, visit the [Global Initiative Against Transnational Organized Crime page](https://globalinitiative.net/).
 
+### Environmental Performance Index
+
+The Environmental Performance Index ranks countries based on environmental health and ecosystem vitality, considering factors like air quality, water resources, and biodiversity. For more information, visit the [Environmental Performance Index page](https://epi.yale.edu/).
+
+### WorldRiskIndex
+
+The WorldRiskIndex ranks countries based on their vulnerability to natural disasters and climate change, considering factors like exposure, susceptibility, and coping capacity. For more information, visit the [WorldRiskIndex page](https://weltrisikobericht.de/worldriskreport/#worldriskindex/).
+
 ### Data Coverage
 
 As of January 2025, the datasets used in this project cover the following years:
 
-| Dataset                       | Year |
-| ----------------------------- | ---- |
-| Corruption Perceptions Index  | 2023 |
-| Global Gender Gap Report      | 2022 |
-| Global Organized Crime Index  | 2023 |
-| Global Peace Index            | 2024 |
-| Human Development Index (HDI) | 2022 |
-| Legatum Prosperity Index      | 2023 |
-| Social Progress Index (SPI)   | 2022 |
-| The Economist Democracy Index | 2023 |
-| World Happiness Report        | 2024 |
+| Dataset                         | Year |
+| ------------------------------- | ---- |
+| Corruption Perceptions Index    | 2023 |
+| Environmental Performance Index | 2024 |
+| Global Gender Gap Report        | 2022 |
+| Global Organized Crime Index    | 2023 |
+| Global Peace Index              | 2024 |
+| Human Development Index (HDI)   | 2022 |
+| Legatum Prosperity Index        | 2023 |
+| Social Progress Index (SPI)     | 2022 |
+| The Economist Democracy Index   | 2023 |
+| World Happiness Report          | 2024 |
+| WorldRiskIndex                  | 2024 |
 
 ## Data Calculation
 
