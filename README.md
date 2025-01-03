@@ -19,6 +19,7 @@ For more information about the OECD, please visit the [Organisation for Economic
   - [Global Organized Crime Index](#global-organized-crime-index)
   - [Environmental Performance Index](#environmental-performance-index)
   - [WorldRiskIndex](#worldriskindex)
+  - [Global Terrorism Index](#global-terrorism-index)
   - [Data Coverage](#data-coverage)
 - [Data Calculation](#data-calculation)
   - [Explanation](#explanation)
@@ -29,6 +30,7 @@ For more information about the OECD, please visit the [Organisation for Economic
   - [Fetch Country Data](#fetch-country-data)
   - [Convert Country Names to Codes](#convert-country-names-to-codes)
   - [Process OECD Results](#process-oecd-results)
+  - [Run All Scripts](#run-all-scripts)
   - [Command-Line Arguments](#command-line-arguments)
 - [Example](#example)
 - [Contributing](#contributing)
@@ -94,6 +96,10 @@ The Environmental Performance Index ranks countries based on environmental healt
 
 The WorldRiskIndex ranks countries based on their vulnerability to natural disasters and climate change, considering factors like exposure, susceptibility, and coping capacity. For more information, visit the [WorldRiskIndex page](https://weltrisikobericht.de/worldriskreport/#worldriskindex/).
 
+### Global Terrorism Index
+
+The Global Terrorism Index ranks countries based on the impact of terrorism and the extent of terrorist activities. It considers factors like the number of terrorist incidents, fatalities, injuries, and property damage. For more information, visit the [Global Terrorism Index page](https://www.visionofhumanity.org/global-terrorism-index/).
+
 ### Data Coverage
 
 As of January 2025, the datasets used in this project cover the following years:
@@ -105,6 +111,7 @@ As of January 2025, the datasets used in this project cover the following years:
 | Global Gender Gap Report        | 2022 |
 | Global Organized Crime Index    | 2023 |
 | Global Peace Index              | 2024 |
+| Global Terrorism Index          | 2024 |
 | Human Development Index (HDI)   | 2022 |
 | Legatum Prosperity Index        | 2023 |
 | Social Progress Index (SPI)     | 2022 |
