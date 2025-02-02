@@ -1,10 +1,9 @@
-from json import dump, load
+from json import dump
 from pathlib import Path
 from typing import List, Optional
 
 from utils.country import Country
 from utils.dataset_manager import DatasetManager
-from utils.paths import CODES_JSON
 
 
 class CountryManager:
@@ -38,18 +37,14 @@ class CountryManager:
         return None
 
     def load(self):
-        with CODES_JSON.open() as file:
-            codes: List[str] = load(file)
-            for code in codes:
-                country = Country(code)
-                self.add_country(country)
-
         dataset_manager = DatasetManager.get_instance()
         for dataset in dataset_manager:
             for record in dataset:
                 country = self.get_country(record.code)
-                if country:
-                    country.add_score(record.score)
+                if country is None:
+                    country = Country(record.code)
+                    self.add_country(country)
+                country.add_score(record.normalized_score)
 
         self._countries = [
             country for country in self._countries if len(country.get_scores()) > 0
@@ -78,6 +73,3 @@ class CountryManager:
                 previous_score = result["score"]  # type: ignore
 
             dump(results, file, separators=(",", ":"))
-
-
-__all__ = ["CountryManager"]

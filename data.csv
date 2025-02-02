@@ -1,2050 +1,455 @@
-dataset,year,country,score,normalized_score
-Corruption Perceptions Index,2023,DK,90,1
-Corruption Perceptions Index,2023,FI,87,0.962025316455696
-Corruption Perceptions Index,2023,NZ,85,0.936708860759494
-Corruption Perceptions Index,2023,NO,84,0.924050632911392
-Corruption Perceptions Index,2023,SG,83,0.911392405063291
-Corruption Perceptions Index,2023,SE,82,0.89873417721519
-Corruption Perceptions Index,2023,CH,82,0.89873417721519
-Corruption Perceptions Index,2023,NL,79,0.860759493670886
-Corruption Perceptions Index,2023,DE,78,0.848101265822785
-Corruption Perceptions Index,2023,LU,78,0.848101265822785
-Corruption Perceptions Index,2023,IE,77,0.835443037974684
-Corruption Perceptions Index,2023,CA,76,0.822784810126582
-Corruption Perceptions Index,2023,EE,76,0.822784810126582
-Corruption Perceptions Index,2023,AU,75,0.810126582278481
-Corruption Perceptions Index,2023,HK,75,0.810126582278481
-Corruption Perceptions Index,2023,BE,73,0.784810126582278
-Corruption Perceptions Index,2023,JP,73,0.784810126582278
-Corruption Perceptions Index,2023,UY,73,0.784810126582278
-Corruption Perceptions Index,2023,IS,72,0.772151898734177
-Corruption Perceptions Index,2023,AT,71,0.759493670886076
-Corruption Perceptions Index,2023,FR,71,0.759493670886076
-Corruption Perceptions Index,2023,SC,71,0.759493670886076
-Corruption Perceptions Index,2023,GB,71,0.759493670886076
-Corruption Perceptions Index,2023,BB,69,0.734177215189873
-Corruption Perceptions Index,2023,US,69,0.734177215189873
-Corruption Perceptions Index,2023,BT,68,0.721518987341772
-Corruption Perceptions Index,2023,AE,68,0.721518987341772
-Corruption Perceptions Index,2023,TW,67,0.708860759493671
-Corruption Perceptions Index,2023,CL,66,0.69620253164557
-Corruption Perceptions Index,2023,BS,64,0.670886075949367
-Corruption Perceptions Index,2023,CV,64,0.670886075949367
-Corruption Perceptions Index,2023,KR,63,0.658227848101266
-Corruption Perceptions Index,2023,IL,62,0.645569620253165
-Corruption Perceptions Index,2023,LT,61,0.632911392405063
-Corruption Perceptions Index,2023,PT,61,0.632911392405063
-Corruption Perceptions Index,2023,LV,60,0.620253164556962
-Corruption Perceptions Index,2023,VC,60,0.620253164556962
-Corruption Perceptions Index,2023,ES,60,0.620253164556962
-Corruption Perceptions Index,2023,BW,59,0.607594936708861
-Corruption Perceptions Index,2023,QA,58,0.594936708860759
-Corruption Perceptions Index,2023,CZ,57,0.582278481012658
-Corruption Perceptions Index,2023,DM,56,0.569620253164557
-Corruption Perceptions Index,2023,IT,56,0.569620253164557
-Corruption Perceptions Index,2023,SI,56,0.569620253164557
-Corruption Perceptions Index,2023,CR,55,0.556962025316456
-Corruption Perceptions Index,2023,LC,55,0.556962025316456
-Corruption Perceptions Index,2023,PL,54,0.544303797468354
-Corruption Perceptions Index,2023,SK,54,0.544303797468354
-Corruption Perceptions Index,2023,CY,53,0.531645569620253
-Corruption Perceptions Index,2023,GE,53,0.531645569620253
-Corruption Perceptions Index,2023,GD,53,0.531645569620253
-Corruption Perceptions Index,2023,RW,53,0.531645569620253
-Corruption Perceptions Index,2023,FJ,52,0.518987341772152
-Corruption Perceptions Index,2023,SA,52,0.518987341772152
-Corruption Perceptions Index,2023,MT,51,0.506329113924051
-Corruption Perceptions Index,2023,MU,51,0.506329113924051
-Corruption Perceptions Index,2023,HR,50,0.493670886075949
-Corruption Perceptions Index,2023,MY,50,0.493670886075949
-Corruption Perceptions Index,2023,GR,49,0.481012658227848
-Corruption Perceptions Index,2023,NA,49,0.481012658227848
-Corruption Perceptions Index,2023,VU,48,0.468354430379747
-Corruption Perceptions Index,2023,AM,47,0.455696202531646
-Corruption Perceptions Index,2023,JO,46,0.443037974683544
-Corruption Perceptions Index,2023,KW,46,0.443037974683544
-Corruption Perceptions Index,2023,ME,46,0.443037974683544
-Corruption Perceptions Index,2023,RO,46,0.443037974683544
-Corruption Perceptions Index,2023,BG,45,0.430379746835443
-Corruption Perceptions Index,2023,ST,45,0.430379746835443
-Corruption Perceptions Index,2023,JM,44,0.417721518987342
-Corruption Perceptions Index,2023,BJ,43,0.405063291139241
-Corruption Perceptions Index,2023,GH,43,0.405063291139241
-Corruption Perceptions Index,2023,OM,43,0.405063291139241
-Corruption Perceptions Index,2023,SN,43,0.405063291139241
-Corruption Perceptions Index,2023,SB,43,0.405063291139241
-Corruption Perceptions Index,2023,TL,43,0.405063291139241
-Corruption Perceptions Index,2023,BH,42,0.392405063291139
-Corruption Perceptions Index,2023,CN,42,0.392405063291139
-Corruption Perceptions Index,2023,CU,42,0.392405063291139
-Corruption Perceptions Index,2023,HU,42,0.392405063291139
-Corruption Perceptions Index,2023,MD,42,0.392405063291139
-Corruption Perceptions Index,2023,MK,42,0.392405063291139
-Corruption Perceptions Index,2023,TT,42,0.392405063291139
-Corruption Perceptions Index,2023,BF,41,0.379746835443038
-Corruption Perceptions Index,2023,XK,41,0.379746835443038
-Corruption Perceptions Index,2023,ZA,41,0.379746835443038
-Corruption Perceptions Index,2023,VN,41,0.379746835443038
-Corruption Perceptions Index,2023,CO,40,0.367088607594937
-Corruption Perceptions Index,2023,CI,40,0.367088607594937
-Corruption Perceptions Index,2023,GY,40,0.367088607594937
-Corruption Perceptions Index,2023,SR,40,0.367088607594937
-Corruption Perceptions Index,2023,TZ,40,0.367088607594937
-Corruption Perceptions Index,2023,TN,40,0.367088607594937
-Corruption Perceptions Index,2023,IN,39,0.354430379746835
-Corruption Perceptions Index,2023,KZ,39,0.354430379746835
-Corruption Perceptions Index,2023,LS,39,0.354430379746835
-Corruption Perceptions Index,2023,MV,39,0.354430379746835
-Corruption Perceptions Index,2023,MA,38,0.341772151898734
-Corruption Perceptions Index,2023,AL,37,0.329113924050633
-Corruption Perceptions Index,2023,AR,37,0.329113924050633
-Corruption Perceptions Index,2023,BY,37,0.329113924050633
-Corruption Perceptions Index,2023,ET,37,0.329113924050633
-Corruption Perceptions Index,2023,GM,37,0.329113924050633
-Corruption Perceptions Index,2023,ZM,37,0.329113924050633
-Corruption Perceptions Index,2023,DZ,36,0.316455696202532
-Corruption Perceptions Index,2023,BR,36,0.316455696202532
-Corruption Perceptions Index,2023,RS,36,0.316455696202532
-Corruption Perceptions Index,2023,UA,36,0.316455696202532
-Corruption Perceptions Index,2023,BA,35,0.30379746835443
-Corruption Perceptions Index,2023,DO,35,0.30379746835443
-Corruption Perceptions Index,2023,EG,35,0.30379746835443
-Corruption Perceptions Index,2023,NP,35,0.30379746835443
-Corruption Perceptions Index,2023,PA,35,0.30379746835443
-Corruption Perceptions Index,2023,SL,35,0.30379746835443
-Corruption Perceptions Index,2023,TH,35,0.30379746835443
-Corruption Perceptions Index,2023,EC,34,0.291139240506329
-Corruption Perceptions Index,2023,ID,34,0.291139240506329
-Corruption Perceptions Index,2023,MW,34,0.291139240506329
-Corruption Perceptions Index,2023,PH,34,0.291139240506329
-Corruption Perceptions Index,2023,LK,34,0.291139240506329
-Corruption Perceptions Index,2023,TR,34,0.291139240506329
-Corruption Perceptions Index,2023,AO,33,0.278481012658228
-Corruption Perceptions Index,2023,MN,33,0.278481012658228
-Corruption Perceptions Index,2023,PE,33,0.278481012658228
-Corruption Perceptions Index,2023,UZ,33,0.278481012658228
-Corruption Perceptions Index,2023,NE,32,0.265822784810127
-Corruption Perceptions Index,2023,SV,31,0.253164556962025
-Corruption Perceptions Index,2023,KE,31,0.253164556962025
-Corruption Perceptions Index,2023,MX,31,0.253164556962025
-Corruption Perceptions Index,2023,TG,31,0.253164556962025
-Corruption Perceptions Index,2023,DJ,30,0.240506329113924
-Corruption Perceptions Index,2023,SZ,30,0.240506329113924
-Corruption Perceptions Index,2023,MR,30,0.240506329113924
-Corruption Perceptions Index,2023,BO,29,0.227848101265823
-Corruption Perceptions Index,2023,PK,29,0.227848101265823
-Corruption Perceptions Index,2023,PG,29,0.227848101265823
-Corruption Perceptions Index,2023,GA,28,0.215189873417722
-Corruption Perceptions Index,2023,LA,28,0.215189873417722
-Corruption Perceptions Index,2023,ML,28,0.215189873417722
-Corruption Perceptions Index,2023,PY,28,0.215189873417722
-Corruption Perceptions Index,2023,CM,27,0.20253164556962
-Corruption Perceptions Index,2023,GN,26,0.189873417721519
-Corruption Perceptions Index,2023,KG,26,0.189873417721519
-Corruption Perceptions Index,2023,RU,26,0.189873417721519
-Corruption Perceptions Index,2023,UG,26,0.189873417721519
-Corruption Perceptions Index,2023,LR,25,0.177215189873418
-Corruption Perceptions Index,2023,MG,25,0.177215189873418
-Corruption Perceptions Index,2023,MZ,25,0.177215189873418
-Corruption Perceptions Index,2023,NG,25,0.177215189873418
-Corruption Perceptions Index,2023,BD,24,0.164556962025316
-Corruption Perceptions Index,2023,CF,24,0.164556962025316
-Corruption Perceptions Index,2023,IR,24,0.164556962025316
-Corruption Perceptions Index,2023,LB,24,0.164556962025316
-Corruption Perceptions Index,2023,ZW,24,0.164556962025316
-Corruption Perceptions Index,2023,AZ,23,0.151898734177215
-Corruption Perceptions Index,2023,GT,23,0.151898734177215
-Corruption Perceptions Index,2023,HN,23,0.151898734177215
-Corruption Perceptions Index,2023,IQ,23,0.151898734177215
-Corruption Perceptions Index,2023,KH,22,0.139240506329114
-Corruption Perceptions Index,2023,CG,22,0.139240506329114
-Corruption Perceptions Index,2023,GW,22,0.139240506329114
-Corruption Perceptions Index,2023,ER,21,0.126582278481013
-Corruption Perceptions Index,2023,AF,20,0.113924050632911
-Corruption Perceptions Index,2023,BI,20,0.113924050632911
-Corruption Perceptions Index,2023,TD,20,0.113924050632911
-Corruption Perceptions Index,2023,KM,20,0.113924050632911
-Corruption Perceptions Index,2023,CD,20,0.113924050632911
-Corruption Perceptions Index,2023,MM,20,0.113924050632911
-Corruption Perceptions Index,2023,SD,20,0.113924050632911
-Corruption Perceptions Index,2023,TJ,20,0.113924050632911
-Corruption Perceptions Index,2023,LY,18,0.0886075949367089
-Corruption Perceptions Index,2023,TM,18,0.0886075949367089
-Corruption Perceptions Index,2023,GQ,17,0.0759493670886076
-Corruption Perceptions Index,2023,HT,17,0.0759493670886076
-Corruption Perceptions Index,2023,KP,17,0.0759493670886076
-Corruption Perceptions Index,2023,NI,17,0.0759493670886076
-Corruption Perceptions Index,2023,YE,16,0.0632911392405063
-Corruption Perceptions Index,2023,SS,13,0.0253164556962025
-Corruption Perceptions Index,2023,SY,13,0.0253164556962025
-Corruption Perceptions Index,2023,VE,13,0.0253164556962025
-Corruption Perceptions Index,2023,SO,11,0
-Environmental Performance Index,2024,EE,75.7,1
-Environmental Performance Index,2024,LU,75.1,0.98825831702544
-Environmental Performance Index,2024,DE,74.5,0.976516634050881
-Environmental Performance Index,2024,FI,73.8,0.962818003913894
-Environmental Performance Index,2024,GB,72.6,0.939334637964775
-Environmental Performance Index,2024,SE,70.3,0.894324853228963
-Environmental Performance Index,2024,NO,69.9,0.886497064579256
-Environmental Performance Index,2024,AT,68.9,0.86692759295499
-Environmental Performance Index,2024,CH,67.8,0.845401174168297
-Environmental Performance Index,2024,DK,67.7,0.843444227005871
-Environmental Performance Index,2024,GR,67.3,0.835616438356164
-Environmental Performance Index,2024,FR,67,0.829745596868885
-Environmental Performance Index,2024,MT,66.9,0.827788649706458
-Environmental Performance Index,2024,NL,66.9,0.827788649706458
-Environmental Performance Index,2024,BE,66.8,0.825831702544031
-Environmental Performance Index,2024,IE,65.8,0.806262230919765
-Environmental Performance Index,2024,CZ,65.5,0.800391389432485
-Environmental Performance Index,2024,SK,65.1,0.792563600782779
-Environmental Performance Index,2024,IS,64.3,0.776908023483366
-Environmental Performance Index,2024,PL,64.2,0.774951076320939
-Environmental Performance Index,2024,LT,64.1,0.772994129158513
-Environmental Performance Index,2024,ES,64,0.771037181996086
-Environmental Performance Index,2024,AU,63.1,0.753424657534247
-Environmental Performance Index,2024,SI,62.4,0.73972602739726
-Environmental Performance Index,2024,HR,62.3,0.737769080234834
-Environmental Performance Index,2024,PT,61.9,0.729941291585127
-Environmental Performance Index,2024,JP,61.4,0.720156555772994
-Environmental Performance Index,2024,CA,61.1,0.714285714285714
-Environmental Performance Index,2024,IT,60.3,0.698630136986301
-Environmental Performance Index,2024,LV,60.2,0.696673189823875
-Environmental Performance Index,2024,HU,59.8,0.688845401174168
-Environmental Performance Index,2024,BY,58.2,0.657534246575342
-Environmental Performance Index,2024,NZ,57.3,0.639921722113503
-Environmental Performance Index,2024,RO,57.3,0.639921722113503
-Environmental Performance Index,2024,US,57.2,0.637964774951076
-Environmental Performance Index,2024,SR,56.9,0.632093933463796
-Environmental Performance Index,2024,BG,56.2,0.61839530332681
-Environmental Performance Index,2024,BS,55.9,0.61252446183953
-Environmental Performance Index,2024,AG,55.6,0.606653620352251
-Environmental Performance Index,2024,CR,55.5,0.604696673189824
-Environmental Performance Index,2024,UA,54.6,0.587084148727984
-Environmental Performance Index,2024,VC,54.2,0.579256360078278
-Environmental Performance Index,2024,CY,53.9,0.573385518590998
-Environmental Performance Index,2024,GA,53.3,0.561643835616438
-Environmental Performance Index,2024,VE,53.3,0.561643835616438
-Environmental Performance Index,2024,BB,53.1,0.557729941291585
-Environmental Performance Index,2024,BR,53,0.555772994129159
-Environmental Performance Index,2024,SG,53,0.555772994129159
-Environmental Performance Index,2024,PA,52.9,0.553816046966732
-Environmental Performance Index,2024,CU,52.5,0.545988258317025
-Environmental Performance Index,2024,TT,52.5,0.545988258317025
-Environmental Performance Index,2024,AL,52.2,0.540117416829746
-Environmental Performance Index,2024,AE,51.6,0.528375733855186
-Environmental Performance Index,2024,ZW,51.6,0.528375733855186
-Environmental Performance Index,2024,EC,51.3,0.522504892367906
-Environmental Performance Index,2024,OM,51.3,0.522504892367906
-Environmental Performance Index,2024,LC,51.1,0.518590998043053
-Environmental Performance Index,2024,KR,50.6,0.50880626223092
-Environmental Performance Index,2024,MK,50.3,0.50293542074364
-Environmental Performance Index,2024,TW,50.1,0.499021526418787
-Environmental Performance Index,2024,TL,49.9,0.495107632093933
-Environmental Performance Index,2024,RS,49.8,0.493150684931507
-Environmental Performance Index,2024,CO,49.7,0.49119373776908
-Environmental Performance Index,2024,CL,49.6,0.489236790606654
-Environmental Performance Index,2024,DM,49.3,0.483365949119374
-Environmental Performance Index,2024,BW,49.2,0.481409001956947
-Environmental Performance Index,2024,GY,49,0.477495107632094
-Environmental Performance Index,2024,JM,48.5,0.467710371819961
-Environmental Performance Index,2024,BN,48.3,0.463796477495108
-Environmental Performance Index,2024,IL,48,0.457925636007828
-Environmental Performance Index,2024,SC,47.9,0.455968688845401
-Environmental Performance Index,2024,KZ,47.8,0.454011741682975
-Environmental Performance Index,2024,DO,47.7,0.452054794520548
-Environmental Performance Index,2024,ME,47.7,0.452054794520548
-Environmental Performance Index,2024,BZ,47.4,0.446183953033268
-Environmental Performance Index,2024,NI,47.4,0.446183953033268
-Environmental Performance Index,2024,GE,47.3,0.444227005870841
-Environmental Performance Index,2024,JO,47.3,0.444227005870841
-Environmental Performance Index,2024,MU,47.3,0.444227005870841
-Environmental Performance Index,2024,WS,47.1,0.440313111545988
-Environmental Performance Index,2024,AR,47,0.438356164383562
-Environmental Performance Index,2024,QA,46.8,0.434442270058708
-Environmental Performance Index,2024,RU,46.7,0.432485322896282
-Environmental Performance Index,2024,ZM,46.7,0.432485322896282
-Environmental Performance Index,2024,PE,46.5,0.428571428571429
-Environmental Performance Index,2024,MD,46.1,0.420743639921722
-Environmental Performance Index,2024,BA,46,0.418786692759296
-Environmental Performance Index,2024,FJ,46,0.418786692759296
-Environmental Performance Index,2024,GD,45.8,0.414872798434442
-Environmental Performance Index,2024,TH,45.7,0.412915851272016
-Environmental Performance Index,2024,BO,45.3,0.405088062622309
-Environmental Performance Index,2024,TN,45.3,0.405088062622309
-Environmental Performance Index,2024,VU,45,0.399217221135029
-Environmental Performance Index,2024,AM,44.9,0.397260273972603
-Environmental Performance Index,2024,KW,44.4,0.38747553816047
-Environmental Performance Index,2024,KI,44.3,0.385518590998043
-Environmental Performance Index,2024,MX,44.2,0.383561643835617
-Environmental Performance Index,2024,UY,44.1,0.38160469667319
-Environmental Performance Index,2024,NA,44,0.379647749510763
-Environmental Performance Index,2024,SN,43.8,0.37573385518591
-Environmental Performance Index,2024,EG,43.7,0.373776908023483
-Environmental Performance Index,2024,TZ,43.6,0.371819960861057
-Environmental Performance Index,2024,BT,43.3,0.365949119373777
-Environmental Performance Index,2024,CI,42.9,0.35812133072407
-Environmental Performance Index,2024,KG,42.8,0.356164383561644
-Environmental Performance Index,2024,ZA,42.7,0.354207436399217
-Environmental Performance Index,2024,UZ,42.6,0.352250489236791
-Environmental Performance Index,2024,MH,42.5,0.350293542074364
-Environmental Performance Index,2024,SA,42.5,0.350293542074364
-Environmental Performance Index,2024,BF,42.2,0.344422700587084
-Environmental Performance Index,2024,SB,42.2,0.344422700587084
-Environmental Performance Index,2024,GW,42,0.340508806262231
-Environmental Performance Index,2024,IR,41.8,0.336594911937378
-Environmental Performance Index,2024,DZ,41.7,0.334637964774951
-Environmental Performance Index,2024,GQ,41.7,0.334637964774951
-Environmental Performance Index,2024,SV,41.6,0.332681017612524
-Environmental Performance Index,2024,CG,41.6,0.332681017612524
-Environmental Performance Index,2024,MY,41,0.320939334637965
-Environmental Performance Index,2024,FM,40.8,0.317025440313112
-Environmental Performance Index,2024,TM,40.6,0.313111545988258
-Environmental Performance Index,2024,AZ,40.5,0.311154598825832
-Environmental Performance Index,2024,TO,40.4,0.309197651663405
-Environmental Performance Index,2024,HN,40.2,0.305283757338552
-Environmental Performance Index,2024,AO,40.1,0.303326810176125
-Environmental Performance Index,2024,NE,40,0.301369863013699
-Environmental Performance Index,2024,LB,39.9,0.299412915851272
-Environmental Performance Index,2024,SL,39.9,0.299412915851272
-Environmental Performance Index,2024,CD,39.5,0.291585127201566
-Environmental Performance Index,2024,MA,39.5,0.291585127201566
-Environmental Performance Index,2024,PY,39.5,0.291585127201566
-Environmental Performance Index,2024,SD,39.1,0.283757338551859
-Environmental Performance Index,2024,CF,39,0.281800391389432
-Environmental Performance Index,2024,MZ,39,0.281800391389432
-Environmental Performance Index,2024,LK,38.8,0.277886497064579
-Environmental Performance Index,2024,SZ,38.7,0.275929549902153
-Environmental Performance Index,2024,CM,38.6,0.273972602739726
-Environmental Performance Index,2024,KM,38.2,0.26614481409002
-Environmental Performance Index,2024,MV,38.1,0.264187866927593
-Environmental Performance Index,2024,CV,38,0.262230919765166
-Environmental Performance Index,2024,NG,37.9,0.26027397260274
-Environmental Performance Index,2024,BJ,37.8,0.258317025440313
-Environmental Performance Index,2024,GM,37.6,0.25440313111546
-Environmental Performance Index,2024,MN,37.2,0.246575342465753
-Environmental Performance Index,2024,TR,37.2,0.246575342465753
-Environmental Performance Index,2024,GH,36.9,0.240704500978474
-Environmental Performance Index,2024,KE,36.9,0.240704500978474
-Environmental Performance Index,2024,LS,36.9,0.240704500978474
-Environmental Performance Index,2024,PG,36.9,0.240704500978474
-Environmental Performance Index,2024,GN,36.5,0.232876712328767
-Environmental Performance Index,2024,HT,36.4,0.23091976516634
-Environmental Performance Index,2024,ET,36.3,0.228962818003914
-Environmental Performance Index,2024,ST,36.2,0.227005870841487
-Environmental Performance Index,2024,TD,35.9,0.221135029354207
-Environmental Performance Index,2024,UG,35.8,0.219178082191781
-Environmental Performance Index,2024,TG,35.7,0.217221135029354
-Environmental Performance Index,2024,CN,35.4,0.211350293542074
-Environmental Performance Index,2024,BH,35.3,0.209393346379648
-Environmental Performance Index,2024,MW,35.1,0.205479452054795
-Environmental Performance Index,2024,MR,34.6,0.195694716242661
-Environmental Performance Index,2024,ML,34.5,0.193737769080235
-Environmental Performance Index,2024,LR,34.3,0.189823874755382
-Environmental Performance Index,2024,RW,33.9,0.181996086105675
-Environmental Performance Index,2024,ID,33.6,0.176125244618395
-Environmental Performance Index,2024,BI,33.5,0.174168297455969
-Environmental Performance Index,2024,NP,33.1,0.166340508806262
-Environmental Performance Index,2024,GT,32.5,0.154598825831703
-Environmental Performance Index,2024,DJ,32.3,0.150684931506849
-Environmental Performance Index,2024,TJ,32.3,0.150684931506849
-Environmental Performance Index,2024,PH,32.1,0.146771037181996
-Environmental Performance Index,2024,KH,31.2,0.129158512720157
-Environmental Performance Index,2024,AF,31,0.125244618395303
-Environmental Performance Index,2024,IQ,30.3,0.111545988258317
-Environmental Performance Index,2024,MG,30.1,0.107632093933464
-Environmental Performance Index,2024,ER,29,0.086105675146771
-Environmental Performance Index,2024,BD,28.1,0.0684931506849315
-Environmental Performance Index,2024,IN,27.6,0.0587084148727984
-Environmental Performance Index,2024,MM,27.1,0.0489236790606654
-Environmental Performance Index,2024,LA,26.3,0.0332681017612524
-Environmental Performance Index,2024,PK,25.5,0.0176125244618395
-Environmental Performance Index,2024,VN,24.6,0
-Global Gender Gap Report,2022,IS,0.908,1
-Global Gender Gap Report,2022,FI,0.86,0.898520084566596
-Global Gender Gap Report,2022,NO,0.845,0.866807610993657
-Global Gender Gap Report,2022,NZ,0.841,0.858350951374207
-Global Gender Gap Report,2022,SE,0.822,0.818181818181818
-Global Gender Gap Report,2022,RW,0.811,0.79492600422833
-Global Gender Gap Report,2022,NI,0.81,0.792811839323467
-Global Gender Gap Report,2022,NA,0.807,0.78646934460888
-Global Gender Gap Report,2022,IE,0.804,0.780126849894292
-Global Gender Gap Report,2022,DE,0.801,0.773784355179704
-Global Gender Gap Report,2022,LT,0.799,0.769556025369979
-Global Gender Gap Report,2022,CR,0.796,0.763213530655391
-Global Gender Gap Report,2022,CH,0.795,0.761099365750529
-Global Gender Gap Report,2022,BE,0.793,0.756871035940803
-Global Gender Gap Report,2022,FR,0.791,0.752642706131078
-Global Gender Gap Report,2022,MD,0.788,0.746300211416491
-Global Gender Gap Report,2022,ES,0.788,0.746300211416491
-Global Gender Gap Report,2022,AL,0.787,0.744186046511628
-Global Gender Gap Report,2022,PH,0.783,0.735729386892178
-Global Gender Gap Report,2022,ZA,0.782,0.733615221987315
-Global Gender Gap Report,2022,AT,0.781,0.731501057082453
-Global Gender Gap Report,2022,GB,0.78,0.72938689217759
-Global Gender Gap Report,2022,RS,0.779,0.727272727272727
-Global Gender Gap Report,2022,BI,0.777,0.723044397463002
-Global Gender Gap Report,2022,CA,0.772,0.712473572938689
-Global Gender Gap Report,2022,LV,0.771,0.710359408033827
-Global Gender Gap Report,2022,US,0.769,0.706131078224102
-Global Gender Gap Report,2022,NL,0.767,0.701902748414376
-Global Gender Gap Report,2022,PT,0.766,0.699788583509514
-Global Gender Gap Report,2022,BB,0.765,0.697674418604651
-Global Gender Gap Report,2022,DK,0.764,0.695560253699789
-Global Gender Gap Report,2022,MX,0.764,0.695560253699789
-Global Gender Gap Report,2022,AR,0.756,0.678646934460888
-Global Gender Gap Report,2022,GY,0.752,0.670190274841438
-Global Gender Gap Report,2022,MZ,0.752,0.670190274841438
-Global Gender Gap Report,2022,BY,0.75,0.665961945031713
-Global Gender Gap Report,2022,JM,0.749,0.66384778012685
-Global Gender Gap Report,2022,PE,0.749,0.66384778012685
-Global Gender Gap Report,2022,SI,0.744,0.653276955602537
-Global Gender Gap Report,2022,EC,0.743,0.651162790697674
-Global Gender Gap Report,2022,PA,0.743,0.651162790697674
-Global Gender Gap Report,2022,BG,0.74,0.644820295983087
-Global Gender Gap Report,2022,AU,0.738,0.640591966173361
-Global Gender Gap Report,2022,SR,0.737,0.638477801268499
-Global Gender Gap Report,2022,CV,0.736,0.636363636363636
-Global Gender Gap Report,2022,CL,0.736,0.636363636363636
-Global Gender Gap Report,2022,LU,0.736,0.636363636363636
-Global Gender Gap Report,2022,MG,0.735,0.634249471458774
-Global Gender Gap Report,2022,BO,0.734,0.632135306553911
-Global Gender Gap Report,2022,SG,0.734,0.632135306553911
-Global Gender Gap Report,2022,ZW,0.734,0.632135306553911
-Global Gender Gap Report,2022,EE,0.733,0.630021141649049
-Global Gender Gap Report,2022,LA,0.733,0.630021141649049
-Global Gender Gap Report,2022,ME,0.732,0.627906976744186
-Global Gender Gap Report,2022,GE,0.731,0.625792811839323
-Global Gender Gap Report,2022,TL,0.73,0.623678646934461
-Global Gender Gap Report,2022,KE,0.729,0.621564482029598
-Global Gender Gap Report,2022,SZ,0.728,0.619450317124736
-Global Gender Gap Report,2022,SV,0.727,0.617336152219873
-Global Gender Gap Report,2022,IL,0.727,0.617336152219873
-Global Gender Gap Report,2022,UG,0.724,0.610993657505285
-Global Gender Gap Report,2022,ZM,0.723,0.608879492600423
-Global Gender Gap Report,2022,IT,0.72,0.602536997885835
-Global Gender Gap Report,2022,BW,0.719,0.600422832980972
-Global Gender Gap Report,2022,KZ,0.719,0.600422832980972
-Global Gender Gap Report,2022,TZ,0.719,0.600422832980972
-Global Gender Gap Report,2022,SK,0.717,0.596194503171247
-Global Gender Gap Report,2022,MK,0.716,0.594080338266385
-Global Gender Gap Report,2022,AE,0.716,0.594080338266385
-Global Gender Gap Report,2022,MN,0.715,0.591966173361522
-Global Gender Gap Report,2022,BD,0.714,0.58985200845666
-Global Gender Gap Report,2022,UY,0.711,0.583509513742072
-Global Gender Gap Report,2022,BA,0.71,0.581395348837209
-Global Gender Gap Report,2022,CO,0.71,0.581395348837209
-Global Gender Gap Report,2022,CZ,0.71,0.581395348837209
-Global Gender Gap Report,2022,ET,0.71,0.581395348837209
-Global Gender Gap Report,2022,LR,0.709,0.579281183932347
-Global Gender Gap Report,2022,PL,0.709,0.579281183932347
-Global Gender Gap Report,2022,TH,0.709,0.579281183932347
-Global Gender Gap Report,2022,PY,0.707,0.575052854122621
-Global Gender Gap Report,2022,UA,0.707,0.575052854122621
-Global Gender Gap Report,2022,HN,0.705,0.570824524312896
-Global Gender Gap Report,2022,VN,0.705,0.570824524312896
-Global Gender Gap Report,2022,DO,0.703,0.566596194503171
-Global Gender Gap Report,2022,MT,0.703,0.566596194503171
-Global Gender Gap Report,2022,KG,0.7,0.560253699788583
-Global Gender Gap Report,2022,LS,0.7,0.560253699788583
-Global Gender Gap Report,2022,HU,0.699,0.558139534883721
-Global Gender Gap Report,2022,AM,0.698,0.556025369978858
-Global Gender Gap Report,2022,RO,0.698,0.556025369978858
-Global Gender Gap Report,2022,ID,0.697,0.553911205073996
-Global Gender Gap Report,2022,TG,0.697,0.553911205073996
-Global Gender Gap Report,2022,BR,0.696,0.551797040169133
-Global Gender Gap Report,2022,CY,0.696,0.551797040169133
-Global Gender Gap Report,2022,BZ,0.695,0.549682875264271
-Global Gender Gap Report,2022,CM,0.692,0.543340380549683
-Global Gender Gap Report,2022,NP,0.692,0.543340380549683
-Global Gender Gap Report,2022,KH,0.69,0.539112050739958
-Global Gender Gap Report,2022,GR,0.689,0.536997885835095
-Global Gender Gap Report,2022,KR,0.689,0.536997885835095
-Global Gender Gap Report,2022,AZ,0.687,0.53276955602537
-Global Gender Gap Report,2022,CN,0.682,0.522198731501057
-Global Gender Gap Report,2022,MY,0.681,0.520084566596195
-Global Gender Gap Report,2022,BN,0.68,0.517970401691332
-Global Gender Gap Report,2022,MU,0.679,0.515856236786469
-Global Gender Gap Report,2022,MM,0.677,0.511627906976744
-Global Gender Gap Report,2022,FJ,0.676,0.509513742071882
-Global Gender Gap Report,2022,GH,0.672,0.501057082452431
-Global Gender Gap Report,2022,SL,0.672,0.501057082452431
-Global Gender Gap Report,2022,LK,0.67,0.496828752642706
-Global Gender Gap Report,2022,VU,0.67,0.496828752642706
-Global Gender Gap Report,2022,SN,0.668,0.492600422832981
-Global Gender Gap Report,2022,GT,0.664,0.484143763213531
-Global Gender Gap Report,2022,TJ,0.663,0.482029598308668
-Global Gender Gap Report,2022,BF,0.659,0.473572938689218
-Global Gender Gap Report,2022,JP,0.65,0.454545454545455
-Global Gender Gap Report,2022,MV,0.648,0.450317124735729
-Global Gender Gap Report,2022,GN,0.647,0.448202959830867
-Global Gender Gap Report,2022,LB,0.644,0.441860465116279
-Global Gender Gap Report,2022,TN,0.643,0.439746300211417
-Global Gender Gap Report,2022,GM,0.641,0.435517970401691
-Global Gender Gap Report,2022,JO,0.639,0.431289640591966
-Global Gender Gap Report,2022,NG,0.639,0.431289640591966
-Global Gender Gap Report,2022,TR,0.639,0.431289640591966
-Global Gender Gap Report,2022,AO,0.638,0.429175475687104
-Global Gender Gap Report,2022,BT,0.637,0.427061310782241
-Global Gender Gap Report,2022,SA,0.636,0.424947145877378
-Global Gender Gap Report,2022,EG,0.635,0.422832980972516
-Global Gender Gap Report,2022,NE,0.635,0.422832980972516
-Global Gender Gap Report,2022,BH,0.632,0.416490486257928
-Global Gender Gap Report,2022,CI,0.632,0.416490486257928
-Global Gender Gap Report,2022,KW,0.632,0.416490486257928
-Global Gender Gap Report,2022,MW,0.632,0.416490486257928
-Global Gender Gap Report,2022,KM,0.631,0.414376321353066
-Global Gender Gap Report,2022,IN,0.629,0.41014799154334
-Global Gender Gap Report,2022,MA,0.624,0.399577167019027
-Global Gender Gap Report,2022,QA,0.617,0.384778012684989
-Global Gender Gap Report,2022,BJ,0.612,0.374207188160677
-Global Gender Gap Report,2022,OM,0.609,0.367864693446089
-Global Gender Gap Report,2022,DZ,0.602,0.353065539112051
-Global Gender Gap Report,2022,ML,0.601,0.350951374207188
-Global Gender Gap Report,2022,TD,0.579,0.304439746300211
-Global Gender Gap Report,2022,IR,0.576,0.298097251585624
-Global Gender Gap Report,2022,CD,0.575,0.295983086680761
-Global Gender Gap Report,2022,PK,0.564,0.272727272727273
-Global Gender Gap Report,2022,AF,0.435,0
-Global Organized Crime Index: Criminality,2023,TV,1.62,1
-Global Organized Crime Index: Criminality,2023,ST,1.7,0.987748851454824
-Global Organized Crime Index: Criminality,2023,NR,2.05,0.934150076569678
-Global Organized Crime Index: Criminality,2023,LI,2.27,0.900459418070444
-Global Organized Crime Index: Criminality,2023,WS,2.43,0.875957120980092
-Global Organized Crime Index: Criminality,2023,VU,2.43,0.875957120980092
-Global Organized Crime Index: Criminality,2023,KI,2.45,0.872894333843798
-Global Organized Crime Index: Criminality,2023,MH,2.52,0.862174578866769
-Global Organized Crime Index: Criminality,2023,MC,2.58,0.852986217457887
-Global Organized Crime Index: Criminality,2023,DM,2.63,0.845329249617152
-Global Organized Crime Index: Criminality,2023,PW,2.7,0.834609494640123
-Global Organized Crime Index: Criminality,2023,AM,2.82,0.816232771822358
-Global Organized Crime Index: Criminality,2023,LU,2.85,0.811638591117917
-Global Organized Crime Index: Criminality,2023,BN,2.85,0.811638591117917
-Global Organized Crime Index: Criminality,2023,GD,2.93,0.799387442572741
-Global Organized Crime Index: Criminality,2023,FI,2.98,0.791730474732006
-Global Organized Crime Index: Criminality,2023,AG,2.98,0.791730474732006
-Global Organized Crime Index: Criminality,2023,FM,3,0.788667687595712
-Global Organized Crime Index: Criminality,2023,BB,3.07,0.777947932618683
-Global Organized Crime Index: Criminality,2023,VC,3.08,0.776416539050536
-Global Organized Crime Index: Criminality,2023,AD,3.22,0.754977029096478
-Global Organized Crime Index: Criminality,2023,UY,3.22,0.754977029096478
-Global Organized Crime Index: Criminality,2023,IS,3.37,0.732006125574273
-Global Organized Crime Index: Criminality,2023,CU,3.37,0.732006125574273
-Global Organized Crime Index: Criminality,2023,SG,3.47,0.716692189892802
-Global Organized Crime Index: Criminality,2023,SM,3.48,0.715160796324655
-Global Organized Crime Index: Criminality,2023,KN,3.52,0.709035222052068
-Global Organized Crime Index: Criminality,2023,LC,3.53,0.707503828483921
-Global Organized Crime Index: Criminality,2023,RW,3.6,0.696784073506891
-Global Organized Crime Index: Criminality,2023,GE,3.6,0.696784073506891
-Global Organized Crime Index: Criminality,2023,TO,3.7,0.681470137825421
-Global Organized Crime Index: Criminality,2023,NO,3.75,0.673813169984686
-Global Organized Crime Index: Criminality,2023,BS,3.75,0.673813169984686
-Global Organized Crime Index: Criminality,2023,CA,3.88,0.653905053598775
-Global Organized Crime Index: Criminality,2023,LV,3.9,0.650842266462481
-Global Organized Crime Index: Criminality,2023,LT,3.9,0.650842266462481
-Global Organized Crime Index: Criminality,2023,SC,3.9,0.650842266462481
-Global Organized Crime Index: Criminality,2023,BT,3.9,0.650842266462481
-Global Organized Crime Index: Criminality,2023,LS,3.92,0.647779479326187
-Global Organized Crime Index: Criminality,2023,KM,3.92,0.647779479326187
-Global Organized Crime Index: Criminality,2023,ER,3.97,0.640122511485452
-Global Organized Crime Index: Criminality,2023,AU,4,0.635528330781011
-Global Organized Crime Index: Criminality,2023,DK,4.02,0.632465543644717
-Global Organized Crime Index: Criminality,2023,NZ,4.08,0.623277182235835
-Global Organized Crime Index: Criminality,2023,TL,4.08,0.623277182235835
-Global Organized Crime Index: Criminality,2023,MN,4.12,0.617151607963247
-Global Organized Crime Index: Criminality,2023,AT,4.13,0.6156202143951
-Global Organized Crime Index: Criminality,2023,FJ,4.15,0.612557427258806
-Global Organized Crime Index: Criminality,2023,EE,4.25,0.597243491577335
-Global Organized Crime Index: Criminality,2023,MV,4.27,0.594180704441041
-Global Organized Crime Index: Criminality,2023,JP,4.28,0.592649310872894
-Global Organized Crime Index: Criminality,2023,CV,4.28,0.592649310872894
-Global Organized Crime Index: Criminality,2023,NA,4.3,0.5895865237366
-Global Organized Crime Index: Criminality,2023,BW,4.35,0.581929555895865
-Global Organized Crime Index: Criminality,2023,SI,4.37,0.578866768759571
-Global Organized Crime Index: Criminality,2023,MU,4.37,0.578866768759571
-Global Organized Crime Index: Criminality,2023,SZ,4.38,0.577335375191424
-Global Organized Crime Index: Criminality,2023,MR,4.38,0.577335375191424
-Global Organized Crime Index: Criminality,2023,GQ,4.38,0.577335375191424
-Global Organized Crime Index: Criminality,2023,OM,4.4,0.57427258805513
-Global Organized Crime Index: Criminality,2023,SB,4.4,0.57427258805513
-Global Organized Crime Index: Criminality,2023,TM,4.4,0.57427258805513
-Global Organized Crime Index: Criminality,2023,KR,4.43,0.569678407350689
-Global Organized Crime Index: Criminality,2023,BE,4.43,0.569678407350689
-Global Organized Crime Index: Criminality,2023,CY,4.43,0.569678407350689
-Global Organized Crime Index: Criminality,2023,TN,4.45,0.566615620214395
-Global Organized Crime Index: Criminality,2023,KZ,4.47,0.563552833078101
-Global Organized Crime Index: Criminality,2023,PL,4.48,0.562021439509954
-Global Organized Crime Index: Criminality,2023,MW,4.48,0.562021439509954
-Global Organized Crime Index: Criminality,2023,GM,4.53,0.554364471669219
-Global Organized Crime Index: Criminality,2023,RO,4.58,0.546707503828484
-Global Organized Crime Index: Criminality,2023,GN,4.58,0.546707503828484
-Global Organized Crime Index: Criminality,2023,HU,4.62,0.540581929555896
-Global Organized Crime Index: Criminality,2023,DJ,4.65,0.535987748851455
-Global Organized Crime Index: Criminality,2023,CZ,4.68,0.531393568147014
-Global Organized Crime Index: Criminality,2023,SE,4.7,0.52833078101072
-Global Organized Crime Index: Criminality,2023,SK,4.72,0.525267993874426
-Global Organized Crime Index: Criminality,2023,ZM,4.73,0.523736600306279
-Global Organized Crime Index: Criminality,2023,SR,4.77,0.517611026033691
-Global Organized Crime Index: Criminality,2023,CG,4.78,0.516079632465544
-Global Organized Crime Index: Criminality,2023,MA,4.8,0.51301684532925
-Global Organized Crime Index: Criminality,2023,AZ,4.8,0.51301684532925
-Global Organized Crime Index: Criminality,2023,KP,4.82,0.509954058192956
-Global Organized Crime Index: Criminality,2023,IL,4.85,0.505359877488515
-Global Organized Crime Index: Criminality,2023,GA,4.85,0.505359877488515
-Global Organized Crime Index: Criminality,2023,CH,4.87,0.502297090352221
-Global Organized Crime Index: Criminality,2023,BZ,4.87,0.502297090352221
-Global Organized Crime Index: Criminality,2023,BI,4.87,0.502297090352221
-Global Organized Crime Index: Criminality,2023,PT,4.88,0.500765696784074
-Global Organized Crime Index: Criminality,2023,DZ,4.88,0.500765696784074
-Global Organized Crime Index: Criminality,2023,LK,4.92,0.494640122511486
-Global Organized Crime Index: Criminality,2023,JO,4.93,0.493108728943339
-Global Organized Crime Index: Criminality,2023,BH,4.95,0.490045941807044
-Global Organized Crime Index: Criminality,2023,BO,4.95,0.490045941807044
-Global Organized Crime Index: Criminality,2023,SL,4.95,0.490045941807044
-Global Organized Crime Index: Criminality,2023,UZ,4.95,0.490045941807044
-Global Organized Crime Index: Criminality,2023,NL,4.97,0.486983154670751
-Global Organized Crime Index: Criminality,2023,AR,5,0.482388973966309
-Global Organized Crime Index: Criminality,2023,MT,5,0.482388973966309
-Global Organized Crime Index: Criminality,2023,DO,5.02,0.479326186830015
-Global Organized Crime Index: Criminality,2023,MK,5.03,0.477794793261868
-Global Organized Crime Index: Criminality,2023,EG,5.05,0.474732006125574
-Global Organized Crime Index: Criminality,2023,IE,5.08,0.470137825421133
-Global Organized Crime Index: Criminality,2023,GW,5.1,0.467075038284839
-Global Organized Crime Index: Criminality,2023,BD,5.12,0.464012251148545
-Global Organized Crime Index: Criminality,2023,HR,5.15,0.459418070444104
-Global Organized Crime Index: Criminality,2023,AL,5.17,0.45635528330781
-Global Organized Crime Index: Criminality,2023,CL,5.18,0.454823889739663
-Global Organized Crime Index: Criminality,2023,KW,5.2,0.451761102603369
-Global Organized Crime Index: Criminality,2023,TT,5.2,0.451761102603369
-Global Organized Crime Index: Criminality,2023,TG,5.23,0.447166921898928
-Global Organized Crime Index: Criminality,2023,KG,5.32,0.433384379785605
-Global Organized Crime Index: Criminality,2023,BJ,5.32,0.433384379785605
-Global Organized Crime Index: Criminality,2023,DE,5.33,0.431852986217458
-Global Organized Crime Index: Criminality,2023,GR,5.35,0.428790199081164
-Global Organized Crime Index: Criminality,2023,QA,5.45,0.413476263399694
-Global Organized Crime Index: Criminality,2023,TJ,5.45,0.413476263399694
-Global Organized Crime Index: Criminality,2023,ZW,5.47,0.4104134762634
-Global Organized Crime Index: Criminality,2023,LR,5.5,0.405819295558959
-Global Organized Crime Index: Criminality,2023,TD,5.5,0.405819295558959
-Global Organized Crime Index: Criminality,2023,SN,5.52,0.402756508422665
-Global Organized Crime Index: Criminality,2023,CR,5.53,0.401225114854518
-Global Organized Crime Index: Criminality,2023,AO,5.58,0.393568147013783
-Global Organized Crime Index: Criminality,2023,MG,5.58,0.393568147013783
-Global Organized Crime Index: Criminality,2023,MD,5.6,0.390505359877489
-Global Organized Crime Index: Criminality,2023,BG,5.65,0.382848392036753
-Global Organized Crime Index: Criminality,2023,US,5.67,0.37978560490046
-Global Organized Crime Index: Criminality,2023,ET,5.68,0.378254211332312
-Global Organized Crime Index: Criminality,2023,NE,5.7,0.375191424196018
-Global Organized Crime Index: Criminality,2023,PG,5.72,0.372128637059724
-Global Organized Crime Index: Criminality,2023,NI,5.72,0.372128637059724
-Global Organized Crime Index: Criminality,2023,GB,5.75,0.367534456355283
-Global Organized Crime Index: Criminality,2023,IN,5.75,0.367534456355283
-Global Organized Crime Index: Criminality,2023,GH,5.8,0.359877488514548
-Global Organized Crime Index: Criminality,2023,JM,5.8,0.359877488514548
-Global Organized Crime Index: Criminality,2023,FR,5.82,0.356814701378254
-Global Organized Crime Index: Criminality,2023,BA,5.85,0.352220520673813
-Global Organized Crime Index: Criminality,2023,BY,5.87,0.349157733537519
-Global Organized Crime Index: Criminality,2023,ES,5.9,0.344563552833078
-Global Organized Crime Index: Criminality,2023,ME,5.9,0.344563552833078
-Global Organized Crime Index: Criminality,2023,BF,5.92,0.341500765696784
-Global Organized Crime Index: Criminality,2023,SV,5.92,0.341500765696784
-Global Organized Crime Index: Criminality,2023,HT,5.93,0.339969372128637
-Global Organized Crime Index: Criminality,2023,ML,5.93,0.339969372128637
-Global Organized Crime Index: Criminality,2023,GY,5.97,0.333843797856049
-Global Organized Crime Index: Criminality,2023,CI,6.02,0.326186830015314
-Global Organized Crime Index: Criminality,2023,PK,6.03,0.324655436447167
-Global Organized Crime Index: Criminality,2023,LA,6.12,0.310872894333844
-Global Organized Crime Index: Criminality,2023,SO,6.13,0.309341500765697
-Global Organized Crime Index: Criminality,2023,TH,6.18,0.301684532924962
-Global Organized Crime Index: Criminality,2023,TZ,6.2,0.298621745788668
-Global Organized Crime Index: Criminality,2023,MZ,6.2,0.298621745788668
-Global Organized Crime Index: Criminality,2023,IT,6.22,0.295558958652374
-Global Organized Crime Index: Criminality,2023,RS,6.22,0.295558958652374
-Global Organized Crime Index: Criminality,2023,MY,6.23,0.294027565084227
-Global Organized Crime Index: Criminality,2023,SA,6.23,0.294027565084227
-Global Organized Crime Index: Criminality,2023,CM,6.27,0.287901990811639
-Global Organized Crime Index: Criminality,2023,SS,6.32,0.280245022970904
-Global Organized Crime Index: Criminality,2023,CN,6.37,0.272588055130169
-Global Organized Crime Index: Criminality,2023,AE,6.37,0.272588055130169
-Global Organized Crime Index: Criminality,2023,SD,6.37,0.272588055130169
-Global Organized Crime Index: Criminality,2023,PE,6.4,0.267993874425727
-Global Organized Crime Index: Criminality,2023,UA,6.48,0.255742725880551
-Global Organized Crime Index: Criminality,2023,VN,6.55,0.245022970903522
-Global Organized Crime Index: Criminality,2023,UG,6.55,0.245022970903522
-Global Organized Crime Index: Criminality,2023,NP,6.57,0.241960183767228
-Global Organized Crime Index: Criminality,2023,YE,6.57,0.241960183767228
-Global Organized Crime Index: Criminality,2023,GT,6.6,0.237366003062787
-Global Organized Crime Index: Criminality,2023,PH,6.63,0.232771822358346
-Global Organized Crime Index: Criminality,2023,VE,6.72,0.218989280245023
-Global Organized Crime Index: Criminality,2023,CF,6.75,0.214395099540582
-Global Organized Crime Index: Criminality,2023,BR,6.77,0.211332312404288
-Global Organized Crime Index: Criminality,2023,ID,6.85,0.199081163859112
-Global Organized Crime Index: Criminality,2023,KH,6.85,0.199081163859112
-Global Organized Crime Index: Criminality,2023,RU,6.87,0.196018376722818
-Global Organized Crime Index: Criminality,2023,LY,6.93,0.186830015313936
-Global Organized Crime Index: Criminality,2023,PA,6.98,0.179173047473201
-Global Organized Crime Index: Criminality,2023,KE,7.02,0.173047473200613
-Global Organized Crime Index: Criminality,2023,TR,7.03,0.171516079632466
-Global Organized Crime Index: Criminality,2023,IR,7.03,0.171516079632466
-Global Organized Crime Index: Criminality,2023,HN,7.05,0.168453292496172
-Global Organized Crime Index: Criminality,2023,EC,7.07,0.165390505359877
-Global Organized Crime Index: Criminality,2023,SY,7.07,0.165390505359877
-Global Organized Crime Index: Criminality,2023,LB,7.1,0.160796324655437
-Global Organized Crime Index: Criminality,2023,AF,7.1,0.160796324655437
-Global Organized Crime Index: Criminality,2023,IQ,7.13,0.156202143950995
-Global Organized Crime Index: Criminality,2023,ZA,7.18,0.14854517611026
-Global Organized Crime Index: Criminality,2023,NG,7.28,0.13323124042879
-Global Organized Crime Index: Criminality,2023,CD,7.35,0.122511485451761
-Global Organized Crime Index: Criminality,2023,PY,7.52,0.096477794793262
-Global Organized Crime Index: Criminality,2023,MX,7.57,0.0888208269525268
-Global Organized Crime Index: Criminality,2023,CO,7.75,0.0612557427258806
-Global Organized Crime Index: Criminality,2023,MM,8.15,0
-Global Organized Crime Index: Resilience,2023,FI,8.63,1
-Global Organized Crime Index: Resilience,2023,LI,8.46,0.976157082748948
-Global Organized Crime Index: Resilience,2023,IS,8.21,0.94109396914446
-Global Organized Crime Index: Resilience,2023,DK,8.13,0.929873772791024
-Global Organized Crime Index: Resilience,2023,KR,8.08,0.922861150070126
-Global Organized Crime Index: Resilience,2023,AD,7.96,0.906030855539972
-Global Organized Crime Index: Resilience,2023,NO,7.92,0.900420757363254
-Global Organized Crime Index: Resilience,2023,NZ,7.88,0.894810659186536
-Global Organized Crime Index: Resilience,2023,EE,7.88,0.894810659186536
-Global Organized Crime Index: Resilience,2023,SG,7.83,0.887798036465638
-Global Organized Crime Index: Resilience,2023,LV,7.58,0.85273492286115
-Global Organized Crime Index: Resilience,2023,GB,7.54,0.847124824684432
-Global Organized Crime Index: Resilience,2023,LU,7.5,0.841514726507714
-Global Organized Crime Index: Resilience,2023,UY,7.5,0.841514726507714
-Global Organized Crime Index: Resilience,2023,AT,7.5,0.841514726507714
-Global Organized Crime Index: Resilience,2023,DE,7.5,0.841514726507714
-Global Organized Crime Index: Resilience,2023,SE,7.46,0.835904628330996
-Global Organized Crime Index: Resilience,2023,NL,7.46,0.835904628330996
-Global Organized Crime Index: Resilience,2023,AU,7.38,0.82468443197756
-Global Organized Crime Index: Resilience,2023,JP,7.38,0.82468443197756
-Global Organized Crime Index: Resilience,2023,IE,7.33,0.817671809256662
-Global Organized Crime Index: Resilience,2023,LT,7.29,0.812061711079944
-Global Organized Crime Index: Resilience,2023,CA,7.21,0.800841514726508
-Global Organized Crime Index: Resilience,2023,US,7.13,0.789621318373072
-Global Organized Crime Index: Resilience,2023,BE,7.04,0.776998597475456
-Global Organized Crime Index: Resilience,2023,CH,7.04,0.776998597475456
-Global Organized Crime Index: Resilience,2023,FR,6.96,0.76577840112202
-Global Organized Crime Index: Resilience,2023,ES,6.75,0.73632538569425
-Global Organized Crime Index: Resilience,2023,CV,6.58,0.712482468443198
-Global Organized Crime Index: Resilience,2023,PT,6.5,0.701262272089761
-Global Organized Crime Index: Resilience,2023,IT,6.46,0.695652173913043
-Global Organized Crime Index: Resilience,2023,CZ,6.42,0.690042075736325
-Global Organized Crime Index: Resilience,2023,CL,6.17,0.654978962131837
-Global Organized Crime Index: Resilience,2023,BB,6.13,0.649368863955119
-Global Organized Crime Index: Resilience,2023,TV,6.08,0.642356241234222
-Global Organized Crime Index: Resilience,2023,IL,6.08,0.642356241234222
-Global Organized Crime Index: Resilience,2023,SI,6.04,0.636746143057503
-Global Organized Crime Index: Resilience,2023,RO,6,0.631136044880785
-Global Organized Crime Index: Resilience,2023,AR,5.96,0.625525946704067
-Global Organized Crime Index: Resilience,2023,HR,5.92,0.619915848527349
-Global Organized Crime Index: Resilience,2023,MY,5.92,0.619915848527349
-Global Organized Crime Index: Resilience,2023,FM,5.88,0.614305750350631
-Global Organized Crime Index: Resilience,2023,PL,5.88,0.614305750350631
-Global Organized Crime Index: Resilience,2023,WS,5.83,0.607293127629733
-Global Organized Crime Index: Resilience,2023,MH,5.79,0.601683029453015
-Global Organized Crime Index: Resilience,2023,SN,5.79,0.601683029453015
-Global Organized Crime Index: Resilience,2023,NG,5.79,0.601683029453015
-Global Organized Crime Index: Resilience,2023,AM,5.71,0.590462833099579
-Global Organized Crime Index: Resilience,2023,CN,5.67,0.584852734922861
-Global Organized Crime Index: Resilience,2023,MC,5.63,0.579242636746143
-Global Organized Crime Index: Resilience,2023,CR,5.63,0.579242636746143
-Global Organized Crime Index: Resilience,2023,ZA,5.63,0.579242636746143
-Global Organized Crime Index: Resilience,2023,CO,5.63,0.579242636746143
-Global Organized Crime Index: Resilience,2023,LC,5.58,0.572230014025245
-Global Organized Crime Index: Resilience,2023,JO,5.58,0.572230014025245
-Global Organized Crime Index: Resilience,2023,RW,5.54,0.566619915848527
-Global Organized Crime Index: Resilience,2023,MU,5.54,0.566619915848527
-Global Organized Crime Index: Resilience,2023,KW,5.54,0.566619915848527
-Global Organized Crime Index: Resilience,2023,BS,5.5,0.561009817671809
-Global Organized Crime Index: Resilience,2023,BW,5.46,0.555399719495091
-Global Organized Crime Index: Resilience,2023,GH,5.46,0.555399719495091
-Global Organized Crime Index: Resilience,2023,FJ,5.42,0.549789621318373
-Global Organized Crime Index: Resilience,2023,BH,5.42,0.549789621318373
-Global Organized Crime Index: Resilience,2023,QA,5.42,0.549789621318373
-Global Organized Crime Index: Resilience,2023,IN,5.42,0.549789621318373
-Global Organized Crime Index: Resilience,2023,JM,5.42,0.549789621318373
-Global Organized Crime Index: Resilience,2023,VC,5.38,0.544179523141655
-Global Organized Crime Index: Resilience,2023,CU,5.38,0.544179523141655
-Global Organized Crime Index: Resilience,2023,PW,5.33,0.537166900420757
-Global Organized Crime Index: Resilience,2023,TT,5.33,0.537166900420757
-Global Organized Crime Index: Resilience,2023,BG,5.33,0.537166900420757
-Global Organized Crime Index: Resilience,2023,KE,5.33,0.537166900420757
-Global Organized Crime Index: Resilience,2023,TO,5.29,0.531556802244039
-Global Organized Crime Index: Resilience,2023,SK,5.29,0.531556802244039
-Global Organized Crime Index: Resilience,2023,MK,5.29,0.531556802244039
-Global Organized Crime Index: Resilience,2023,GE,5.25,0.525946704067321
-Global Organized Crime Index: Resilience,2023,SM,5.21,0.520336605890603
-Global Organized Crime Index: Resilience,2023,SC,5.21,0.520336605890603
-Global Organized Crime Index: Resilience,2023,MN,5.21,0.520336605890603
-Global Organized Crime Index: Resilience,2023,OM,5.21,0.520336605890603
-Global Organized Crime Index: Resilience,2023,DM,5.17,0.514726507713885
-Global Organized Crime Index: Resilience,2023,GM,5.17,0.514726507713885
-Global Organized Crime Index: Resilience,2023,GR,5.17,0.514726507713885
-Global Organized Crime Index: Resilience,2023,VU,5.13,0.509116409537167
-Global Organized Crime Index: Resilience,2023,GD,5.13,0.509116409537167
-Global Organized Crime Index: Resilience,2023,MT,5.13,0.509116409537167
-Global Organized Crime Index: Resilience,2023,AL,5.13,0.509116409537167
-Global Organized Crime Index: Resilience,2023,CI,5.13,0.509116409537167
-Global Organized Crime Index: Resilience,2023,AE,5.13,0.509116409537167
-Global Organized Crime Index: Resilience,2023,SB,5.08,0.502103786816269
-Global Organized Crime Index: Resilience,2023,NR,5,0.490883590462833
-Global Organized Crime Index: Resilience,2023,KN,5,0.490883590462833
-Global Organized Crime Index: Resilience,2023,RS,4.96,0.485273492286115
-Global Organized Crime Index: Resilience,2023,ST,4.92,0.479663394109397
-Global Organized Crime Index: Resilience,2023,BR,4.92,0.479663394109397
-Global Organized Crime Index: Resilience,2023,HU,4.88,0.474053295932679
-Global Organized Crime Index: Resilience,2023,EC,4.88,0.474053295932679
-Global Organized Crime Index: Resilience,2023,BO,4.83,0.467040673211781
-Global Organized Crime Index: Resilience,2023,DO,4.79,0.461430575035063
-Global Organized Crime Index: Resilience,2023,TH,4.79,0.461430575035063
-Global Organized Crime Index: Resilience,2023,VN,4.79,0.461430575035063
-Global Organized Crime Index: Resilience,2023,ET,4.75,0.455820476858345
-Global Organized Crime Index: Resilience,2023,ME,4.75,0.455820476858345
-Global Organized Crime Index: Resilience,2023,BT,4.71,0.450210378681627
-Global Organized Crime Index: Resilience,2023,PA,4.67,0.444600280504909
-Global Organized Crime Index: Resilience,2023,MA,4.63,0.438990182328191
-Global Organized Crime Index: Resilience,2023,BN,4.58,0.431977559607293
-Global Organized Crime Index: Resilience,2023,AG,4.58,0.431977559607293
-Global Organized Crime Index: Resilience,2023,MW,4.58,0.431977559607293
-Global Organized Crime Index: Resilience,2023,NA,4.54,0.426367461430575
-Global Organized Crime Index: Resilience,2023,KZ,4.54,0.426367461430575
-Global Organized Crime Index: Resilience,2023,ZM,4.54,0.426367461430575
-Global Organized Crime Index: Resilience,2023,UA,4.54,0.426367461430575
-Global Organized Crime Index: Resilience,2023,TN,4.5,0.420757363253857
-Global Organized Crime Index: Resilience,2023,TG,4.5,0.420757363253857
-Global Organized Crime Index: Resilience,2023,AO,4.5,0.420757363253857
-Global Organized Crime Index: Resilience,2023,CY,4.46,0.415147265077139
-Global Organized Crime Index: Resilience,2023,BD,4.42,0.409537166900421
-Global Organized Crime Index: Resilience,2023,DJ,4.38,0.403927068723703
-Global Organized Crime Index: Resilience,2023,DZ,4.38,0.403927068723703
-Global Organized Crime Index: Resilience,2023,PE,4.38,0.403927068723703
-Global Organized Crime Index: Resilience,2023,KI,4.33,0.396914446002805
-Global Organized Crime Index: Resilience,2023,ID,4.25,0.385694249649369
-Global Organized Crime Index: Resilience,2023,PH,4.21,0.380084151472651
-Global Organized Crime Index: Resilience,2023,MX,4.21,0.380084151472651
-Global Organized Crime Index: Resilience,2023,TZ,4.13,0.368863955119215
-Global Organized Crime Index: Resilience,2023,MV,4.08,0.361851332398317
-Global Organized Crime Index: Resilience,2023,GT,4.08,0.361851332398317
-Global Organized Crime Index: Resilience,2023,HN,4.08,0.361851332398317
-Global Organized Crime Index: Resilience,2023,SL,4.04,0.356241234221599
-Global Organized Crime Index: Resilience,2023,GY,4.04,0.356241234221599
-Global Organized Crime Index: Resilience,2023,SA,4,0.350631136044881
-Global Organized Crime Index: Resilience,2023,NP,4,0.350631136044881
-Global Organized Crime Index: Resilience,2023,AZ,3.96,0.345021037868163
-Global Organized Crime Index: Resilience,2023,PK,3.96,0.345021037868163
-Global Organized Crime Index: Resilience,2023,LS,3.92,0.339410939691445
-Global Organized Crime Index: Resilience,2023,MD,3.92,0.339410939691445
-Global Organized Crime Index: Resilience,2023,UZ,3.88,0.333800841514726
-Global Organized Crime Index: Resilience,2023,BA,3.88,0.333800841514726
-Global Organized Crime Index: Resilience,2023,UG,3.88,0.333800841514726
-Global Organized Crime Index: Resilience,2023,TL,3.83,0.326788218793829
-Global Organized Crime Index: Resilience,2023,EG,3.83,0.326788218793829
-Global Organized Crime Index: Resilience,2023,KG,3.83,0.326788218793829
-Global Organized Crime Index: Resilience,2023,RU,3.79,0.321178120617111
-Global Organized Crime Index: Resilience,2023,KH,3.63,0.298737727910238
-Global Organized Crime Index: Resilience,2023,BJ,3.5,0.280504908835905
-Global Organized Crime Index: Resilience,2023,NE,3.46,0.274894810659187
-Global Organized Crime Index: Resilience,2023,BF,3.46,0.274894810659187
-Global Organized Crime Index: Resilience,2023,LA,3.46,0.274894810659187
-Global Organized Crime Index: Resilience,2023,LB,3.46,0.274894810659187
-Global Organized Crime Index: Resilience,2023,LK,3.42,0.269284712482468
-Global Organized Crime Index: Resilience,2023,PY,3.42,0.269284712482468
-Global Organized Crime Index: Resilience,2023,TR,3.38,0.26367461430575
-Global Organized Crime Index: Resilience,2023,MG,3.33,0.256661991584853
-Global Organized Crime Index: Resilience,2023,SZ,3.29,0.251051893408135
-Global Organized Crime Index: Resilience,2023,BZ,3.29,0.251051893408135
-Global Organized Crime Index: Resilience,2023,PG,3.29,0.251051893408135
-Global Organized Crime Index: Resilience,2023,MZ,3.29,0.251051893408135
-Global Organized Crime Index: Resilience,2023,CG,3.25,0.245441795231417
-Global Organized Crime Index: Resilience,2023,GA,3.25,0.245441795231417
-Global Organized Crime Index: Resilience,2023,LR,3.25,0.245441795231417
-Global Organized Crime Index: Resilience,2023,BY,3.25,0.245441795231417
-Global Organized Crime Index: Resilience,2023,SV,3.21,0.239831697054698
-Global Organized Crime Index: Resilience,2023,IQ,3.21,0.239831697054698
-Global Organized Crime Index: Resilience,2023,CM,3.17,0.23422159887798
-Global Organized Crime Index: Resilience,2023,MR,3.13,0.228611500701262
-Global Organized Crime Index: Resilience,2023,GN,3.13,0.228611500701262
-Global Organized Crime Index: Resilience,2023,ZW,3.13,0.228611500701262
-Global Organized Crime Index: Resilience,2023,IR,3.13,0.228611500701262
-Global Organized Crime Index: Resilience,2023,SR,3.04,0.215988779803647
-Global Organized Crime Index: Resilience,2023,SD,2.71,0.169705469845722
-Global Organized Crime Index: Resilience,2023,GW,2.58,0.151472650771389
-Global Organized Crime Index: Resilience,2023,TJ,2.58,0.151472650771389
-Global Organized Crime Index: Resilience,2023,HT,2.46,0.134642356241234
-Global Organized Crime Index: Resilience,2023,TD,2.42,0.129032258064516
-Global Organized Crime Index: Resilience,2023,KM,2.38,0.123422159887798
-Global Organized Crime Index: Resilience,2023,ML,2.38,0.123422159887798
-Global Organized Crime Index: Resilience,2023,CD,2.38,0.123422159887798
-Global Organized Crime Index: Resilience,2023,ER,2.33,0.1164095371669
-Global Organized Crime Index: Resilience,2023,GQ,2.21,0.0995792426367461
-Global Organized Crime Index: Resilience,2023,TM,2.21,0.0995792426367461
-Global Organized Crime Index: Resilience,2023,BI,2.17,0.093969144460028
-Global Organized Crime Index: Resilience,2023,NI,2.08,0.0813464235624123
-Global Organized Crime Index: Resilience,2023,SY,1.92,0.05890603085554
-Global Organized Crime Index: Resilience,2023,SS,1.88,0.0532959326788219
-Global Organized Crime Index: Resilience,2023,VE,1.88,0.0532959326788219
-Global Organized Crime Index: Resilience,2023,KP,1.79,0.0406732117812062
-Global Organized Crime Index: Resilience,2023,SO,1.79,0.0406732117812062
-Global Organized Crime Index: Resilience,2023,CF,1.79,0.0406732117812062
-Global Organized Crime Index: Resilience,2023,YE,1.75,0.0350631136044881
-Global Organized Crime Index: Resilience,2023,MM,1.63,0.0182328190743338
-Global Organized Crime Index: Resilience,2023,LY,1.54,0.0056100981767181
-Global Organized Crime Index: Resilience,2023,AF,1.5,0
-Global Peace Index,2024,IS,1.112,1
-Global Peace Index,2024,IE,1.303,0.916411378555799
-Global Peace Index,2024,AT,1.313,0.912035010940919
-Global Peace Index,2024,NZ,1.323,0.907658643326039
-Global Peace Index,2024,SG,1.339,0.900656455142232
-Global Peace Index,2024,CH,1.35,0.895842450765864
-Global Peace Index,2024,PT,1.372,0.886214442013129
-Global Peace Index,2024,DK,1.382,0.88183807439825
-Global Peace Index,2024,SI,1.395,0.876148796498906
-Global Peace Index,2024,MY,1.427,0.862144420131291
-Global Peace Index,2024,CA,1.449,0.852516411378556
-Global Peace Index,2024,CZ,1.459,0.848140043763676
-Global Peace Index,2024,FI,1.474,0.841575492341357
-Global Peace Index,2024,HU,1.502,0.829321663019694
-Global Peace Index,2024,HR,1.504,0.828446389496718
-Global Peace Index,2024,BE,1.51,0.82582056892779
-Global Peace Index,2024,JP,1.525,0.819256017505471
-Global Peace Index,2024,NL,1.527,0.818380743982495
-Global Peace Index,2024,AU,1.536,0.814442013129103
-Global Peace Index,2024,DE,1.542,0.811816192560175
-Global Peace Index,2024,BT,1.564,0.80218818380744
-Global Peace Index,2024,MU,1.577,0.796498905908096
-Global Peace Index,2024,ES,1.597,0.787746170678337
-Global Peace Index,2024,EE,1.615,0.779868708971554
-Global Peace Index,2024,KW,1.622,0.776805251641138
-Global Peace Index,2024,BG,1.629,0.773741794310722
-Global Peace Index,2024,SK,1.634,0.771553610503282
-Global Peace Index,2024,NO,1.638,0.769803063457331
-Global Peace Index,2024,QA,1.656,0.761925601750547
-Global Peace Index,2024,LV,1.661,0.759737417943107
-Global Peace Index,2024,LT,1.672,0.75492341356674
-Global Peace Index,2024,PL,1.678,0.752297592997812
-Global Peace Index,2024,IT,1.692,0.74617067833698
-Global Peace Index,2024,GB,1.703,0.741356673960613
-Global Peace Index,2024,ME,1.746,0.72253829321663
-Global Peace Index,2024,RO,1.755,0.718599562363239
-Global Peace Index,2024,OM,1.761,0.715973741794311
-Global Peace Index,2024,MK,1.764,0.714660831509847
-Global Peace Index,2024,SE,1.782,0.706783369803063
-Global Peace Index,2024,GR,1.793,0.701969365426696
-Global Peace Index,2024,VN,1.802,0.698030634573304
-Global Peace Index,2024,AL,1.809,0.694967177242889
-Global Peace Index,2024,TW,1.818,0.691028446389497
-Global Peace Index,2024,MG,1.838,0.682275711159737
-Global Peace Index,2024,MN,1.845,0.679212253829322
-Global Peace Index,2024,KR,1.848,0.677899343544858
-Global Peace Index,2024,AR,1.855,0.674835886214442
-Global Peace Index,2024,ID,1.857,0.673960612691466
-Global Peace Index,2024,LA,1.861,0.672210065645514
-Global Peace Index,2024,BW,1.863,0.671334792122538
-Global Peace Index,2024,TL,1.882,0.663019693654267
-Global Peace Index,2024,UY,1.893,0.658205689277899
-Global Peace Index,2024,AE,1.897,0.656455142231948
-Global Peace Index,2024,RS,1.93,0.642013129102845
-Global Peace Index,2024,GH,1.938,0.638512035010941
-Global Peace Index,2024,XK,1.945,0.635448577680525
-Global Peace Index,2024,ZM,1.948,0.634135667396061
-Global Peace Index,2024,CR,1.95,0.633260393873085
-Global Peace Index,2024,KZ,1.954,0.631509846827134
-Global Peace Index,2024,UZ,1.957,0.63019693654267
-Global Peace Index,2024,BA,1.961,0.628446389496718
-Global Peace Index,2024,NA,1.972,0.62363238512035
-Global Peace Index,2024,MD,1.976,0.621881838074398
-Global Peace Index,2024,CL,1.978,0.621006564551422
-Global Peace Index,2024,TZ,1.987,0.617067833698031
-Global Peace Index,2024,SL,1.993,0.614442013129103
-Global Peace Index,2024,JO,1.998,0.612253829321663
-Global Peace Index,2024,BO,2.009,0.607439824945296
-Global Peace Index,2024,LR,2.025,0.600437636761488
-Global Peace Index,2024,KH,2.028,0.599124726477024
-Global Peace Index,2024,TJ,2.035,0.596061269146608
-Global Peace Index,2024,AO,2.043,0.592560175054705
-Global Peace Index,2024,PY,2.044,0.592122538293217
-Global Peace Index,2024,TN,2.044,0.592122538293217
-Global Peace Index,2024,TH,2.048,0.590371991247265
-Global Peace Index,2024,AM,2.052,0.588621444201313
-Global Peace Index,2024,KG,2.053,0.588183807439825
-Global Peace Index,2024,MA,2.054,0.587746170678337
-Global Peace Index,2024,MW,2.063,0.583807439824945
-Global Peace Index,2024,NP,2.069,0.581181619256018
-Global Peace Index,2024,BH,2.072,0.579868708971554
-Global Peace Index,2024,GM,2.079,0.576805251641138
-Global Peace Index,2024,TM,2.079,0.576805251641138
-Global Peace Index,2024,SN,2.084,0.574617067833698
-Global Peace Index,2024,GW,2.085,0.57417943107221
-Global Peace Index,2024,FR,2.088,0.572866520787746
-Global Peace Index,2024,TT,2.092,0.571115973741794
-Global Peace Index,2024,CN,2.101,0.567177242888403
-Global Peace Index,2024,CY,2.101,0.567177242888403
-Global Peace Index,2024,DZ,2.11,0.563238512035011
-Global Peace Index,2024,JM,2.119,0.559299781181619
-Global Peace Index,2024,RW,2.12,0.558862144420131
-Global Peace Index,2024,BD,2.126,0.556236323851204
-Global Peace Index,2024,GQ,2.132,0.553610503282276
-Global Peace Index,2024,MR,2.136,0.551859956236324
-Global Peace Index,2024,PA,2.14,0.550109409190372
-Global Peace Index,2024,DO,2.157,0.542669584245077
-Global Peace Index,2024,CU,2.16,0.541356673960613
-Global Peace Index,2024,PE,2.179,0.533041575492341
-Global Peace Index,2024,GE,2.195,0.526039387308534
-Global Peace Index,2024,LK,2.195,0.526039387308534
-Global Peace Index,2024,SA,2.206,0.521225382932166
-Global Peace Index,2024,SZ,2.209,0.519912472647702
-Global Peace Index,2024,PH,2.21,0.519474835886215
-Global Peace Index,2024,EG,2.212,0.518599562363239
-Global Peace Index,2024,AZ,2.248,0.502844638949672
-Global Peace Index,2024,SV,2.25,0.501969365426696
-Global Peace Index,2024,MZ,2.25,0.501969365426696
-Global Peace Index,2024,CI,2.255,0.499781181619256
-Global Peace Index,2024,CG,2.261,0.497155361050328
-Global Peace Index,2024,GY,2.286,0.486214442013129
-Global Peace Index,2024,BY,2.291,0.484026258205689
-Global Peace Index,2024,NI,2.295,0.482275711159737
-Global Peace Index,2024,BJ,2.306,0.47746170678337
-Global Peace Index,2024,PG,2.315,0.473522975929978
-Global Peace Index,2024,IN,2.319,0.471772428884026
-Global Peace Index,2024,GT,2.332,0.466083150984683
-Global Peace Index,2024,GA,2.372,0.448577680525164
-Global Peace Index,2024,DJ,2.374,0.447702407002188
-Global Peace Index,2024,TG,2.381,0.444638949671773
-Global Peace Index,2024,ZW,2.396,0.438074398249453
-Global Peace Index,2024,KE,2.409,0.432385120350109
-Global Peace Index,2024,HN,2.415,0.429759299781182
-Global Peace Index,2024,GN,2.423,0.426258205689278
-Global Peace Index,2024,LS,2.461,0.409628008752735
-Global Peace Index,2024,UG,2.477,0.402625820568928
-Global Peace Index,2024,ZA,2.507,0.389496717724289
-Global Peace Index,2024,LY,2.528,0.380306345733042
-Global Peace Index,2024,BI,2.567,0.363238512035011
-Global Peace Index,2024,EC,2.572,0.361050328227571
-Global Peace Index,2024,BR,2.589,0.353610503282276
-Global Peace Index,2024,US,2.622,0.339168490153173
-Global Peace Index,2024,IR,2.682,0.312910284463895
-Global Peace Index,2024,LB,2.693,0.308096280087527
-Global Peace Index,2024,TD,2.704,0.30328227571116
-Global Peace Index,2024,ER,2.748,0.284026258205689
-Global Peace Index,2024,CM,2.773,0.27308533916849
-Global Peace Index,2024,MX,2.778,0.27089715536105
-Global Peace Index,2024,TR,2.78,0.270021881838074
-Global Peace Index,2024,PK,2.783,0.268708971553611
-Global Peace Index,2024,NE,2.792,0.264770240700219
-Global Peace Index,2024,VE,2.821,0.252078774617068
-Global Peace Index,2024,HT,2.827,0.24945295404814
-Global Peace Index,2024,ET,2.845,0.241575492341357
-Global Peace Index,2024,PS,2.872,0.229759299781182
-Global Peace Index,2024,CO,2.887,0.223194748358862
-Global Peace Index,2024,NG,2.907,0.214442013129103
-Global Peace Index,2024,MM,2.943,0.198687089715536
-Global Peace Index,2024,BF,2.969,0.187308533916849
-Global Peace Index,2024,CF,3.009,0.16980306345733
-Global Peace Index,2024,IQ,3.045,0.154048140043764
-Global Peace Index,2024,KP,3.055,0.149671772428884
-Global Peace Index,2024,SO,3.091,0.133916849015317
-Global Peace Index,2024,ML,3.095,0.132166301969365
-Global Peace Index,2024,IL,3.115,0.123413566739606
-Global Peace Index,2024,SY,3.173,0.0980306345733041
-Global Peace Index,2024,RU,3.249,0.0647702407002187
-Global Peace Index,2024,CD,3.264,0.0582056892778994
-Global Peace Index,2024,UA,3.28,0.0512035010940919
-Global Peace Index,2024,AF,3.294,0.0450765864332603
-Global Peace Index,2024,SS,3.324,0.0319474835886214
-Global Peace Index,2024,SD,3.327,0.0306345733041575
-Global Peace Index,2024,YE,3.397,0
-Global Terrorism Index,2024,AL,0,1
-Global Terrorism Index,2024,AZ,0,1
-Global Terrorism Index,2024,BG,0,1
-Global Terrorism Index,2024,BA,0,1
-Global Terrorism Index,2024,BY,0,1
-Global Terrorism Index,2024,BO,0,1
-Global Terrorism Index,2024,BT,0,1
-Global Terrorism Index,2024,BW,0,1
-Global Terrorism Index,2024,CG,0,1
-Global Terrorism Index,2024,CR,0,1
-Global Terrorism Index,2024,CU,0,1
-Global Terrorism Index,2024,CZ,0,1
-Global Terrorism Index,2024,DK,0,1
-Global Terrorism Index,2024,DO,0,1
-Global Terrorism Index,2024,ER,0,1
-Global Terrorism Index,2024,EE,0,1
-Global Terrorism Index,2024,FI,0,1
-Global Terrorism Index,2024,GA,0,1
-Global Terrorism Index,2024,GE,0,1
-Global Terrorism Index,2024,GH,0,1
-Global Terrorism Index,2024,GT,0,1
-Global Terrorism Index,2024,GN,0,1
-Global Terrorism Index,2024,GW,0,1
-Global Terrorism Index,2024,GY,0,1
-Global Terrorism Index,2024,HT,0,1
-Global Terrorism Index,2024,HN,0,1
-Global Terrorism Index,2024,HU,0,1
-Global Terrorism Index,2024,JM,0,1
-Global Terrorism Index,2024,KZ,0,1
-Global Terrorism Index,2024,KW,0,1
-Global Terrorism Index,2024,KG,0,1
-Global Terrorism Index,2024,LA,0,1
-Global Terrorism Index,2024,LV,0,1
-Global Terrorism Index,2024,LS,0,1
-Global Terrorism Index,2024,LR,0,1
-Global Terrorism Index,2024,MG,0,1
-Global Terrorism Index,2024,MU,0,1
-Global Terrorism Index,2024,MD,0,1
-Global Terrorism Index,2024,MN,0,1
-Global Terrorism Index,2024,ME,0,1
-Global Terrorism Index,2024,MA,0,1
-Global Terrorism Index,2024,NA,0,1
-Global Terrorism Index,2024,NI,0,1
-Global Terrorism Index,2024,KP,0,1
-Global Terrorism Index,2024,OM,0,1
-Global Terrorism Index,2024,PA,0,1
-Global Terrorism Index,2024,PG,0,1
-Global Terrorism Index,2024,PL,0,1
-Global Terrorism Index,2024,PT,0,1
-Global Terrorism Index,2024,QA,0,1
-Global Terrorism Index,2024,RO,0,1
-Global Terrorism Index,2024,SN,0,1
-Global Terrorism Index,2024,RS,0,1
-Global Terrorism Index,2024,SL,0,1
-Global Terrorism Index,2024,SI,0,1
-Global Terrorism Index,2024,ZA,0,1
-Global Terrorism Index,2024,KR,0,1
-Global Terrorism Index,2024,SS,0,1
-Global Terrorism Index,2024,SD,0,1
-Global Terrorism Index,2024,TW,0,1
-Global Terrorism Index,2024,GM,0,1
-Global Terrorism Index,2024,TL,0,1
-Global Terrorism Index,2024,TT,0,1
-Global Terrorism Index,2024,TM,0,1
-Global Terrorism Index,2024,VN,0,1
-Global Terrorism Index,2024,ZM,0,1
-Global Terrorism Index,2024,ZW,0,1
-Global Terrorism Index,2024,IE,0.03,0.99649982499125
-Global Terrorism Index,2024,LT,0.059,0.993116322482791
-Global Terrorism Index,2024,RW,0.114,0.986699334966748
-Global Terrorism Index,2024,UY,0.114,0.986699334966748
-Global Terrorism Index,2024,BH,0.123,0.985649282464123
-Global Terrorism Index,2024,EC,0.167,0.980515692451289
-Global Terrorism Index,2024,SZ,0.18,0.978998949947497
-Global Terrorism Index,2024,MY,0.192,0.977598879943997
-Global Terrorism Index,2024,AE,0.233,0.972815307432038
-Global Terrorism Index,2024,IS,0.233,0.972815307432038
-Global Terrorism Index,2024,PY,0.241,0.971881927429705
-Global Terrorism Index,2024,AM,0.423,0.950647532376619
-Global Terrorism Index,2024,UZ,0.423,0.950647532376619
-Global Terrorism Index,2024,JO,0.455,0.946914012367285
-Global Terrorism Index,2024,NL,0.577,0.9326799673317
-Global Terrorism Index,2024,CN,0.582,0.932096604830242
-Global Terrorism Index,2024,CY,0.616,0.928129739820324
-Global Terrorism Index,2024,CH,0.627,0.926846342317116
-Global Terrorism Index,2024,SE,0.735,0.914245712285614
-Global Terrorism Index,2024,TJ,0.871,0.898378252245946
-Global Terrorism Index,2024,AT,0.953,0.888811107222028
-Global Terrorism Index,2024,MX,1.04,0.878660599696651
-Global Terrorism Index,2024,SK,1.092,0.872593629681484
-Global Terrorism Index,2024,VE,1.174,0.863026484657566
-Global Terrorism Index,2024,JP,1.189,0.861276397153191
-Global Terrorism Index,2024,XK,1.218,0.857892894644732
-Global Terrorism Index,2024,ET,1.272,0.851592579628981
-Global Terrorism Index,2024,AR,1.274,0.851359234628398
-Global Terrorism Index,2024,SA,1.366,0.840625364601564
-Global Terrorism Index,2024,CF,1.445,0.831408237078521
-Global Terrorism Index,2024,IT,1.447,0.831174892077937
-Global Terrorism Index,2024,AU,1.475,0.82790806206977
-Global Terrorism Index,2024,LB,1.562,0.817757554544394
-Global Terrorism Index,2024,ES,1.669,0.805273597013184
-Global Terrorism Index,2024,UA,1.686,0.803290164508225
-Global Terrorism Index,2024,NO,1.747,0.796173141990433
-Global Terrorism Index,2024,CA,1.753,0.795473106988683
-Global Terrorism Index,2024,BE,1.904,0.777855559444639
-Global Terrorism Index,2024,NZ,1.947,0.772838641932097
-Global Terrorism Index,2024,BR,1.988,0.768055069420138
-Global Terrorism Index,2024,DJ,2.035,0.762571461906429
-Global Terrorism Index,2024,PE,2.045,0.761404736903512
-Global Terrorism Index,2024,CI,2.06,0.759654649399137
-Global Terrorism Index,2024,NP,2.163,0.747637381869094
-Global Terrorism Index,2024,DZ,2.197,0.743670516859176
-Global Terrorism Index,2024,AO,2.254,0.737020184342551
-Global Terrorism Index,2024,TZ,2.267,0.735503441838759
-Global Terrorism Index,2024,GB,2.373,0.72313615680784
-Global Terrorism Index,2024,BI,2.434,0.716019134290048
-Global Terrorism Index,2024,LY,2.469,0.711935596779839
-Global Terrorism Index,2024,FR,2.647,0.69116789172792
-Global Terrorism Index,2024,DE,2.782,0.675417104188543
-Global Terrorism Index,2024,TN,2.914,0.660016334150041
-Global Terrorism Index,2024,RU,3.016,0.648115739120289
-Global Terrorism Index,2024,GR,3.028,0.646715669116789
-Global Terrorism Index,2024,LK,3.072,0.641582079103955
-Global Terrorism Index,2024,BD,3.317,0.612997316532493
-Global Terrorism Index,2024,ID,3.993,0.534126706335317
-Global Terrorism Index,2024,US,4.161,0.514525726286314
-Global Terrorism Index,2024,TR,4.168,0.513709018784273
-Global Terrorism Index,2024,TH,4.219,0.507758721269397
-Global Terrorism Index,2024,UG,4.377,0.489324466223311
-Global Terrorism Index,2024,IR,4.464,0.479173958697935
-Global Terrorism Index,2024,TG,4.67,0.455139423637849
-Global Terrorism Index,2024,BJ,4.898,0.428538093571345
-Global Terrorism Index,2024,YE,4.951,0.422354451055886
-Global Terrorism Index,2024,PS,4.966,0.420604363551511
-Global Terrorism Index,2024,TD,4.987,0.418154241045386
-Global Terrorism Index,2024,EG,5.221,0.390852875977132
-Global Terrorism Index,2024,PH,5.383,0.37195193092988
-Global Terrorism Index,2024,KE,5.616,0.344767238361918
-Global Terrorism Index,2024,CL,5.679,0.337416870843542
-Global Terrorism Index,2024,CO,6.188,0.278030568195076
-Global Terrorism Index,2024,MZ,6.267,0.268813440672034
-Global Terrorism Index,2024,IN,6.324,0.262163108155408
-Global Terrorism Index,2024,CD,6.514,0.239995333099988
-Global Terrorism Index,2024,CM,6.98,0.185625947964065
-Global Terrorism Index,2024,IQ,7.078,0.17419204293548
-Global Terrorism Index,2024,NE,7.274,0.151324232878311
-Global Terrorism Index,2024,MM,7.536,0.12075603780189
-Global Terrorism Index,2024,NG,7.575,0.116205810290514
-Global Terrorism Index,2024,SO,7.814,0.0883210827208027
-Global Terrorism Index,2024,AF,7.825,0.0870376852175942
-Global Terrorism Index,2024,SY,7.89,0.0794539726986349
-Global Terrorism Index,2024,PK,7.916,0.0764204876910511
-Global Terrorism Index,2024,ML,7.998,0.0668533426671333
-Global Terrorism Index,2024,IL,8.143,0.0499358301248395
-Global Terrorism Index,2024,BF,8.571,0
-Human Development Index,2022,CH,0.967,1
-Human Development Index,2022,NO,0.966,0.998296422487223
-Human Development Index,2022,IS,0.959,0.986371379897785
-Human Development Index,2022,HK,0.956,0.981260647359455
-Human Development Index,2022,DK,0.952,0.974446337308348
-Human Development Index,2022,SE,0.952,0.974446337308348
-Human Development Index,2022,DE,0.95,0.971039182282794
-Human Development Index,2022,IE,0.95,0.971039182282794
-Human Development Index,2022,SG,0.949,0.969335604770017
-Human Development Index,2022,AU,0.946,0.964224872231687
-Human Development Index,2022,NL,0.946,0.964224872231687
-Human Development Index,2022,BE,0.942,0.957410562180579
-Human Development Index,2022,FI,0.942,0.957410562180579
-Human Development Index,2022,LI,0.942,0.957410562180579
-Human Development Index,2022,GB,0.94,0.954003407155026
-Human Development Index,2022,NZ,0.939,0.952299829642249
-Human Development Index,2022,AE,0.937,0.948892674616695
-Human Development Index,2022,CA,0.935,0.945485519591142
-Human Development Index,2022,KR,0.929,0.935264054514481
-Human Development Index,2022,LU,0.927,0.931856899488927
-Human Development Index,2022,US,0.927,0.931856899488927
-Human Development Index,2022,AT,0.926,0.93015332197615
-Human Development Index,2022,SI,0.926,0.93015332197615
-Human Development Index,2022,JP,0.92,0.919931856899489
-Human Development Index,2022,IL,0.915,0.911413969335605
-Human Development Index,2022,MT,0.915,0.911413969335605
-Human Development Index,2022,ES,0.911,0.904599659284498
-Human Development Index,2022,FR,0.91,0.902896081771721
-Human Development Index,2022,CY,0.907,0.89778534923339
-Human Development Index,2022,IT,0.906,0.896081771720613
-Human Development Index,2022,EE,0.899,0.884156729131176
-Human Development Index,2022,CZ,0.895,0.877342419080068
-Human Development Index,2022,GR,0.893,0.873935264054515
-Human Development Index,2022,BH,0.888,0.86541737649063
-Human Development Index,2022,AD,0.884,0.858603066439523
-Human Development Index,2022,PL,0.881,0.853492333901193
-Human Development Index,2022,LV,0.879,0.850085178875639
-Human Development Index,2022,LT,0.879,0.850085178875639
-Human Development Index,2022,HR,0.878,0.848381601362862
-Human Development Index,2022,QA,0.875,0.843270868824532
-Human Development Index,2022,SA,0.875,0.843270868824532
-Human Development Index,2022,PT,0.874,0.841567291311755
-Human Development Index,2022,SM,0.867,0.829642248722317
-Human Development Index,2022,CL,0.86,0.817717206132879
-Human Development Index,2022,SK,0.855,0.809199318568995
-Human Development Index,2022,TR,0.855,0.809199318568995
-Human Development Index,2022,HU,0.851,0.802385008517888
-Human Development Index,2022,AR,0.849,0.798977853492334
-Human Development Index,2022,KW,0.847,0.79557069846678
-Human Development Index,2022,ME,0.844,0.79045996592845
-Human Development Index,2022,KN,0.838,0.780238500851789
-Human Development Index,2022,UY,0.83,0.766609880749574
-Human Development Index,2022,RO,0.827,0.761499148211244
-Human Development Index,2022,AG,0.826,0.759795570698467
-Human Development Index,2022,BN,0.823,0.754684838160136
-Human Development Index,2022,RU,0.821,0.751277683134583
-Human Development Index,2022,BS,0.82,0.749574105621806
-Human Development Index,2022,PA,0.82,0.749574105621806
-Human Development Index,2022,OM,0.819,0.747870528109029
-Human Development Index,2022,GE,0.814,0.739352640545145
-Human Development Index,2022,TT,0.814,0.739352640545145
-Human Development Index,2022,BB,0.809,0.730834752981261
-Human Development Index,2022,MY,0.807,0.727427597955707
-Human Development Index,2022,CR,0.806,0.72572402044293
-Human Development Index,2022,RS,0.805,0.724020442930153
-Human Development Index,2022,TH,0.803,0.7206132879046
-Human Development Index,2022,KZ,0.802,0.718909710391823
-Human Development Index,2022,SC,0.802,0.718909710391823
-Human Development Index,2022,BY,0.801,0.717206132879046
-Human Development Index,2022,BG,0.799,0.713798977853492
-Human Development Index,2022,PW,0.797,0.710391822827939
-Human Development Index,2022,MU,0.796,0.708688245315162
-Human Development Index,2022,GD,0.793,0.703577512776831
-Human Development Index,2022,AL,0.789,0.696763202725724
-Human Development Index,2022,CN,0.788,0.695059625212947
-Human Development Index,2022,AM,0.786,0.691652470187394
-Human Development Index,2022,MX,0.781,0.68313458262351
-Human Development Index,2022,IR,0.78,0.681431005110733
-Human Development Index,2022,LK,0.78,0.681431005110733
-Human Development Index,2022,BA,0.779,0.679727427597956
-Human Development Index,2022,VC,0.772,0.667802385008518
-Human Development Index,2022,DO,0.766,0.657580919931857
-Human Development Index,2022,EC,0.765,0.65587734241908
-Human Development Index,2022,MK,0.765,0.65587734241908
-Human Development Index,2022,CU,0.764,0.654173764906303
-Human Development Index,2022,MD,0.763,0.652470187393527
-Human Development Index,2022,MV,0.762,0.65076660988075
-Human Development Index,2022,PE,0.762,0.65076660988075
-Human Development Index,2022,AZ,0.76,0.647359454855196
-Human Development Index,2022,BR,0.76,0.647359454855196
-Human Development Index,2022,CO,0.758,0.643952299829642
-Human Development Index,2022,LY,0.746,0.62350936967632
-Human Development Index,2022,DZ,0.745,0.621805792163544
-Human Development Index,2022,TM,0.744,0.620102214650767
-Human Development Index,2022,GY,0.742,0.616695059625213
-Human Development Index,2022,MN,0.741,0.614991482112436
-Human Development Index,2022,DM,0.74,0.613287904599659
-Human Development Index,2022,TO,0.739,0.611584327086883
-Human Development Index,2022,JO,0.736,0.606473594548552
-Human Development Index,2022,UA,0.734,0.603066439522998
-Human Development Index,2022,TN,0.732,0.599659284497445
-Human Development Index,2022,MH,0.731,0.597955706984668
-Human Development Index,2022,PY,0.731,0.597955706984668
-Human Development Index,2022,FJ,0.729,0.594548551959114
-Human Development Index,2022,EG,0.728,0.592844974446337
-Human Development Index,2022,UZ,0.727,0.591141396933561
-Human Development Index,2022,VN,0.726,0.589437819420784
-Human Development Index,2022,LC,0.725,0.587734241908007
-Human Development Index,2022,LB,0.723,0.584327086882453
-Human Development Index,2022,ZA,0.717,0.574105621805792
-Human Development Index,2022,PS,0.716,0.572402044293015
-Human Development Index,2022,ID,0.713,0.567291311754685
-Human Development Index,2022,PH,0.71,0.562180579216354
-Human Development Index,2022,BW,0.708,0.558773424190801
-Human Development Index,2022,JM,0.706,0.555366269165247
-Human Development Index,2022,WS,0.702,0.54855195911414
-Human Development Index,2022,KG,0.701,0.546848381601363
-Human Development Index,2022,BZ,0.7,0.545144804088586
-Human Development Index,2022,VE,0.699,0.543441226575809
-Human Development Index,2022,BO,0.698,0.541737649063032
-Human Development Index,2022,MA,0.698,0.541737649063032
-Human Development Index,2022,NR,0.696,0.538330494037479
-Human Development Index,2022,GA,0.693,0.533219761499148
-Human Development Index,2022,SR,0.69,0.528109028960818
-Human Development Index,2022,BT,0.681,0.512776831345826
-Human Development Index,2022,TJ,0.679,0.509369676320273
-Human Development Index,2022,SV,0.674,0.500851788756389
-Human Development Index,2022,IQ,0.673,0.499148211243612
-Human Development Index,2022,BD,0.67,0.494037478705281
-Human Development Index,2022,NI,0.669,0.492333901192504
-Human Development Index,2022,CV,0.661,0.47870528109029
-Human Development Index,2022,TV,0.653,0.465076660988075
-Human Development Index,2022,GQ,0.65,0.459965928449745
-Human Development Index,2022,IN,0.644,0.449744463373084
-Human Development Index,2022,FM,0.634,0.432708688245315
-Human Development Index,2022,GT,0.629,0.424190800681431
-Human Development Index,2022,KI,0.628,0.422487223168654
-Human Development Index,2022,HN,0.624,0.415672913117547
-Human Development Index,2022,LA,0.62,0.40885860306644
-Human Development Index,2022,VU,0.614,0.398637137989779
-Human Development Index,2022,ST,0.613,0.396933560477002
-Human Development Index,2022,SZ,0.61,0.391822827938671
-Human Development Index,2022,NA,0.61,0.391822827938671
-Human Development Index,2022,MM,0.608,0.388415672913118
-Human Development Index,2022,GH,0.602,0.378194207836457
-Human Development Index,2022,KE,0.601,0.37649063032368
-Human Development Index,2022,NP,0.601,0.37649063032368
-Human Development Index,2022,KH,0.6,0.374787052810903
-Human Development Index,2022,CG,0.593,0.362862010221465
-Human Development Index,2022,AO,0.591,0.359454855195911
-Human Development Index,2022,CM,0.587,0.352640545144804
-Human Development Index,2022,KM,0.586,0.350936967632027
-Human Development Index,2022,ZM,0.569,0.321976149914821
-Human Development Index,2022,PG,0.568,0.320272572402044
-Human Development Index,2022,TL,0.566,0.316865417376491
-Human Development Index,2022,SB,0.562,0.310051107325383
-Human Development Index,2022,SY,0.557,0.301533219761499
-Human Development Index,2022,HT,0.552,0.293015332197615
-Human Development Index,2022,UG,0.55,0.289608177172061
-Human Development Index,2022,ZW,0.55,0.289608177172061
-Human Development Index,2022,NG,0.548,0.286201022146508
-Human Development Index,2022,RW,0.548,0.286201022146508
-Human Development Index,2022,TG,0.547,0.284497444633731
-Human Development Index,2022,MR,0.54,0.272572402044293
-Human Development Index,2022,PK,0.54,0.272572402044293
-Human Development Index,2022,CI,0.534,0.262350936967632
-Human Development Index,2022,TZ,0.532,0.258943781942078
-Human Development Index,2022,LS,0.521,0.240204429301533
-Human Development Index,2022,SN,0.517,0.233390119250426
-Human Development Index,2022,SD,0.516,0.231686541737649
-Human Development Index,2022,DJ,0.515,0.229982964224872
-Human Development Index,2022,MW,0.508,0.218057921635434
-Human Development Index,2022,BJ,0.504,0.211243611584327
-Human Development Index,2022,GM,0.495,0.195911413969336
-Human Development Index,2022,ER,0.493,0.192504258943782
-Human Development Index,2022,ET,0.492,0.190800681431005
-Human Development Index,2022,LR,0.487,0.182282793867121
-Human Development Index,2022,MG,0.487,0.182282793867121
-Human Development Index,2022,GW,0.483,0.175468483816014
-Human Development Index,2022,CD,0.481,0.17206132879046
-Human Development Index,2022,GN,0.471,0.155025553662692
-Human Development Index,2022,AF,0.462,0.1396933560477
-Human Development Index,2022,MZ,0.461,0.137989778534923
-Human Development Index,2022,SL,0.458,0.132879045996593
-Human Development Index,2022,BF,0.438,0.0988074957410562
-Human Development Index,2022,YE,0.424,0.0749574105621806
-Human Development Index,2022,BI,0.42,0.0681431005110732
-Human Development Index,2022,ML,0.41,0.0511073253833049
-Human Development Index,2022,TD,0.394,0.0238500851788757
-Human Development Index,2022,NE,0.394,0.0238500851788757
-Human Development Index,2022,CF,0.387,0.0119250425894378
-Human Development Index,2022,SS,0.381,0.00170357751277683
-Human Development Index,2022,SO,0.38,0
-Legatum Prosperity Index,2023,DK,84.55,1
-Legatum Prosperity Index,2023,SE,83.67,0.983748845798707
-Legatum Prosperity Index,2023,NO,83.59,0.982271468144044
-Legatum Prosperity Index,2023,FI,83.47,0.98005540166205
-Legatum Prosperity Index,2023,CH,83.42,0.979132040627886
-Legatum Prosperity Index,2023,NL,82.32,0.95881809787627
-Legatum Prosperity Index,2023,LU,81.83,0.949769159741459
-Legatum Prosperity Index,2023,IS,81.02,0.934810710987996
-Legatum Prosperity Index,2023,DE,80.81,0.930932594644506
-Legatum Prosperity Index,2023,NZ,80.47,0.924653739612188
-Legatum Prosperity Index,2023,IE,80.31,0.921698984302863
-Legatum Prosperity Index,2023,GB,79.95,0.915050784856879
-Legatum Prosperity Index,2023,CA,79.62,0.908956602031394
-Legatum Prosperity Index,2023,AT,79.38,0.904524469067405
-Legatum Prosperity Index,2023,AU,79.36,0.90415512465374
-Legatum Prosperity Index,2023,JP,78.22,0.883102493074792
-Legatum Prosperity Index,2023,SG,78.21,0.882917820867959
-Legatum Prosperity Index,2023,BE,77.84,0.876084949215143
-Legatum Prosperity Index,2023,US,77.44,0.868698060941828
-Legatum Prosperity Index,2023,TW,77.36,0.867220683287165
-Legatum Prosperity Index,2023,EE,77.31,0.866297322253001
-Legatum Prosperity Index,2023,HK,76.9,0.858725761772853
-Legatum Prosperity Index,2023,FR,76.73,0.855586334256695
-Legatum Prosperity Index,2023,ES,76.03,0.842659279778393
-Legatum Prosperity Index,2023,CZ,75.08,0.825115420129271
-Legatum Prosperity Index,2023,PT,74.64,0.816989843028624
-Legatum Prosperity Index,2023,SI,74.54,0.815143120960296
-Legatum Prosperity Index,2023,MT,74.36,0.811819021237304
-Legatum Prosperity Index,2023,KR,74.07,0.80646352723915
-Legatum Prosperity Index,2023,IT,73.03,0.787257617728532
-Legatum Prosperity Index,2023,LV,72.99,0.7865189289012
-Legatum Prosperity Index,2023,LT,72.54,0.778208679593721
-Legatum Prosperity Index,2023,IL,72.25,0.772853185595568
-Legatum Prosperity Index,2023,CY,71.82,0.764912280701754
-Legatum Prosperity Index,2023,SK,71.15,0.752539242843952
-Legatum Prosperity Index,2023,CL,70.18,0.734626038781164
-Legatum Prosperity Index,2023,PL,70.15,0.734072022160665
-Legatum Prosperity Index,2023,UY,69.69,0.725577100646353
-Legatum Prosperity Index,2023,CR,69.59,0.723730378578024
-Legatum Prosperity Index,2023,GR,68.48,0.703231763619575
-Legatum Prosperity Index,2023,HR,68.24,0.698799630655586
-Legatum Prosperity Index,2023,HU,66.88,0.673684210526316
-Legatum Prosperity Index,2023,MY,66.84,0.672945521698984
-Legatum Prosperity Index,2023,AE,66.69,0.670175438596491
-Legatum Prosperity Index,2023,RO,66.4,0.664819944598338
-Legatum Prosperity Index,2023,QA,66.24,0.661865189289012
-Legatum Prosperity Index,2023,MU,65.65,0.650969529085873
-Legatum Prosperity Index,2023,BG,65.55,0.649122807017544
-Legatum Prosperity Index,2023,ME,65.01,0.639150507848569
-Legatum Prosperity Index,2023,PA,64.32,0.626408125577101
-Legatum Prosperity Index,2023,SC,63.65,0.614035087719298
-Legatum Prosperity Index,2023,RS,62.75,0.59741458910434
-Legatum Prosperity Index,2023,GE,62.28,0.588734995383195
-Legatum Prosperity Index,2023,CN,62.15,0.586334256694368
-Legatum Prosperity Index,2023,MK,61.95,0.58264081255771
-Legatum Prosperity Index,2023,TT,61.91,0.581902123730379
-Legatum Prosperity Index,2023,JM,61.39,0.572299168975069
-Legatum Prosperity Index,2023,AR,61.38,0.572114496768236
-Legatum Prosperity Index,2023,PE,61.27,0.570083102493075
-Legatum Prosperity Index,2023,KW,60.93,0.563804247460757
-Legatum Prosperity Index,2023,AM,60.92,0.563619575253924
-Legatum Prosperity Index,2023,BH,60.92,0.563619575253924
-Legatum Prosperity Index,2023,ID,60.88,0.562880886426593
-Legatum Prosperity Index,2023,TH,60.79,0.561218836565097
-Legatum Prosperity Index,2023,AL,60.69,0.559372114496768
-Legatum Prosperity Index,2023,BR,60.07,0.54792243767313
-Legatum Prosperity Index,2023,OM,59.85,0.543859649122807
-Legatum Prosperity Index,2023,DO,59.85,0.543859649122807
-Legatum Prosperity Index,2023,KZ,59.53,0.537950138504155
-Legatum Prosperity Index,2023,MD,59.44,0.536288088642659
-Legatum Prosperity Index,2023,MX,59.3,0.533702677746999
-Legatum Prosperity Index,2023,BA,59.11,0.530193905817175
-Legatum Prosperity Index,2023,VN,58.86,0.525577100646353
-Legatum Prosperity Index,2023,UA,58.84,0.525207756232687
-Legatum Prosperity Index,2023,ZA,58.67,0.522068328716528
-Legatum Prosperity Index,2023,PY,58.56,0.520036934441367
-Legatum Prosperity Index,2023,RU,58.5,0.518928901200369
-Legatum Prosperity Index,2023,BY,58.4,0.517082179132041
-Legatum Prosperity Index,2023,SA,58.35,0.516158818097876
-Legatum Prosperity Index,2023,CV,58.34,0.515974145891044
-Legatum Prosperity Index,2023,CO,58.01,0.509879963065559
-Legatum Prosperity Index,2023,SR,57.91,0.50803324099723
-Legatum Prosperity Index,2023,BW,57.83,0.506555863342567
-Legatum Prosperity Index,2023,PH,57.53,0.501015697137581
-Legatum Prosperity Index,2023,EC,57.42,0.498984302862419
-Legatum Prosperity Index,2023,JO,57.14,0.493813481071099
-Legatum Prosperity Index,2023,ST,57.09,0.492890120036935
-Legatum Prosperity Index,2023,MN,57.07,0.492520775623269
-Legatum Prosperity Index,2023,GY,56.93,0.489935364727609
-Legatum Prosperity Index,2023,NA,56.38,0.479778393351801
-Legatum Prosperity Index,2023,LK,56.34,0.479039704524469
-Legatum Prosperity Index,2023,AZ,56.26,0.477562326869806
-Legatum Prosperity Index,2023,BZ,55.91,0.471098799630656
-Legatum Prosperity Index,2023,KG,55.75,0.46814404432133
-Legatum Prosperity Index,2023,TR,55.5,0.463527239150508
-Legatum Prosperity Index,2023,MA,55.19,0.457802400738689
-Legatum Prosperity Index,2023,SV,55.05,0.455216989843029
-Legatum Prosperity Index,2023,GH,54.66,0.448014773776547
-Legatum Prosperity Index,2023,TN,54.46,0.444321329639889
-Legatum Prosperity Index,2023,UZ,53.8,0.43213296398892
-Legatum Prosperity Index,2023,GT,53.73,0.43084025854109
-Legatum Prosperity Index,2023,SN,53.68,0.429916897506925
-Legatum Prosperity Index,2023,IN,53.66,0.429547553093259
-Legatum Prosperity Index,2023,CU,53.44,0.425484764542936
-Legatum Prosperity Index,2023,HN,53.25,0.421975992613112
-Legatum Prosperity Index,2023,BO,53.13,0.419759926131117
-Legatum Prosperity Index,2023,TM,52.38,0.405909510618652
-Legatum Prosperity Index,2023,KE,52.25,0.403508771929825
-Legatum Prosperity Index,2023,DZ,52.13,0.40129270544783
-Legatum Prosperity Index,2023,NP,51.57,0.390951061865189
-Legatum Prosperity Index,2023,RW,51.56,0.390766389658356
-Legatum Prosperity Index,2023,LB,51.38,0.387442289935365
-Legatum Prosperity Index,2023,TJ,51.2,0.384118190212373
-Legatum Prosperity Index,2023,NI,50.22,0.366020313942752
-Legatum Prosperity Index,2023,LA,50.18,0.36528162511542
-Legatum Prosperity Index,2023,GM,50.1,0.363804247460757
-Legatum Prosperity Index,2023,TZ,49.2,0.347183748845799
-Legatum Prosperity Index,2023,KH,49.19,0.346999076638966
-Legatum Prosperity Index,2023,GA,48.84,0.340535549399815
-Legatum Prosperity Index,2023,CI,48.59,0.335918744228994
-Legatum Prosperity Index,2023,EG,48.57,0.335549399815328
-Legatum Prosperity Index,2023,DJ,48.47,0.333702677746999
-Legatum Prosperity Index,2023,BJ,48.22,0.329085872576177
-Legatum Prosperity Index,2023,BD,47.87,0.322622345337027
-Legatum Prosperity Index,2023,MW,47.83,0.321883656509695
-Legatum Prosperity Index,2023,IR,47.71,0.319667590027701
-Legatum Prosperity Index,2023,ZM,47.14,0.309141274238227
-Legatum Prosperity Index,2023,KM,46.93,0.305263157894737
-Legatum Prosperity Index,2023,UG,46.83,0.303416435826408
-Legatum Prosperity Index,2023,PG,46.64,0.299907663896584
-Legatum Prosperity Index,2023,GQ,46.59,0.298984302862419
-Legatum Prosperity Index,2023,LS,45.62,0.281071098799631
-Legatum Prosperity Index,2023,TG,45.52,0.279224376731302
-Legatum Prosperity Index,2023,SZ,45.36,0.276269621421976
-Legatum Prosperity Index,2023,BF,45.12,0.271837488457987
-Legatum Prosperity Index,2023,PK,45.1,0.271468144044321
-Legatum Prosperity Index,2023,MG,44.94,0.268513388734995
-Legatum Prosperity Index,2023,LR,44.79,0.265743305632502
-Legatum Prosperity Index,2023,ZW,44.67,0.263527239150508
-Legatum Prosperity Index,2023,IQ,44.66,0.263342566943675
-Legatum Prosperity Index,2023,GN,44.47,0.25983379501385
-Legatum Prosperity Index,2023,NG,44,0.251154201292706
-Legatum Prosperity Index,2023,MM,43.66,0.244875346260388
-Legatum Prosperity Index,2023,SL,43.62,0.244136657433056
-Legatum Prosperity Index,2023,VE,43.6,0.243767313019391
-Legatum Prosperity Index,2023,LY,43.46,0.24118190212373
-Legatum Prosperity Index,2023,CM,43.08,0.234164358264081
-Legatum Prosperity Index,2023,CG,42.82,0.229362880886427
-Legatum Prosperity Index,2023,GW,42.78,0.228624192059095
-Legatum Prosperity Index,2023,MZ,42.7,0.227146814404432
-Legatum Prosperity Index,2023,ML,42.36,0.220867959372115
-Legatum Prosperity Index,2023,NE,42.26,0.219021237303786
-Legatum Prosperity Index,2023,ET,41.87,0.211819021237304
-Legatum Prosperity Index,2023,MR,41.23,0.2
-Legatum Prosperity Index,2023,AO,40.55,0.187442289935365
-Legatum Prosperity Index,2023,HT,39.82,0.173961218836565
-Legatum Prosperity Index,2023,BI,38.2,0.14404432132964
-Legatum Prosperity Index,2023,SD,36.97,0.121329639889197
-Legatum Prosperity Index,2023,SY,36.83,0.118744228993536
-Legatum Prosperity Index,2023,ER,36.02,0.103785780240074
-Legatum Prosperity Index,2023,CD,35.74,0.0986149584487535
-Legatum Prosperity Index,2023,TD,34.69,0.0792243767313019
-Legatum Prosperity Index,2023,SO,34.39,0.0736842105263158
-Legatum Prosperity Index,2023,AF,34.18,0.0698060941828255
-Legatum Prosperity Index,2023,CF,32.83,0.0448753462603878
-Legatum Prosperity Index,2023,YE,32.65,0.0415512465373961
-Legatum Prosperity Index,2023,SS,30.4,0
-Social Progress Index,2022,NO,90.74,1
-Social Progress Index,2022,DK,90.54,0.9966716591779
-Social Progress Index,2022,FI,90.46,0.99534032284906
-Social Progress Index,2022,CH,90.26,0.99201198202696
-Social Progress Index,2022,IS,89.54,0.980029955067399
-Social Progress Index,2022,SE,89.42,0.978032950574139
-Social Progress Index,2022,NL,88.97,0.970544183724413
-Social Progress Index,2022,DE,88.72,0.966383757696788
-Social Progress Index,2022,JP,88.19,0.957563654518223
-Social Progress Index,2022,CA,88.17,0.957230820436013
-Social Progress Index,2022,AT,88.05,0.955233815942753
-Social Progress Index,2022,AU,87.83,0.951572641038442
-Social Progress Index,2022,IE,87.69,0.949242802462972
-Social Progress Index,2022,LU,87.48,0.945748044599767
-Social Progress Index,2022,NZ,87.26,0.942086869695457
-Social Progress Index,2022,BE,87.22,0.941421201531037
-Social Progress Index,2022,KR,86.47,0.928939923448161
-Social Progress Index,2022,EE,86.16,0.923780995173906
-Social Progress Index,2022,GB,86.13,0.923281744050591
-Social Progress Index,2022,FR,86.07,0.922283241803961
-Social Progress Index,2022,ES,85.35,0.9103012148444
-Social Progress Index,2022,IT,85.23,0.90830421035114
-Social Progress Index,2022,CZ,85.19,0.90763854218672
-Social Progress Index,2022,PT,84.75,0.9003161923781
-Social Progress Index,2022,US,84.65,0.89865202196705
-Social Progress Index,2022,MT,84.52,0.896488600432684
-Social Progress Index,2022,SI,84.19,0.890996838076219
-Social Progress Index,2022,SG,83.76,0.883840905308704
-Social Progress Index,2022,LT,83.71,0.883008820103179
-Social Progress Index,2022,CY,83.18,0.874188716924613
-Social Progress Index,2022,IL,83.17,0.874022299883508
-Social Progress Index,2022,LV,82.46,0.862206689965052
-Social Progress Index,2022,GR,82.44,0.861873855882843
-Social Progress Index,2022,HR,82.32,0.859876851389582
-Social Progress Index,2022,SK,81.29,0.842735896155767
-Social Progress Index,2022,CL,80.78,0.834248627059411
-Social Progress Index,2022,CR,80.65,0.832085205525046
-Social Progress Index,2022,UY,80.27,0.825761357963055
-Social Progress Index,2022,PL,80.17,0.824097187552006
-Social Progress Index,2022,BB,79.6,0.81461141620902
-Social Progress Index,2022,AR,78.64,0.798635380262939
-Social Progress Index,2022,HU,78.21,0.791479447495424
-Social Progress Index,2022,RO,76.89,0.769512398069562
-Social Progress Index,2022,BG,76.81,0.768181061740722
-Social Progress Index,2022,RS,75.8,0.751372940589116
-Social Progress Index,2022,TT,75.58,0.747711765684806
-Social Progress Index,2022,MU,75.44,0.745381927109336
-Social Progress Index,2022,AM,74.78,0.734398402396406
-Social Progress Index,2022,ME,74.64,0.732068563820935
-Social Progress Index,2022,GE,74.43,0.72857380595773
-Social Progress Index,2022,MD,74.19,0.72457979697121
-Social Progress Index,2022,UA,74.17,0.724246962889
-Social Progress Index,2022,AL,74.12,0.723414877683475
-Social Progress Index,2022,MY,74.08,0.722749209519055
-Social Progress Index,2022,KW,74.06,0.722416375436845
-Social Progress Index,2022,PA,74.02,0.721750707272425
-Social Progress Index,2022,JM,73.48,0.712764187052754
-Social Progress Index,2022,MK,72.74,0.700449326010984
-Social Progress Index,2022,RU,71.99,0.687968047928108
-Social Progress Index,2022,EC,71.75,0.683974038941588
-Social Progress Index,2022,BY,71.49,0.679647195872857
-Social Progress Index,2022,BR,71.26,0.675819603927442
-Social Progress Index,2022,BA,71.23,0.675320352804127
-Social Progress Index,2022,SR,71.22,0.675153935763022
-Social Progress Index,2022,KZ,71.21,0.674987518721917
-Social Progress Index,2022,MX,70.84,0.668830088201032
-Social Progress Index,2022,PE,70.7,0.666500249625562
-Social Progress Index,2022,AE,70.7,0.666500249625562
-Social Progress Index,2022,ZA,69.95,0.654018971542686
-Social Progress Index,2022,CO,69.83,0.652021967049426
-Social Progress Index,2022,TH,69.8,0.651522715926111
-Social Progress Index,2022,TN,69.77,0.651023464802796
-Social Progress Index,2022,DO,69.76,0.650857047761691
-Social Progress Index,2022,LK,69.22,0.64187052754202
-Social Progress Index,2022,CV,69.01,0.638375769678815
-Social Progress Index,2022,PY,68.96,0.63754368447329
-Social Progress Index,2022,VN,68.18,0.6245631552671
-Social Progress Index,2022,BT,68.05,0.622399733732734
-Social Progress Index,2022,MV,68.02,0.621900482609419
-Social Progress Index,2022,OM,67.7,0.616575137294059
-Social Progress Index,2022,PH,67.46,0.612581128307539
-Social Progress Index,2022,JO,67.32,0.610251289732069
-Social Progress Index,2022,KG,67.23,0.608753536362124
-Social Progress Index,2022,MN,67.21,0.608420702279913
-Social Progress Index,2022,BO,67.15,0.607422200033284
-Social Progress Index,2022,FJ,67.02,0.605258778498918
-Social Progress Index,2022,ID,66.67,0.599434182060243
-Social Progress Index,2022,TR,66.59,0.598102845731403
-Social Progress Index,2022,LB,66.48,0.596272258279248
-Social Progress Index,2022,QA,66.47,0.596105841238143
-Social Progress Index,2022,UZ,66.12,0.590281244799468
-Social Progress Index,2022,BH,66.09,0.589781993676153
-Social Progress Index,2022,BW,65.89,0.586453652854052
-Social Progress Index,2022,CN,65.74,0.583957397237477
-Social Progress Index,2022,DZ,65.59,0.581461141620902
-Social Progress Index,2022,GY,65.54,0.580629056415377
-Social Progress Index,2022,PS,65.19,0.574804459976702
-Social Progress Index,2022,GH,64.8,0.568314195373606
-Social Progress Index,2022,SV,64.42,0.561990347811616
-Social Progress Index,2022,MA,64.04,0.555666500249626
-Social Progress Index,2022,SA,63.89,0.553170244633051
-Social Progress Index,2022,IR,63.72,0.550341154934265
-Social Progress Index,2022,AZ,63.26,0.542685971043435
-Social Progress Index,2022,ST,62.49,0.529871858878349
-Social Progress Index,2022,GA,62.18,0.524712930604094
-Social Progress Index,2022,NA,62,0.521717423864204
-Social Progress Index,2022,HN,61.17,0.507904809452488
-Social Progress Index,2022,NI,60.23,0.492261607588617
-Social Progress Index,2022,GT,60.21,0.491928773506407
-Social Progress Index,2022,IN,60.19,0.491595939424197
-Social Progress Index,2022,NP,59.39,0.478282576135796
-Social Progress Index,2022,TL,58.92,0.470460975203861
-Social Progress Index,2022,EG,58.73,0.467299051422866
-Social Progress Index,2022,VE,58.62,0.465468463970711
-Social Progress Index,2022,KE,57.96,0.45448493925778
-Social Progress Index,2022,SN,57.7,0.45015809618905
-Social Progress Index,2022,IQ,56.82,0.435513396571809
-Social Progress Index,2022,TM,56.75,0.434348477284074
-Social Progress Index,2022,BD,56.06,0.422865701447828
-Social Progress Index,2022,TJ,56.05,0.422699284406723
-Social Progress Index,2022,KH,55.71,0.417041105009153
-Social Progress Index,2022,BJ,55.59,0.415044100515893
-Social Progress Index,2022,TZ,54.87,0.403062073556332
-Social Progress Index,2022,GM,54.68,0.399900149775337
-Social Progress Index,2022,MW,54.29,0.393409885172242
-Social Progress Index,2022,LY,54.28,0.393243468131137
-Social Progress Index,2022,CI,54.01,0.388750208021301
-Social Progress Index,2022,NG,52.97,0.371442835746381
-Social Progress Index,2022,LS,52.9,0.370277916458645
-Social Progress Index,2022,SB,52.4,0.361957064403395
-Social Progress Index,2022,RW,52.18,0.358295889499085
-Social Progress Index,2022,ZW,52.17,0.35812947245798
-Social Progress Index,2022,KM,52.11,0.35713097021135
-Social Progress Index,2022,ZM,52.07,0.35646530204693
-Social Progress Index,2022,SY,51.98,0.354967548676985
-Social Progress Index,2022,TG,51.58,0.348310867032784
-Social Progress Index,2022,MM,51.46,0.346313862539524
-Social Progress Index,2022,CM,51.4,0.345315360292894
-Social Progress Index,2022,PK,51.32,0.343984023964054
-Social Progress Index,2022,LA,51.17,0.341487768347479
-Social Progress Index,2022,SL,50.48,0.330004992511233
-Social Progress Index,2022,BF,49.83,0.319187884839408
-Social Progress Index,2022,DJ,49.39,0.311865535030787
-Social Progress Index,2022,UG,49.34,0.311033449825262
-Social Progress Index,2022,SZ,49.19,0.308537194208687
-Social Progress Index,2022,LR,49.03,0.305874521551007
-Social Progress Index,2022,MZ,48.27,0.293226826427026
-Social Progress Index,2022,PG,48.12,0.290730570810451
-Social Progress Index,2022,CG,47.54,0.28107838242636
-Social Progress Index,2022,ET,47.43,0.279247794974205
-Social Progress Index,2022,MG,47.07,0.273256781494425
-Social Progress Index,2022,ML,46.93,0.270926942918955
-Social Progress Index,2022,AO,46.87,0.269928440672325
-Social Progress Index,2022,GW,46.65,0.266267265768015
-Social Progress Index,2022,MR,46.6,0.26543518056249
-Social Progress Index,2022,GQ,46.58,0.26510234648028
-Social Progress Index,2022,HT,45.42,0.245797969712099
-Social Progress Index,2022,SD,45.41,0.245631552670993
-Social Progress Index,2022,NE,43.14,0.207854884340156
-Social Progress Index,2022,BI,42.91,0.204027292394741
-Social Progress Index,2022,CD,42.7,0.200532534531536
-Social Progress Index,2022,GN,42.41,0.195706440339491
-Social Progress Index,2022,YE,39.08,0.140289565651523
-Social Progress Index,2022,AF,37.34,0.111333000499251
-Social Progress Index,2022,SO,35.85,0.0865368613746048
-Social Progress Index,2022,ER,34.85,0.0698951572641039
-Social Progress Index,2022,TD,34.69,0.0672324846064237
-Social Progress Index,2022,CF,32.39,0.0289565651522716
-Social Progress Index,2022,SS,30.65,0
-The Economist Democracy Index,2023,NO,9.81,1
-The Economist Democracy Index,2023,NZ,9.61,0.979057591623037
-The Economist Democracy Index,2023,IS,9.52,0.969633507853403
-The Economist Democracy Index,2023,SE,9.39,0.956020942408377
-The Economist Democracy Index,2023,FI,9.3,0.946596858638743
-The Economist Democracy Index,2023,DK,9.28,0.944502617801047
-The Economist Democracy Index,2023,IE,9.19,0.935078534031414
-The Economist Democracy Index,2023,CH,9.14,0.929842931937173
-The Economist Democracy Index,2023,NL,9,0.915183246073298
-The Economist Democracy Index,2023,TW,8.92,0.906806282722513
-The Economist Democracy Index,2023,LU,8.81,0.895287958115183
-The Economist Democracy Index,2023,DE,8.8,0.894240837696335
-The Economist Democracy Index,2023,CA,8.69,0.882722513089005
-The Economist Democracy Index,2023,UY,8.66,0.879581151832461
-The Economist Democracy Index,2023,AU,8.66,0.879581151832461
-The Economist Democracy Index,2023,JP,8.4,0.852356020942408
-The Economist Democracy Index,2023,CR,8.29,0.840837696335078
-The Economist Democracy Index,2023,GB,8.28,0.83979057591623
-The Economist Democracy Index,2023,AT,8.28,0.83979057591623
-The Economist Democracy Index,2023,GR,8.14,0.825130890052356
-The Economist Democracy Index,2023,MU,8.14,0.825130890052356
-The Economist Democracy Index,2023,KR,8.09,0.819895287958115
-The Economist Democracy Index,2023,FR,8.07,0.817801047120419
-The Economist Democracy Index,2023,ES,8.07,0.817801047120419
-The Economist Democracy Index,2023,CL,7.98,0.808376963350785
-The Economist Democracy Index,2023,CZ,7.97,0.807329842931937
-The Economist Democracy Index,2023,EE,7.96,0.806282722513089
-The Economist Democracy Index,2023,MT,7.93,0.803141361256545
-The Economist Democracy Index,2023,US,7.85,0.794764397905759
-The Economist Democracy Index,2023,IL,7.8,0.789528795811518
-The Economist Democracy Index,2023,PT,7.75,0.784293193717278
-The Economist Democracy Index,2023,SI,7.75,0.784293193717278
-The Economist Democracy Index,2023,BW,7.73,0.782198952879581
-The Economist Democracy Index,2023,IT,7.69,0.778010471204189
-The Economist Democracy Index,2023,CV,7.65,0.773821989528796
-The Economist Democracy Index,2023,BE,7.64,0.772774869109948
-The Economist Democracy Index,2023,CY,7.38,0.745549738219895
-The Economist Democracy Index,2023,LV,7.38,0.745549738219895
-The Economist Democracy Index,2023,LT,7.31,0.738219895287958
-The Economist Democracy Index,2023,MY,7.29,0.736125654450262
-The Economist Democracy Index,2023,IN,7.18,0.724607329842932
-The Economist Democracy Index,2023,PL,7.18,0.724607329842932
-The Economist Democracy Index,2023,TT,7.16,0.722513089005236
-The Economist Democracy Index,2023,JM,7.06,0.712041884816754
-The Economist Democracy Index,2023,TL,7.06,0.712041884816754
-The Economist Democracy Index,2023,SK,7.05,0.710994764397906
-The Economist Democracy Index,2023,ZA,7.05,0.710994764397906
-The Economist Democracy Index,2023,PA,6.91,0.696335078534031
-The Economist Democracy Index,2023,SR,6.88,0.693193717277487
-The Economist Democracy Index,2023,HU,6.72,0.676439790575916
-The Economist Democracy Index,2023,BR,6.68,0.672251308900524
-The Economist Democracy Index,2023,ME,6.67,0.671204188481675
-The Economist Democracy Index,2023,PH,6.66,0.670157068062827
-The Economist Democracy Index,2023,AR,6.62,0.665968586387435
-The Economist Democracy Index,2023,CO,6.55,0.658638743455497
-The Economist Democracy Index,2023,ID,6.53,0.656544502617801
-The Economist Democracy Index,2023,NA,6.52,0.655497382198953
-The Economist Democracy Index,2023,HR,6.5,0.653403141361257
-The Economist Democracy Index,2023,MN,6.48,0.65130890052356
-The Economist Democracy Index,2023,RO,6.45,0.648167539267016
-The Economist Democracy Index,2023,DO,6.44,0.647120418848168
-The Economist Democracy Index,2023,BG,6.41,0.643979057591623
-The Economist Democracy Index,2023,TH,6.35,0.637696335078534
-The Economist Democracy Index,2023,RS,6.33,0.635602094240838
-The Economist Democracy Index,2023,GH,6.3,0.632460732984293
-The Economist Democracy Index,2023,AL,6.28,0.630366492146597
-The Economist Democracy Index,2023,GY,6.26,0.628272251308901
-The Economist Democracy Index,2023,MD,6.23,0.625130890052356
-The Economist Democracy Index,2023,SG,6.18,0.619895287958115
-The Economist Democracy Index,2023,LK,6.17,0.618848167539267
-The Economist Democracy Index,2023,LS,6.06,0.607329842931937
-The Economist Democracy Index,2023,MK,6.03,0.604188481675393
-The Economist Democracy Index,2023,PG,6.03,0.604188481675393
-The Economist Democracy Index,2023,PY,6,0.601047120418848
-The Economist Democracy Index,2023,BD,5.87,0.587434554973822
-The Economist Democracy Index,2023,MW,5.85,0.585340314136126
-The Economist Democracy Index,2023,PE,5.81,0.581151832460733
-The Economist Democracy Index,2023,ZM,5.8,0.580104712041885
-The Economist Democracy Index,2023,LR,5.57,0.556020942408377
-The Economist Democracy Index,2023,FJ,5.55,0.553926701570681
-The Economist Democracy Index,2023,BT,5.54,0.552879581151832
-The Economist Democracy Index,2023,TN,5.51,0.549738219895288
-The Economist Democracy Index,2023,SN,5.48,0.546596858638744
-The Economist Democracy Index,2023,AM,5.42,0.540314136125654
-The Economist Democracy Index,2023,EC,5.41,0.539267015706806
-The Economist Democracy Index,2023,TZ,5.35,0.532984293193717
-The Economist Democracy Index,2023,MG,5.26,0.523560209424084
-The Economist Democracy Index,2023,HK,5.24,0.521465968586387
-The Economist Democracy Index,2023,GE,5.2,0.517277486910995
-The Economist Democracy Index,2023,MX,5.14,0.510994764397906
-The Economist Democracy Index,2023,UA,5.06,0.50261780104712
-The Economist Democracy Index,2023,KE,5.05,0.501570680628272
-The Economist Democracy Index,2023,MA,5.02,0.498429319371728
-The Economist Democracy Index,2023,BA,5,0.496335078534031
-The Economist Democracy Index,2023,HN,4.98,0.494240837696335
-The Economist Democracy Index,2023,SV,4.71,0.465968586387435
-The Economist Democracy Index,2023,BJ,4.68,0.46282722513089
-The Economist Democracy Index,2023,NP,4.6,0.454450261780105
-The Economist Democracy Index,2023,UG,4.49,0.442931937172775
-The Economist Democracy Index,2023,GM,4.47,0.440837696335079
-The Economist Democracy Index,2023,GT,4.47,0.440837696335079
-The Economist Democracy Index,2023,TR,4.33,0.426178010471204
-The Economist Democracy Index,2023,SL,4.32,0.425130890052356
-The Economist Democracy Index,2023,NG,4.23,0.415706806282723
-The Economist Democracy Index,2023,CI,4.22,0.414659685863874
-The Economist Democracy Index,2023,BO,4.2,0.412565445026178
-The Economist Democracy Index,2023,AO,4.18,0.410471204188482
-The Economist Democracy Index,2023,MR,4.14,0.406282722513089
-The Economist Democracy Index,2023,KG,3.7,0.36020942408377
-The Economist Democracy Index,2023,DZ,3.66,0.356020942408377
-The Economist Democracy Index,2023,QA,3.65,0.354973821989529
-The Economist Democracy Index,2023,LB,3.56,0.345549738219895
-The Economist Democracy Index,2023,MZ,3.51,0.340314136125654
-The Economist Democracy Index,2023,KW,3.5,0.339267015706806
-The Economist Democracy Index,2023,PS,3.47,0.336125654450262
-The Economist Democracy Index,2023,ET,3.37,0.32565445026178
-The Economist Democracy Index,2023,RW,3.3,0.318324607329843
-The Economist Democracy Index,2023,PK,3.25,0.313089005235602
-The Economist Democracy Index,2023,OM,3.12,0.299476439790576
-The Economist Democracy Index,2023,KZ,3.08,0.295287958115183
-The Economist Democracy Index,2023,KH,3.05,0.292146596858639
-The Economist Democracy Index,2023,KM,3.04,0.291099476439791
-The Economist Democracy Index,2023,JO,3.04,0.291099476439791
-The Economist Democracy Index,2023,ZW,3.04,0.291099476439791
-The Economist Democracy Index,2023,AE,3.01,0.287958115183246
-The Economist Democracy Index,2023,TG,2.99,0.28586387434555
-The Economist Democracy Index,2023,EG,2.93,0.279581151832461
-The Economist Democracy Index,2023,IQ,2.88,0.27434554973822
-The Economist Democracy Index,2023,HT,2.81,0.267015706806283
-The Economist Democracy Index,2023,AZ,2.8,0.265968586387435
-The Economist Democracy Index,2023,CG,2.79,0.264921465968586
-The Economist Democracy Index,2023,SZ,2.78,0.263874345549738
-The Economist Democracy Index,2023,BF,2.73,0.258638743455497
-The Economist Democracy Index,2023,DJ,2.7,0.255497382198953
-The Economist Democracy Index,2023,CU,2.65,0.250261780104712
-The Economist Democracy Index,2023,VN,2.62,0.247120418848168
-The Economist Democracy Index,2023,ML,2.58,0.242931937172775
-The Economist Democracy Index,2023,CM,2.56,0.240837696335079
-The Economist Democracy Index,2023,BH,2.52,0.236649214659686
-The Economist Democracy Index,2023,GW,2.45,0.229319371727749
-The Economist Democracy Index,2023,NE,2.37,0.220942408376963
-The Economist Democracy Index,2023,VE,2.31,0.214659685863874
-The Economist Democracy Index,2023,NI,2.26,0.209424083769633
-The Economist Democracy Index,2023,RU,2.22,0.205235602094241
-The Economist Democracy Index,2023,GN,2.21,0.204188481675393
-The Economist Democracy Index,2023,GA,2.18,0.201047120418848
-The Economist Democracy Index,2023,BI,2.13,0.195811518324607
-The Economist Democracy Index,2023,CN,2.12,0.194764397905759
-The Economist Democracy Index,2023,UZ,2.12,0.194764397905759
-The Economist Democracy Index,2023,SA,2.08,0.190575916230367
-The Economist Democracy Index,2023,BY,1.99,0.181151832460733
-The Economist Democracy Index,2023,ER,1.97,0.179057591623037
-The Economist Democracy Index,2023,IR,1.96,0.178010471204188
-The Economist Democracy Index,2023,YE,1.95,0.17696335078534
-The Economist Democracy Index,2023,TJ,1.94,0.175916230366492
-The Economist Democracy Index,2023,GQ,1.92,0.173821989528796
-The Economist Democracy Index,2023,LY,1.78,0.159162303664921
-The Economist Democracy Index,2023,SD,1.76,0.157068062827225
-The Economist Democracy Index,2023,LA,1.71,0.151832460732984
-The Economist Democracy Index,2023,CD,1.68,0.14869109947644
-The Economist Democracy Index,2023,TD,1.67,0.147643979057592
-The Economist Democracy Index,2023,TM,1.66,0.146596858638743
-The Economist Democracy Index,2023,SY,1.43,0.122513089005236
-The Economist Democracy Index,2023,CF,1.18,0.0963350785340314
-The Economist Democracy Index,2023,KP,1.08,0.0858638743455497
-The Economist Democracy Index,2023,MM,0.85,0.0617801047120419
-The Economist Democracy Index,2023,AF,0.26,0
-World Happiness Report,2024,FI,7.74069976806641,1
-World Happiness Report,2024,DK,7.5826997756958,0.973752845273558
-World Happiness Report,2024,IS,7.52510023117065,0.964184337486684
-World Happiness Report,2024,SE,7.34409999847412,0.93411635430625
-World Happiness Report,2024,IL,7.34110021591187,0.933618026705876
-World Happiness Report,2024,NL,7.3193998336792,0.930013132290769
-World Happiness Report,2024,NO,7.30170011520386,0.927072833101722
-World Happiness Report,2024,LU,7.12190008163452,0.897204228489106
-World Happiness Report,2024,CH,7.06020021438599,0.886954570005107
-World Happiness Report,2024,AU,7.05690002441406,0.886406338353193
-World Happiness Report,2024,NZ,7.02920007705689,0.881804788737337
-World Happiness Report,2024,CR,6.95539999008179,0.869545026742433
-World Happiness Report,2024,KW,6.95139980316162,0.868880510729153
-World Happiness Report,2024,AT,6.90469980239868,0.861122648672586
-World Happiness Report,2024,CA,6.8996000289917,0.860275467988115
-World Happiness Report,2024,BE,6.89419984817505,0.859378383252105
-World Happiness Report,2024,IE,6.83799982070923,0.850042364975182
-World Happiness Report,2024,CZ,6.82180023193359,0.847351269192712
-World Happiness Report,2024,LT,6.81750011444092,0.846636928340673
-World Happiness Report,2024,GB,6.74900007247925,0.835257616397933
-World Happiness Report,2024,SI,6.74329996109009,0.834310706823163
-World Happiness Report,2024,AE,6.73309993743897,0.832616266241442
-World Happiness Report,2024,US,6.72480010986328,0.831237488588904
-World Happiness Report,2024,DE,6.7185001373291,0.830190929336616
-World Happiness Report,2024,MX,6.67799997329712,0.82346299184849
-World Happiness Report,2024,UY,6.61149978637695,0.812415898305999
-World Happiness Report,2024,FR,6.60900020599365,0.812000664912077
-World Happiness Report,2024,SA,6.5935001373291,0.809425774278192
-World Happiness Report,2024,XK,6.56099987030029,0.804026789603845
-World Happiness Report,2024,SG,6.52279996871948,0.797680974567509
-World Happiness Report,2024,TW,6.50349998474121,0.794474837288038
-World Happiness Report,2024,RO,6.49119997024536,0.792431543622221
-World Happiness Report,2024,SV,6.46869993209839,0.788693809374682
-World Happiness Report,2024,EE,6.44770002365112,0.785205278533721
-World Happiness Report,2024,PL,6.44150018692017,0.784175353965279
-World Happiness Report,2024,ES,6.42089986801148,0.780753203434143
-World Happiness Report,2024,RS,6.41079998016357,0.779075397536269
-World Happiness Report,2024,CL,6.36030006408691,0.770686288834115
-World Happiness Report,2024,PA,6.35820007324219,0.770337435750019
-World Happiness Report,2024,MT,6.34579992294312,0.768277507400355
-World Happiness Report,2024,IT,6.32350015640259,0.76457304252051
-World Happiness Report,2024,GT,6.28700017929077,0.758509621045663
-World Happiness Report,2024,NI,6.28389978408814,0.757994579548662
-World Happiness Report,2024,BR,6.27199983596802,0.756017745405451
-World Happiness Report,2024,SK,6.25710010528564,0.753542583661865
-World Happiness Report,2024,LV,6.23449993133545,0.74978821473048
-World Happiness Report,2024,UZ,6.19500017166138,0.743226465655259
-World Happiness Report,2024,AR,6.18809986114502,0.742080177512672
-World Happiness Report,2024,KZ,6.1875,0.741980527835153
-World Happiness Report,2024,CY,6.06809997558594,0.722145647667653
-World Happiness Report,2024,JP,6.05980014801025,0.720766870015115
-World Happiness Report,2024,KR,6.05789995193481,0.720451207085932
-World Happiness Report,2024,PH,6.04759979248047,0.718740131820364
-World Happiness Report,2024,VN,6.04300022125244,0.717976045342346
-World Happiness Report,2024,PT,6.02960014343262,0.715750007792557
-World Happiness Report,2024,HU,6.01690006256104,0.713640254604134
-World Happiness Report,2024,PY,5.97650003433228,0.706928951799855
-World Happiness Report,2024,TH,5.97609996795654,0.706862492277249
-World Happiness Report,2024,MY,5.97520017623901,0.706713017760971
-World Happiness Report,2024,CN,5.97270011901856,0.706297705154269
-World Happiness Report,2024,HN,5.96840000152588,0.70558336430223
-World Happiness Report,2024,BH,5.95909976959229,0.704038398236787
-World Happiness Report,2024,HR,5.94229984283447,0.701247573564018
-World Happiness Report,2024,GR,5.93359994888306,0.699802336388874
-World Happiness Report,2024,BA,5.8769998550415,0.690399858589345
-World Happiness Report,2024,LY,5.86630010604858,0.688622403013951
-World Happiness Report,2024,JM,5.84170007705689,0.684535815682317
-World Happiness Report,2024,PE,5.84089994430542,0.684402896637105
-World Happiness Report,2024,DO,5.82280015945435,0.681396137925451
-World Happiness Report,2024,MU,5.81640005111694,0.680332943989316
-World Happiness Report,2024,MD,5.81589984893799,0.680249849782864
-World Happiness Report,2024,RU,5.78529977798462,0.6751665280377
-World Happiness Report,2024,BO,5.78429985046387,0.675000418837575
-World Happiness Report,2024,EC,5.72450017929077,0.665066423282759
-World Happiness Report,2024,KG,5.71350002288818,0.663239063655826
-World Happiness Report,2024,ME,5.70699977874756,0.662159235035844
-World Happiness Report,2024,MN,5.69619989395142,0.660365144776604
-World Happiness Report,2024,CO,5.69509983062744,0.660182400892633
-World Happiness Report,2024,VE,5.60669994354248,0.645497301992903
-World Happiness Report,2024,ID,5.56829977035523,0.639118217588873
-World Happiness Report,2024,BG,5.46269989013672,0.621575834493768
-World Happiness Report,2024,AM,5.45489978790283,0.620280071834902
-World Happiness Report,2024,ZA,5.42199993133545,0.614814706850729
-World Happiness Report,2024,MK,5.36910009384155,0.60602692022572
-World Happiness Report,2024,DZ,5.36350011825562,0.605096645334797
-World Happiness Report,2024,HK,5.31640005111694,0.597272323755624
-World Happiness Report,2024,AL,5.30420017242432,0.595245664773653
-World Happiness Report,2024,TJ,5.28070020675659,0.591341821325989
-World Happiness Report,2024,CG,5.22149991989136,0.581507396235912
-World Happiness Report,2024,MZ,5.21640014648438,0.580660215551441
-World Happiness Report,2024,GE,5.18470001220703,0.575394149922306
-World Happiness Report,2024,IQ,5.16599988937378,0.572287662320354
-World Happiness Report,2024,NP,5.15840005874634,0.571025169029181
-World Happiness Report,2024,LA,5.13889980316162,0.567785762382017
-World Happiness Report,2024,GA,5.10629987716675,0.562370222236604
-World Happiness Report,2024,CI,5.08010005950928,0.558017876027325
-World Happiness Report,2024,GN,5.02330017089844,0.548582208072883
-World Happiness Report,2024,TR,4.97529983520508,0.540608332764652
-World Happiness Report,2024,SN,4.96859979629517,0.539495313989757
-World Happiness Report,2024,IR,4.92280006408691,0.531887005662248
-World Happiness Report,2024,AZ,4.89340019226074,0.527003062484903
-World Happiness Report,2024,NG,4.88079977035523,0.524909864767546
-World Happiness Report,2024,PS,4.87949991226196,0.524693930728661
-World Happiness Report,2024,CM,4.87440013885498,0.523846750044191
-World Happiness Report,2024,UA,4.8730001449585,0.52361418132146
-World Happiness Report,2024,NA,4.83169984817505,0.516753324788123
-World Happiness Report,2024,MA,4.79470014572144,0.510606888319604
-World Happiness Report,2024,PK,4.65670013427734,0.487682155233998
-World Happiness Report,2024,NE,4.55630016326904,0.47100358750721
-World Happiness Report,2024,BF,4.5479998588562,0.469624730641892
-World Happiness Report,2024,MR,4.50509977340698,0.462498115230911
-World Happiness Report,2024,GM,4.48489999771118,0.459142503435161
-World Happiness Report,2024,TD,4.47130012512207,0.45688327573046
-World Happiness Report,2024,KE,4.46960020065308,0.45660088216897
-World Happiness Report,2024,TN,4.42180013656616,0.448660276228431
-World Happiness Report,2024,BJ,4.37739992141724,0.441284457410872
-World Happiness Report,2024,UG,4.37169981002808,0.440337547836103
-World Happiness Report,2024,MM,4.35449981689453,0.437480263640728
-World Happiness Report,2024,KH,4.34070014953613,0.435187845781113
-World Happiness Report,2024,GH,4.28940010070801,0.426665818033748
-World Happiness Report,2024,LR,4.26859998703003,0.423210477347699
-World Happiness Report,2024,ML,4.23199987411499,0.417130421189007
-World Happiness Report,2024,MG,4.22790002822876,0.416449349704661
-World Happiness Report,2024,TG,4.2140998840332,0.414156852632266
-World Happiness Report,2024,JO,4.18580007553101,0.409455653338892
-World Happiness Report,2024,IN,4.05410003662109,0.387577479505574
-World Happiness Report,2024,EG,3.97659993171692,0.37470306594254
-World Happiness Report,2024,LK,3.89809989929199,0.361662543179382
-World Happiness Report,2024,BD,3.88590002059937,0.359635884197411
-World Happiness Report,2024,ET,3.86089992523193,0.35548283734317
-World Happiness Report,2024,TZ,3.78060007095337,0.342143325941065
-World Happiness Report,2024,KM,3.56629991531372,0.306543518253853
-World Happiness Report,2024,YE,3.56100010871887,0.305663107808079
-World Happiness Report,2024,ZM,3.50239992141724,0.29592837200191
-World Happiness Report,2024,SZ,3.50200009346008,0.295861952085694
-World Happiness Report,2024,MW,3.4210000038147,0.282406116715833
-World Happiness Report,2024,BW,3.38339996337891,0.276159951357016
-World Happiness Report,2024,ZW,3.34109997749329,0.269133025229944
-World Happiness Report,2024,CD,3.2953999042511,0.261541272373501
-World Happiness Report,2024,SL,3.24519991874695,0.253201988510107
-World Happiness Report,2024,LS,3.18619990348816,0.243400832787722
-World Happiness Report,2024,LB,2.70650005340576,0.163712498640016
-World Happiness Report,2024,AF,1.72099995613098,0
+dataset,year,country,score
+Corruption Perceptions Index,2023,DK,90
+Corruption Perceptions Index,2023,FI,87
+Corruption Perceptions Index,2023,NZ,85
+Corruption Perceptions Index,2023,NO,84
+Corruption Perceptions Index,2023,SE,82
+Corruption Perceptions Index,2023,CH,82
+Corruption Perceptions Index,2023,NL,79
+Corruption Perceptions Index,2023,DE,78
+Corruption Perceptions Index,2023,LU,78
+Corruption Perceptions Index,2023,IE,77
+Corruption Perceptions Index,2023,CA,76
+Corruption Perceptions Index,2023,EE,76
+Corruption Perceptions Index,2023,AU,75
+Corruption Perceptions Index,2023,BE,73
+Corruption Perceptions Index,2023,JP,73
+Corruption Perceptions Index,2023,IS,72
+Corruption Perceptions Index,2023,AT,71
+Corruption Perceptions Index,2023,FR,71
+Corruption Perceptions Index,2023,GB,71
+Corruption Perceptions Index,2023,US,69
+Corruption Perceptions Index,2023,CL,66
+Corruption Perceptions Index,2023,KR,63
+Corruption Perceptions Index,2023,IL,62
+Corruption Perceptions Index,2023,LT,61
+Corruption Perceptions Index,2023,PT,61
+Corruption Perceptions Index,2023,LV,60
+Corruption Perceptions Index,2023,ES,60
+Corruption Perceptions Index,2023,CZ,57
+Corruption Perceptions Index,2023,IT,56
+Corruption Perceptions Index,2023,SI,56
+Corruption Perceptions Index,2023,CR,55
+Corruption Perceptions Index,2023,PL,54
+Corruption Perceptions Index,2023,SK,54
+Corruption Perceptions Index,2023,GR,49
+Corruption Perceptions Index,2023,HU,42
+Corruption Perceptions Index,2023,CO,40
+Corruption Perceptions Index,2023,TR,34
+Corruption Perceptions Index,2023,MX,31
+Environmental Performance Index,2024,EE,75.7
+Environmental Performance Index,2024,LU,75.1
+Environmental Performance Index,2024,DE,74.5
+Environmental Performance Index,2024,FI,73.8
+Environmental Performance Index,2024,GB,72.6
+Environmental Performance Index,2024,SE,70.3
+Environmental Performance Index,2024,NO,69.9
+Environmental Performance Index,2024,AT,68.9
+Environmental Performance Index,2024,CH,67.8
+Environmental Performance Index,2024,DK,67.7
+Environmental Performance Index,2024,GR,67.3
+Environmental Performance Index,2024,FR,67
+Environmental Performance Index,2024,NL,66.9
+Environmental Performance Index,2024,BE,66.8
+Environmental Performance Index,2024,IE,65.8
+Environmental Performance Index,2024,CZ,65.5
+Environmental Performance Index,2024,SK,65.1
+Environmental Performance Index,2024,IS,64.3
+Environmental Performance Index,2024,PL,64.2
+Environmental Performance Index,2024,LT,64.1
+Environmental Performance Index,2024,ES,64
+Environmental Performance Index,2024,AU,63.1
+Environmental Performance Index,2024,SI,62.4
+Environmental Performance Index,2024,PT,61.9
+Environmental Performance Index,2024,JP,61.4
+Environmental Performance Index,2024,CA,61.1
+Environmental Performance Index,2024,IT,60.3
+Environmental Performance Index,2024,LV,60.2
+Environmental Performance Index,2024,HU,59.8
+Environmental Performance Index,2024,NZ,57.3
+Environmental Performance Index,2024,US,57.2
+Environmental Performance Index,2024,CR,55.5
+Environmental Performance Index,2024,KR,50.6
+Environmental Performance Index,2024,CO,49.7
+Environmental Performance Index,2024,CL,49.6
+Environmental Performance Index,2024,IL,48
+Environmental Performance Index,2024,MX,44.2
+Environmental Performance Index,2024,TR,37.2
+Global Gender Gap Report,2022,IS,0.908
+Global Gender Gap Report,2022,FI,0.86
+Global Gender Gap Report,2022,NO,0.845
+Global Gender Gap Report,2022,NZ,0.841
+Global Gender Gap Report,2022,SE,0.822
+Global Gender Gap Report,2022,IE,0.804
+Global Gender Gap Report,2022,DE,0.801
+Global Gender Gap Report,2022,LT,0.799
+Global Gender Gap Report,2022,CR,0.796
+Global Gender Gap Report,2022,CH,0.795
+Global Gender Gap Report,2022,BE,0.793
+Global Gender Gap Report,2022,FR,0.791
+Global Gender Gap Report,2022,ES,0.788
+Global Gender Gap Report,2022,AT,0.781
+Global Gender Gap Report,2022,GB,0.78
+Global Gender Gap Report,2022,CA,0.772
+Global Gender Gap Report,2022,LV,0.771
+Global Gender Gap Report,2022,US,0.769
+Global Gender Gap Report,2022,NL,0.767
+Global Gender Gap Report,2022,PT,0.766
+Global Gender Gap Report,2022,DK,0.764
+Global Gender Gap Report,2022,MX,0.764
+Global Gender Gap Report,2022,SI,0.744
+Global Gender Gap Report,2022,AU,0.738
+Global Gender Gap Report,2022,CL,0.736
+Global Gender Gap Report,2022,LU,0.736
+Global Gender Gap Report,2022,EE,0.733
+Global Gender Gap Report,2022,IL,0.727
+Global Gender Gap Report,2022,IT,0.72
+Global Gender Gap Report,2022,SK,0.717
+Global Gender Gap Report,2022,CO,0.71
+Global Gender Gap Report,2022,CZ,0.71
+Global Gender Gap Report,2022,PL,0.709
+Global Gender Gap Report,2022,HU,0.699
+Global Gender Gap Report,2022,GR,0.689
+Global Gender Gap Report,2022,KR,0.689
+Global Gender Gap Report,2022,JP,0.65
+Global Gender Gap Report,2022,TR,0.639
+Global Organized Crime Index: Criminality,2023,LU,2.85
+Global Organized Crime Index: Criminality,2023,FI,2.98
+Global Organized Crime Index: Criminality,2023,IS,3.37
+Global Organized Crime Index: Criminality,2023,NO,3.75
+Global Organized Crime Index: Criminality,2023,CA,3.88
+Global Organized Crime Index: Criminality,2023,LV,3.9
+Global Organized Crime Index: Criminality,2023,LT,3.9
+Global Organized Crime Index: Criminality,2023,AU,4
+Global Organized Crime Index: Criminality,2023,DK,4.02
+Global Organized Crime Index: Criminality,2023,NZ,4.08
+Global Organized Crime Index: Criminality,2023,AT,4.13
+Global Organized Crime Index: Criminality,2023,EE,4.25
+Global Organized Crime Index: Criminality,2023,JP,4.28
+Global Organized Crime Index: Criminality,2023,SI,4.37
+Global Organized Crime Index: Criminality,2023,KR,4.43
+Global Organized Crime Index: Criminality,2023,BE,4.43
+Global Organized Crime Index: Criminality,2023,PL,4.48
+Global Organized Crime Index: Criminality,2023,HU,4.62
+Global Organized Crime Index: Criminality,2023,CZ,4.68
+Global Organized Crime Index: Criminality,2023,SE,4.7
+Global Organized Crime Index: Criminality,2023,SK,4.72
+Global Organized Crime Index: Criminality,2023,IL,4.85
+Global Organized Crime Index: Criminality,2023,CH,4.87
+Global Organized Crime Index: Criminality,2023,PT,4.88
+Global Organized Crime Index: Criminality,2023,NL,4.97
+Global Organized Crime Index: Criminality,2023,IE,5.08
+Global Organized Crime Index: Criminality,2023,CL,5.18
+Global Organized Crime Index: Criminality,2023,DE,5.33
+Global Organized Crime Index: Criminality,2023,GR,5.35
+Global Organized Crime Index: Criminality,2023,CR,5.53
+Global Organized Crime Index: Criminality,2023,US,5.67
+Global Organized Crime Index: Criminality,2023,GB,5.75
+Global Organized Crime Index: Criminality,2023,FR,5.82
+Global Organized Crime Index: Criminality,2023,ES,5.9
+Global Organized Crime Index: Criminality,2023,IT,6.22
+Global Organized Crime Index: Criminality,2023,TR,7.03
+Global Organized Crime Index: Criminality,2023,MX,7.57
+Global Organized Crime Index: Criminality,2023,CO,7.75
+Global Organized Crime Index: Resilience,2023,FI,8.63
+Global Organized Crime Index: Resilience,2023,IS,8.21
+Global Organized Crime Index: Resilience,2023,DK,8.13
+Global Organized Crime Index: Resilience,2023,KR,8.08
+Global Organized Crime Index: Resilience,2023,NO,7.92
+Global Organized Crime Index: Resilience,2023,NZ,7.88
+Global Organized Crime Index: Resilience,2023,EE,7.88
+Global Organized Crime Index: Resilience,2023,LV,7.58
+Global Organized Crime Index: Resilience,2023,GB,7.54
+Global Organized Crime Index: Resilience,2023,LU,7.5
+Global Organized Crime Index: Resilience,2023,AT,7.5
+Global Organized Crime Index: Resilience,2023,DE,7.5
+Global Organized Crime Index: Resilience,2023,SE,7.46
+Global Organized Crime Index: Resilience,2023,NL,7.46
+Global Organized Crime Index: Resilience,2023,AU,7.38
+Global Organized Crime Index: Resilience,2023,JP,7.38
+Global Organized Crime Index: Resilience,2023,IE,7.33
+Global Organized Crime Index: Resilience,2023,LT,7.29
+Global Organized Crime Index: Resilience,2023,CA,7.21
+Global Organized Crime Index: Resilience,2023,US,7.13
+Global Organized Crime Index: Resilience,2023,BE,7.04
+Global Organized Crime Index: Resilience,2023,CH,7.04
+Global Organized Crime Index: Resilience,2023,FR,6.96
+Global Organized Crime Index: Resilience,2023,ES,6.75
+Global Organized Crime Index: Resilience,2023,PT,6.5
+Global Organized Crime Index: Resilience,2023,IT,6.46
+Global Organized Crime Index: Resilience,2023,CZ,6.42
+Global Organized Crime Index: Resilience,2023,CL,6.17
+Global Organized Crime Index: Resilience,2023,IL,6.08
+Global Organized Crime Index: Resilience,2023,SI,6.04
+Global Organized Crime Index: Resilience,2023,PL,5.88
+Global Organized Crime Index: Resilience,2023,CR,5.63
+Global Organized Crime Index: Resilience,2023,CO,5.63
+Global Organized Crime Index: Resilience,2023,SK,5.29
+Global Organized Crime Index: Resilience,2023,GR,5.17
+Global Organized Crime Index: Resilience,2023,HU,4.88
+Global Organized Crime Index: Resilience,2023,MX,4.21
+Global Organized Crime Index: Resilience,2023,TR,3.38
+Global Peace Index,2024,IS,1.112
+Global Peace Index,2024,IE,1.303
+Global Peace Index,2024,AT,1.313
+Global Peace Index,2024,NZ,1.323
+Global Peace Index,2024,CH,1.35
+Global Peace Index,2024,PT,1.372
+Global Peace Index,2024,DK,1.382
+Global Peace Index,2024,SI,1.395
+Global Peace Index,2024,CA,1.449
+Global Peace Index,2024,CZ,1.459
+Global Peace Index,2024,FI,1.474
+Global Peace Index,2024,HU,1.502
+Global Peace Index,2024,BE,1.51
+Global Peace Index,2024,JP,1.525
+Global Peace Index,2024,NL,1.527
+Global Peace Index,2024,AU,1.536
+Global Peace Index,2024,DE,1.542
+Global Peace Index,2024,ES,1.597
+Global Peace Index,2024,EE,1.615
+Global Peace Index,2024,SK,1.634
+Global Peace Index,2024,NO,1.638
+Global Peace Index,2024,LV,1.661
+Global Peace Index,2024,LT,1.672
+Global Peace Index,2024,PL,1.678
+Global Peace Index,2024,IT,1.692
+Global Peace Index,2024,GB,1.703
+Global Peace Index,2024,SE,1.782
+Global Peace Index,2024,GR,1.793
+Global Peace Index,2024,KR,1.848
+Global Peace Index,2024,CR,1.95
+Global Peace Index,2024,CL,1.978
+Global Peace Index,2024,FR,2.088
+Global Peace Index,2024,US,2.622
+Global Peace Index,2024,MX,2.778
+Global Peace Index,2024,TR,2.78
+Global Peace Index,2024,CO,2.887
+Global Peace Index,2024,IL,3.115
+Global Terrorism Index,2024,CR,0
+Global Terrorism Index,2024,CZ,0
+Global Terrorism Index,2024,DK,0
+Global Terrorism Index,2024,EE,0
+Global Terrorism Index,2024,FI,0
+Global Terrorism Index,2024,HU,0
+Global Terrorism Index,2024,LV,0
+Global Terrorism Index,2024,PL,0
+Global Terrorism Index,2024,PT,0
+Global Terrorism Index,2024,SI,0
+Global Terrorism Index,2024,KR,0
+Global Terrorism Index,2024,IE,0.03
+Global Terrorism Index,2024,LT,0.059
+Global Terrorism Index,2024,IS,0.233
+Global Terrorism Index,2024,NL,0.577
+Global Terrorism Index,2024,CH,0.627
+Global Terrorism Index,2024,SE,0.735
+Global Terrorism Index,2024,AT,0.953
+Global Terrorism Index,2024,MX,1.04
+Global Terrorism Index,2024,SK,1.092
+Global Terrorism Index,2024,JP,1.189
+Global Terrorism Index,2024,IT,1.447
+Global Terrorism Index,2024,AU,1.475
+Global Terrorism Index,2024,ES,1.669
+Global Terrorism Index,2024,NO,1.747
+Global Terrorism Index,2024,CA,1.753
+Global Terrorism Index,2024,BE,1.904
+Global Terrorism Index,2024,NZ,1.947
+Global Terrorism Index,2024,GB,2.373
+Global Terrorism Index,2024,FR,2.647
+Global Terrorism Index,2024,DE,2.782
+Global Terrorism Index,2024,GR,3.028
+Global Terrorism Index,2024,US,4.161
+Global Terrorism Index,2024,TR,4.168
+Global Terrorism Index,2024,CL,5.679
+Global Terrorism Index,2024,CO,6.188
+Global Terrorism Index,2024,IL,8.143
+Human Development Index,2022,CH,0.967
+Human Development Index,2022,NO,0.966
+Human Development Index,2022,IS,0.959
+Human Development Index,2022,DK,0.952
+Human Development Index,2022,SE,0.952
+Human Development Index,2022,DE,0.95
+Human Development Index,2022,IE,0.95
+Human Development Index,2022,AU,0.946
+Human Development Index,2022,NL,0.946
+Human Development Index,2022,BE,0.942
+Human Development Index,2022,FI,0.942
+Human Development Index,2022,GB,0.94
+Human Development Index,2022,NZ,0.939
+Human Development Index,2022,CA,0.935
+Human Development Index,2022,KR,0.929
+Human Development Index,2022,LU,0.927
+Human Development Index,2022,US,0.927
+Human Development Index,2022,AT,0.926
+Human Development Index,2022,SI,0.926
+Human Development Index,2022,JP,0.92
+Human Development Index,2022,IL,0.915
+Human Development Index,2022,ES,0.911
+Human Development Index,2022,FR,0.91
+Human Development Index,2022,IT,0.906
+Human Development Index,2022,EE,0.899
+Human Development Index,2022,CZ,0.895
+Human Development Index,2022,GR,0.893
+Human Development Index,2022,PL,0.881
+Human Development Index,2022,LV,0.879
+Human Development Index,2022,LT,0.879
+Human Development Index,2022,PT,0.874
+Human Development Index,2022,CL,0.86
+Human Development Index,2022,SK,0.855
+Human Development Index,2022,TR,0.855
+Human Development Index,2022,HU,0.851
+Human Development Index,2022,CR,0.806
+Human Development Index,2022,MX,0.781
+Human Development Index,2022,CO,0.758
+Legatum Prosperity Index,2023,DK,84.55
+Legatum Prosperity Index,2023,SE,83.67
+Legatum Prosperity Index,2023,NO,83.59
+Legatum Prosperity Index,2023,FI,83.47
+Legatum Prosperity Index,2023,CH,83.42
+Legatum Prosperity Index,2023,NL,82.32
+Legatum Prosperity Index,2023,LU,81.83
+Legatum Prosperity Index,2023,IS,81.02
+Legatum Prosperity Index,2023,DE,80.81
+Legatum Prosperity Index,2023,NZ,80.47
+Legatum Prosperity Index,2023,IE,80.31
+Legatum Prosperity Index,2023,GB,79.95
+Legatum Prosperity Index,2023,CA,79.62
+Legatum Prosperity Index,2023,AT,79.38
+Legatum Prosperity Index,2023,AU,79.36
+Legatum Prosperity Index,2023,JP,78.22
+Legatum Prosperity Index,2023,BE,77.84
+Legatum Prosperity Index,2023,US,77.44
+Legatum Prosperity Index,2023,EE,77.31
+Legatum Prosperity Index,2023,FR,76.73
+Legatum Prosperity Index,2023,ES,76.03
+Legatum Prosperity Index,2023,CZ,75.08
+Legatum Prosperity Index,2023,PT,74.64
+Legatum Prosperity Index,2023,SI,74.54
+Legatum Prosperity Index,2023,KR,74.07
+Legatum Prosperity Index,2023,IT,73.03
+Legatum Prosperity Index,2023,LV,72.99
+Legatum Prosperity Index,2023,LT,72.54
+Legatum Prosperity Index,2023,IL,72.25
+Legatum Prosperity Index,2023,SK,71.15
+Legatum Prosperity Index,2023,CL,70.18
+Legatum Prosperity Index,2023,PL,70.15
+Legatum Prosperity Index,2023,CR,69.59
+Legatum Prosperity Index,2023,GR,68.48
+Legatum Prosperity Index,2023,HU,66.88
+Legatum Prosperity Index,2023,MX,59.3
+Legatum Prosperity Index,2023,CO,58.01
+Legatum Prosperity Index,2023,TR,55.5
+Social Progress Index,2022,NO,90.74
+Social Progress Index,2022,DK,90.54
+Social Progress Index,2022,FI,90.46
+Social Progress Index,2022,CH,90.26
+Social Progress Index,2022,IS,89.54
+Social Progress Index,2022,SE,89.42
+Social Progress Index,2022,NL,88.97
+Social Progress Index,2022,DE,88.72
+Social Progress Index,2022,JP,88.19
+Social Progress Index,2022,CA,88.17
+Social Progress Index,2022,AT,88.05
+Social Progress Index,2022,AU,87.83
+Social Progress Index,2022,IE,87.69
+Social Progress Index,2022,LU,87.48
+Social Progress Index,2022,NZ,87.26
+Social Progress Index,2022,BE,87.22
+Social Progress Index,2022,KR,86.47
+Social Progress Index,2022,EE,86.16
+Social Progress Index,2022,GB,86.13
+Social Progress Index,2022,FR,86.07
+Social Progress Index,2022,ES,85.35
+Social Progress Index,2022,IT,85.23
+Social Progress Index,2022,CZ,85.19
+Social Progress Index,2022,PT,84.75
+Social Progress Index,2022,US,84.65
+Social Progress Index,2022,SI,84.19
+Social Progress Index,2022,LT,83.71
+Social Progress Index,2022,IL,83.17
+Social Progress Index,2022,LV,82.46
+Social Progress Index,2022,GR,82.44
+Social Progress Index,2022,SK,81.29
+Social Progress Index,2022,CL,80.78
+Social Progress Index,2022,CR,80.65
+Social Progress Index,2022,PL,80.17
+Social Progress Index,2022,HU,78.21
+Social Progress Index,2022,MX,70.84
+Social Progress Index,2022,CO,69.83
+Social Progress Index,2022,TR,66.59
+The Economist Democracy Index,2023,NO,9.81
+The Economist Democracy Index,2023,NZ,9.61
+The Economist Democracy Index,2023,IS,9.52
+The Economist Democracy Index,2023,SE,9.39
+The Economist Democracy Index,2023,FI,9.3
+The Economist Democracy Index,2023,DK,9.28
+The Economist Democracy Index,2023,IE,9.19
+The Economist Democracy Index,2023,CH,9.14
+The Economist Democracy Index,2023,NL,9
+The Economist Democracy Index,2023,LU,8.81
+The Economist Democracy Index,2023,DE,8.8
+The Economist Democracy Index,2023,CA,8.69
+The Economist Democracy Index,2023,AU,8.66
+The Economist Democracy Index,2023,JP,8.4
+The Economist Democracy Index,2023,CR,8.29
+The Economist Democracy Index,2023,GB,8.28
+The Economist Democracy Index,2023,AT,8.28
+The Economist Democracy Index,2023,GR,8.14
+The Economist Democracy Index,2023,KR,8.09
+The Economist Democracy Index,2023,FR,8.07
+The Economist Democracy Index,2023,ES,8.07
+The Economist Democracy Index,2023,CL,7.98
+The Economist Democracy Index,2023,CZ,7.97
+The Economist Democracy Index,2023,EE,7.96
+The Economist Democracy Index,2023,US,7.85
+The Economist Democracy Index,2023,IL,7.8
+The Economist Democracy Index,2023,PT,7.75
+The Economist Democracy Index,2023,SI,7.75
+The Economist Democracy Index,2023,IT,7.69
+The Economist Democracy Index,2023,BE,7.64
+The Economist Democracy Index,2023,LV,7.38
+The Economist Democracy Index,2023,LT,7.31
+The Economist Democracy Index,2023,PL,7.18
+The Economist Democracy Index,2023,SK,7.05
+The Economist Democracy Index,2023,HU,6.72
+The Economist Democracy Index,2023,CO,6.55
+The Economist Democracy Index,2023,MX,5.14
+The Economist Democracy Index,2023,TR,4.33
+World Happiness Report,2024,FI,7.74069976806641
+World Happiness Report,2024,DK,7.5826997756958
+World Happiness Report,2024,IS,7.52510023117065
+World Happiness Report,2024,SE,7.34409999847412
+World Happiness Report,2024,IL,7.34110021591187
+World Happiness Report,2024,NL,7.3193998336792
+World Happiness Report,2024,NO,7.30170011520386
+World Happiness Report,2024,LU,7.12190008163452
+World Happiness Report,2024,CH,7.06020021438599
+World Happiness Report,2024,AU,7.05690002441406
+World Happiness Report,2024,NZ,7.02920007705689
+World Happiness Report,2024,CR,6.95539999008179
+World Happiness Report,2024,AT,6.90469980239868
+World Happiness Report,2024,CA,6.8996000289917
+World Happiness Report,2024,BE,6.89419984817505
+World Happiness Report,2024,IE,6.83799982070923
+World Happiness Report,2024,CZ,6.82180023193359
+World Happiness Report,2024,LT,6.81750011444092
+World Happiness Report,2024,GB,6.74900007247925
+World Happiness Report,2024,SI,6.74329996109009
+World Happiness Report,2024,US,6.72480010986328
+World Happiness Report,2024,DE,6.7185001373291
+World Happiness Report,2024,MX,6.67799997329712
+World Happiness Report,2024,FR,6.60900020599365
+World Happiness Report,2024,EE,6.44770002365112
+World Happiness Report,2024,PL,6.44150018692017
+World Happiness Report,2024,ES,6.42089986801148
+World Happiness Report,2024,CL,6.36030006408691
+World Happiness Report,2024,IT,6.32350015640259
+World Happiness Report,2024,SK,6.25710010528564
+World Happiness Report,2024,LV,6.23449993133545
+World Happiness Report,2024,JP,6.05980014801025
+World Happiness Report,2024,KR,6.05789995193481
+World Happiness Report,2024,PT,6.02960014343262
+World Happiness Report,2024,HU,6.01690006256104
+World Happiness Report,2024,GR,5.93359994888306
+World Happiness Report,2024,CO,5.69509983062744
+World Happiness Report,2024,TR,4.97529983520508

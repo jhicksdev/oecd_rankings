@@ -1,9 +1,8 @@
 from csv import DictReader
-from json import load
 from typing import List, Optional, Set
 
 from utils.dataset import Dataset
-from utils.paths import CODES_JSON, DATA_CSV
+from utils.paths import DATA_CSV
 from utils.record import Record
 
 
@@ -39,19 +38,13 @@ class DatasetManager:
 
     def load(self):
         try:
-            with CODES_JSON.open() as file:
-                codes: List[str] = load(file)
-
             with DATA_CSV.open() as file:
                 reader = DictReader(file)
                 for row in reader:
                     dataset_title = row["dataset"]
                     dataset_year = int(row["year"])
                     country_code = row["country"]
-                    score = float(row["normalized_score"])
-
-                    if country_code not in codes:
-                        continue
+                    score = float(row["score"])
 
                     dataset = self.get_dataset(dataset_title, dataset_year)
                     if dataset is None:

@@ -47,9 +47,15 @@ class Dataset:
             return  # Avoid division by zero if there are no records
 
         scores = [record.score for record in self._records]
-        min_score, max_score = min(scores), max(scores)
-        if min_score == max_score:
+        best_score, worst_score = (
+            (min(scores), max(scores))
+            if self._title in ["Global Peace Index", "Global Terrorism Index"]
+            else (max(scores), min(scores))
+        )
+        if best_score == worst_score:
             return  # Avoid division by zero if all scores are the same
 
         for record in self._records:
-            record.score = (record.score - min_score) / (max_score - min_score)
+            record.normalized_score = max(
+                [0.0, (record.score - worst_score) / (best_score - worst_score)]
+            )
