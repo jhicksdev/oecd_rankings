@@ -85,7 +85,7 @@ The datasets used in this project cover the following years:
 | Global Terrorism Index          | 2024 |
 | Human Development Index (HDI)   | 2022 |
 | Legatum Prosperity Index        | 2023 |
-| Social Progress Index (SPI)     | 2022 |
+| Social Progress Index (SPI)     | 2023 |
 | The Economist Democracy Index   | 2023 |
 | World Happiness Report          | 2024 |
 
