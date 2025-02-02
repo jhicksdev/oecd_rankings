@@ -79,7 +79,7 @@ The datasets used in this project cover the following years:
 | ------------------------------- | ---- |
 | Corruption Perceptions Index    | 2023 |
 | Environmental Performance Index | 2024 |
-| Global Gender Gap Report        | 2022 |
+| Global Gender Gap Report        | 2024 |
 | Global Organized Crime Index    | 2023 |
 | Global Peace Index              | 2024 |
 | Global Terrorism Index          | 2024 |
@@ -109,7 +109,7 @@ python3 main.py
 
 Running the command will produce a `results.json` file containing the scores for all OECD countries.
 
-**NOTE:** The `results.json` file may not include every OECD member state if they are missing from some datasets.
+**NOTE:** The `results.json` file may not include every OECD member state if they are not present in all datasets.
 
 ## License
 
