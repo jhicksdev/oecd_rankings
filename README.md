@@ -20,7 +20,6 @@ For more information about the OECD, please visit the [Organisation for Economic
   - [World Happiness Report](#world-happiness-report)
   - [Data Coverage](#data-coverage)
 - [Data Calculation](#data-calculation)
-- [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [License](#license)
 
@@ -74,7 +73,7 @@ This report ranks countries based on citizens' well-being and happiness, conside
 
 ### Data Coverage
 
-As of February 2025, the datasets used in this project cover the following years:
+The datasets used in this project cover the following years:
 
 | Dataset                         | Year |
 | ------------------------------- | ---- |
@@ -92,22 +91,13 @@ As of February 2025, the datasets used in this project cover the following years
 
 ## Data Calculation
 
-The scores in the `data.csv` file have been normalized to values between 0 and 1. This normalization allows for a standardized comparison across different datasets. The normalization is done using the following formula:
+During the calculation process, the scores in the `data.csv` file will be normalized to values between 0 and 1. This normalization allows for a standardized comparison across different datasets. The normalization is done using the following formula:
 
 ```python
 normalized_score = (original_score - worst_score) / (best_score - worst_score)
 ```
 
-This process ensures that all scores are on a common scale, making it easier to compare different countries across various metrics such as human development, safety, happiness, etc.
-
-**NOTE:** The normalization process has been done manually using third-party software unrelated to this project. The normalized scores are then used in this project to generate the final rankings and results.
-
-By using normalized scores, the project can provide a more accurate and fair comparison of how each OECD member country excels in different areas.
-
-## Prerequisites
-
-- Python 3.6 or higher
-- Internet connection (for fetching country data)
+This process ensures that all scores are on a common scale, making it easier to compare different countries across various metrics such as human development, safety, happiness, etc. By using normalized scores, the project can provide a more accurate and fair comparison of how each OECD member country excels in different areas.
 
 ## Usage
 
