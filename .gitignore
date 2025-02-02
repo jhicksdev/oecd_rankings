@@ -1,32 +1,12 @@
-# Ignore Python bytecode files
-__pycache__/
-*.py[cod]
+# Ignore Python cache directories
+**/__pycache__/
+**/*.py[cod]
 
-# Ignore virtual environment directories
-venv/
-env/
+# Ignore Ruff cache
+.ruff_cache/
+
+# Ignore virtual environments
 .venv/
 
-# Ignore VS Code settings
+# Ignore VSCode settings
 .vscode/
-
-# Ignore uncoded data files
-data/*_UNCODED.csv
-
-# Allow coded data files
-!data/*.csv
-
-# Ignore JSON files
-*.json
-!oecd_analysis.json
-!countries.json
-
-# Ignore log files
-*.log
-
-# Ignore system files
-.DS_Store
-Thumbs.db
-
-# Ignore cache files
-.ruff_cache/
