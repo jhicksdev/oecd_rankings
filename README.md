@@ -1,6 +1,6 @@
 # OECD Rankings
 
-This project aims to provide a comprehensive analysis of OECD member countries based on various international rankings. By normalizing and comparing data from different sources, the project helps identify areas where countries excel and areas that need improvement. The results can be used by policymakers, researchers, and the general public to gain insights into the performance of OECD countries across different metrics.
+This project aims to provide a straightforward analysis of OECD member countries based on various international rankings. By normalizing and comparing data from different sources, the project helps identify areas where countries perform well and areas that need improvement. The results can be used by policymakers, researchers, and the general public to gain insights into the performance of OECD countries across different metrics.
 
 For more information about the OECD, please visit the [Organisation for Economic Co-operation and Development (OECD) website](https://www.oecd.org/).
 
