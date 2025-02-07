@@ -94,10 +94,12 @@ The datasets used in this project cover the following years:
 During the calculation process, the scores in the `data.csv` file will be normalized to values between 0 and 1. This normalization allows for a standardized comparison across different datasets. The normalization is done using the following formula:
 
 ```python
-normalized_score = (original_score - worst_score) / (best_score - worst_score)
+normalized_score = (score - min_score) / (max_score - min_score)
 ```
 
 This process ensures that all scores are on a common scale, making it easier to compare different countries across various metrics such as human development, safety, happiness, etc. By using normalized scores, the project can provide a more accurate and fair comparison of how each OECD member country excels in different areas.
+
+The normalized scores will be used to find the average score for each of the 38 OECD member countries. The countries will then be ranked based on their average scores to provide an overall comparison of their performance across the different metrics.
 
 ## Usage
 
