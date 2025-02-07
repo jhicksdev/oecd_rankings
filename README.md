@@ -1,4 +1,4 @@
-# OECD Rankings
+![OECD Rankings](./assets/logo.svg)
 
 This project aims to provide a straightforward analysis of OECD member countries based on various international rankings. By normalizing and comparing data from different sources, the project helps identify areas where countries perform well and areas that need improvement. The results can be used by policymakers, researchers, and the general public to gain insights into the performance of OECD countries across different metrics.
 
