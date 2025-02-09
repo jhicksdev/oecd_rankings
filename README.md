@@ -1,3 +1,5 @@
+# OECD Rankings
+
 ![OECD Rankings](./assets/logo.svg)
 
 This project aims to provide a straightforward analysis of OECD member countries based on various international rankings. By normalizing and comparing data from different sources, the project helps identify areas where countries perform well and areas that need improvement. The results can be used by policymakers, researchers, and the general public to gain insights into the performance of OECD countries across different metrics.
@@ -22,6 +24,10 @@ For more information about the OECD, please visit the [Organisation for Economic
 - [Data Calculation](#data-calculation)
 - [Usage](#usage)
 - [License](#license)
+
+## Results
+
+![Results](./assets/results.png)
 
 ## Data Sources
 
@@ -94,7 +100,7 @@ The datasets used in this project cover the following years:
 During the calculation process, the scores in the `data.csv` file will be normalized to values between 0 and 1. This normalization allows for a standardized comparison across different datasets. The normalization is done using the following formula:
 
 ```python
-normalized_score = (score - min_score) / (max_score - min_score)
+normalized_score = (score - worst_score) / (best_score - worst_score)
 ```
 
 This process ensures that all scores are on a common scale, making it easier to compare different countries across various metrics such as human development, safety, happiness, etc. By using normalized scores, the project can provide a more accurate and fair comparison of how each OECD member country excels in different areas.
@@ -103,15 +109,15 @@ The normalized scores will be used to find the average score for each of the 38 
 
 ## Usage
 
-Process the `data.csv` file, generate results for OECD member countries, and export the results in JSON format:
+Process the `data.csv` file, generate results for OECD member countries, and export the results in CSV and JSON format, along with a visual bar chart:
 
 ```sh
 python3 main.py
 ```
 
-Running the command will produce a `results.json` file containing the scores for all OECD countries.
+Running the command will produce a `results.csv`, `results.json`, and `assets/results.png` file containing the results for all OECD countries.
 
-**NOTE:** The `results.json` file may not include every OECD member state if they are not present in all datasets.
+**NOTE:** The generated files may not include every OECD member state if they are not present in all datasets.
 
 ## License
 

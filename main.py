@@ -1,28 +1,31 @@
-import logging
+from logging import INFO, basicConfig, error, info
 
 from utils.country_manager import CountryManager
 from utils.dataset_manager import DatasetManager
-from utils.paths import RESULTS_JSON
+from utils.result_generator import ResultGenerator
 
-# Configure logging
-logging.basicConfig(level=logging.INFO)
+basicConfig(level=INFO)
+
+dataset_manager = DatasetManager()
+country_manager = CountryManager()
+result_generator = ResultGenerator(country_manager)
 
 try:
-    # Initialize dataset manager and process data
-    dataset_manager = DatasetManager.get_instance()
     dataset_manager.load()
     dataset_manager.synchronize()
     dataset_manager.normalize()
-    logging.info("Dataset processing completed successfully.")
+    info("Dataset processing completed successfully.")
 except Exception as e:
-    logging.error(f"Error processing datasets: {e}")
+    error(f"Error processing datasets: {e}")
 
 try:
-    # Initialize country manager and process data
-    country_manager = CountryManager.get_instance()
-    country_manager.load()
-    logging.info("Country processing completed successfully.")
-    country_manager.save(RESULTS_JSON)
-    logging.info(f"Results saved successfully to file: {RESULTS_JSON}")
+    country_manager.load(dataset_manager)
+    info("Country processing completed successfully.")
 except Exception as e:
-    logging.error(f"Error processing countries: {e}")
+    error(f"Error processing countries: {e}")
+
+try:
+    result_generator.generate()
+    info("Results generated successfully.")
+except Exception as e:
+    error(f"Error generating results: {e}")

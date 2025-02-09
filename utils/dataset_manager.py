@@ -1,5 +1,5 @@
 from csv import DictReader
-from typing import List, Optional, Set
+from typing import List, Set
 
 from utils.dataset import Dataset
 from utils.paths import DATA_CSV
@@ -7,52 +7,31 @@ from utils.record import Record
 
 
 class DatasetManager:
-    _instance: Optional["DatasetManager"] = None
-
     def __init__(self):
-        self._datasets: List[Dataset] = []
+        self.datasets: List[Dataset] = []
 
-    def __len__(self):
-        return len(self._datasets)
-
-    def __iter__(self):
-        return iter(self._datasets)
-
-    def __str__(self):
-        return f"<DatasetManager @ {hex(id(self))}> (datasets={len(self)})"
-
-    @staticmethod
-    def get_instance() -> "DatasetManager":
-        if DatasetManager._instance is None:
-            DatasetManager._instance = DatasetManager()
-        return DatasetManager._instance
-
-    def add_dataset(self, dataset: Dataset):
-        self._datasets.append(dataset)
-
-    def get_dataset(self, title: str, year: int) -> Optional[Dataset]:
-        for dataset in self._datasets:
+    def get_dataset(self, title: str, year: int):
+        for dataset in self.datasets:
             if dataset.title == title and dataset.year == year:
                 return dataset
-        return None
 
-    def load(self):
+    def load(self) -> None:
         try:
             with DATA_CSV.open() as file:
                 reader = DictReader(file)
                 for row in reader:
-                    dataset_title = row["dataset"]
-                    dataset_year = int(row["year"])
-                    country_code = row["country"]
+                    title = row["dataset"]
+                    year = int(row["year"])
+                    name = row["name"]
                     score = float(row["score"])
 
-                    dataset = self.get_dataset(dataset_title, dataset_year)
+                    dataset = self.get_dataset(title, year)
                     if dataset is None:
-                        dataset = Dataset(dataset_title, dataset_year)
-                        self.add_dataset(dataset)
+                        dataset = Dataset(title, year)
+                        self.datasets.append(dataset)
 
-                    record = Record(country_code, score)
-                    dataset.add_record(record)
+                    record = Record(name, score)
+                    dataset.records.append(record)
         except FileNotFoundError as e:
             print(f"Error: {e}")
         except KeyError as e:
@@ -60,18 +39,17 @@ class DatasetManager:
         except ValueError as e:
             print(f"Error: Invalid value in data: {e}")
 
-    def synchronize(self):
-        if not self._datasets:
+    def synchronize(self) -> None:
+        if not self.datasets:
             return
 
-        # Find common countries across all datasets
         common_countries: Set[str] = set.intersection(  # type: ignore
-            *[set(dataset.get_country_codes()) for dataset in self._datasets]
+            *[set(dataset.get_names()) for dataset in self.datasets]
         )
 
-        for dataset in self._datasets:
+        for dataset in self.datasets:
             dataset.remove_records_not_in(common_countries)
 
-    def normalize(self):
-        for dataset in self._datasets:
+    def normalize(self) -> None:
+        for dataset in self.datasets:
             dataset.normalize()
