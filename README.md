@@ -42,7 +42,7 @@ The Corruption Perceptions Index ranks countries based on perceived levels of pu
 
 The Environmental Performance Index ranks countries based on environmental health and ecosystem vitality, considering factors like air quality, water resources, and biodiversity. For more information, visit the [Environmental Performance Index page](https://epi.yale.edu/).
 
-## Equality Index
+### Equality Index
 
 The Equality Index measures the current status of LGBT rights, laws, and freedoms as well as public attitudes towards LGBT people. For more information, visit the [Equality Index page](https://www.equaldex.com/equality-index).
 
