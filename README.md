@@ -11,6 +11,7 @@ For more information about the OECD, please visit the [Organisation for Economic
 - [Data Sources](#data-sources)
   - [Corruption Perceptions Index](#corruption-perceptions-index)
   - [Environmental Performance Index](#environmental-performance-index)
+  - [Equality Index](#equality-index)
   - [Global Gender Gap Report](#global-gender-gap-report)
   - [Global Organized Crime Index](#global-organized-crime-index)
   - [Global Peace Index](#global-peace-index)
@@ -40,6 +41,10 @@ The Corruption Perceptions Index ranks countries based on perceived levels of pu
 ### Environmental Performance Index
 
 The Environmental Performance Index ranks countries based on environmental health and ecosystem vitality, considering factors like air quality, water resources, and biodiversity. For more information, visit the [Environmental Performance Index page](https://epi.yale.edu/).
+
+## Equality Index
+
+The Equality Index measures the current status of LGBT rights, laws, and freedoms as well as public attitudes towards LGBT people. For more information, visit the [Equality Index page](https://www.equaldex.com/equality-index).
 
 ### Global Gender Gap Report
 
@@ -85,6 +90,7 @@ The datasets used in this project cover the following years:
 | ------------------------------- | ---- |
 | Corruption Perceptions Index    | 2023 |
 | Environmental Performance Index | 2024 |
+| Equality Index                  | 2025 |
 | Global Gender Gap Report        | 2024 |
 | Global Organized Crime Index    | 2023 |
 | Global Peace Index              | 2024 |

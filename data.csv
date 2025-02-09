@@ -1,455 +1,493 @@
 dataset,year,name,score
-Corruption Perceptions Index,2023,Austria,71
 Corruption Perceptions Index,2023,Australia,75
+Corruption Perceptions Index,2023,Austria,71
 Corruption Perceptions Index,2023,Belgium,73
 Corruption Perceptions Index,2023,Canada,76
-Corruption Perceptions Index,2023,Switzerland,82
 Corruption Perceptions Index,2023,Chile,66
 Corruption Perceptions Index,2023,Colombia,40
 Corruption Perceptions Index,2023,Costa Rica,55
 Corruption Perceptions Index,2023,Czechia,57
-Corruption Perceptions Index,2023,Germany,78
 Corruption Perceptions Index,2023,Denmark,90
 Corruption Perceptions Index,2023,Estonia,76
-Corruption Perceptions Index,2023,Spain,60
 Corruption Perceptions Index,2023,Finland,87
 Corruption Perceptions Index,2023,France,71
-Corruption Perceptions Index,2023,United Kingdom,71
+Corruption Perceptions Index,2023,Germany,78
 Corruption Perceptions Index,2023,Greece,49
 Corruption Perceptions Index,2023,Hungary,42
+Corruption Perceptions Index,2023,Iceland,72
 Corruption Perceptions Index,2023,Ireland,77
 Corruption Perceptions Index,2023,Israel,62
-Corruption Perceptions Index,2023,Iceland,72
 Corruption Perceptions Index,2023,Italy,56
 Corruption Perceptions Index,2023,Japan,73
-Corruption Perceptions Index,2023,South Korea,63
+Corruption Perceptions Index,2023,Latvia,60
 Corruption Perceptions Index,2023,Lithuania,61
 Corruption Perceptions Index,2023,Luxembourg,78
-Corruption Perceptions Index,2023,Latvia,60
 Corruption Perceptions Index,2023,Mexico,31
 Corruption Perceptions Index,2023,Netherlands,79
-Corruption Perceptions Index,2023,Norway,84
 Corruption Perceptions Index,2023,New Zealand,85
+Corruption Perceptions Index,2023,Norway,84
 Corruption Perceptions Index,2023,Poland,54
 Corruption Perceptions Index,2023,Portugal,61
-Corruption Perceptions Index,2023,Sweden,82
-Corruption Perceptions Index,2023,Slovenia,56
 Corruption Perceptions Index,2023,Slovakia,54
+Corruption Perceptions Index,2023,Slovenia,56
+Corruption Perceptions Index,2023,South Korea,63
+Corruption Perceptions Index,2023,Spain,60
+Corruption Perceptions Index,2023,Sweden,82
+Corruption Perceptions Index,2023,Switzerland,82
 Corruption Perceptions Index,2023,Türkiye,34
+Corruption Perceptions Index,2023,United Kingdom,71
 Corruption Perceptions Index,2023,United States,69
-Environmental Performance Index,2024,Austria,68.9
 Environmental Performance Index,2024,Australia,63.1
+Environmental Performance Index,2024,Austria,68.9
 Environmental Performance Index,2024,Belgium,66.8
 Environmental Performance Index,2024,Canada,61.1
-Environmental Performance Index,2024,Switzerland,67.8
 Environmental Performance Index,2024,Chile,49.6
 Environmental Performance Index,2024,Colombia,49.7
 Environmental Performance Index,2024,Costa Rica,55.5
 Environmental Performance Index,2024,Czechia,65.5
-Environmental Performance Index,2024,Germany,74.5
 Environmental Performance Index,2024,Denmark,67.7
 Environmental Performance Index,2024,Estonia,75.7
-Environmental Performance Index,2024,Spain,64
 Environmental Performance Index,2024,Finland,73.8
 Environmental Performance Index,2024,France,67
-Environmental Performance Index,2024,United Kingdom,72.6
+Environmental Performance Index,2024,Germany,74.5
 Environmental Performance Index,2024,Greece,67.3
 Environmental Performance Index,2024,Hungary,59.8
+Environmental Performance Index,2024,Iceland,64.3
 Environmental Performance Index,2024,Ireland,65.8
 Environmental Performance Index,2024,Israel,48
-Environmental Performance Index,2024,Iceland,64.3
 Environmental Performance Index,2024,Italy,60.3
 Environmental Performance Index,2024,Japan,61.4
-Environmental Performance Index,2024,South Korea,50.6
+Environmental Performance Index,2024,Latvia,60.2
 Environmental Performance Index,2024,Lithuania,64.1
 Environmental Performance Index,2024,Luxembourg,75.1
-Environmental Performance Index,2024,Latvia,60.2
 Environmental Performance Index,2024,Mexico,44.2
 Environmental Performance Index,2024,Netherlands,66.9
-Environmental Performance Index,2024,Norway,69.9
 Environmental Performance Index,2024,New Zealand,57.3
+Environmental Performance Index,2024,Norway,69.9
 Environmental Performance Index,2024,Poland,64.2
 Environmental Performance Index,2024,Portugal,61.9
-Environmental Performance Index,2024,Sweden,70.3
-Environmental Performance Index,2024,Slovenia,62.4
 Environmental Performance Index,2024,Slovakia,65.1
+Environmental Performance Index,2024,Slovenia,62.4
+Environmental Performance Index,2024,South Korea,50.6
+Environmental Performance Index,2024,Spain,64
+Environmental Performance Index,2024,Sweden,70.3
+Environmental Performance Index,2024,Switzerland,67.8
 Environmental Performance Index,2024,Türkiye,37.2
+Environmental Performance Index,2024,United Kingdom,72.6
 Environmental Performance Index,2024,United States,57.2
-Global Gender Gap Report,2024,Austria,0.743
+Equality Index,2025,Australia,76
+Equality Index,2025,Austria,75
+Equality Index,2025,Belgium,74
+Equality Index,2025,Canada,78
+Equality Index,2025,Chile,81
+Equality Index,2025,Colombia,73
+Equality Index,2025,Costa Rica,66
+Equality Index,2025,Czechia,66
+Equality Index,2025,Denmark,80
+Equality Index,2025,Estonia,64
+Equality Index,2025,Finland,74
+Equality Index,2025,France,75
+Equality Index,2025,Germany,81
+Equality Index,2025,Greece,66
+Equality Index,2025,Hungary,51
+Equality Index,2025,Iceland,94
+Equality Index,2025,Ireland,72
+Equality Index,2025,Israel,62
+Equality Index,2025,Italy,69
+Equality Index,2025,Japan,55
+Equality Index,2025,Latvia,48
+Equality Index,2025,Lithuania,41
+Equality Index,2025,Luxembourg,67
+Equality Index,2025,Mexico,73
+Equality Index,2025,Netherlands,78
+Equality Index,2025,New Zealand,75
+Equality Index,2025,Norway,87
+Equality Index,2025,Poland,52
+Equality Index,2025,Portugal,76
+Equality Index,2025,Slovakia,49
+Equality Index,2025,Slovenia,65
+Equality Index,2025,South Korea,50
+Equality Index,2025,Spain,83
+Equality Index,2025,Sweden,73
+Equality Index,2025,Switzerland,70
+Equality Index,2025,Türkiye,36
+Equality Index,2025,United Kingdom,72
+Equality Index,2025,United States,70
 Global Gender Gap Report,2024,Australia,0.78
+Global Gender Gap Report,2024,Austria,0.743
 Global Gender Gap Report,2024,Belgium,0.793
 Global Gender Gap Report,2024,Canada,0.761
-Global Gender Gap Report,2024,Switzerland,0.785
 Global Gender Gap Report,2024,Chile,0.781
 Global Gender Gap Report,2024,Colombia,0.745
 Global Gender Gap Report,2024,Costa Rica,0.785
 Global Gender Gap Report,2024,Czechia,0.684
-Global Gender Gap Report,2024,Germany,0.81
 Global Gender Gap Report,2024,Denmark,0.789
 Global Gender Gap Report,2024,Estonia,0.774
-Global Gender Gap Report,2024,Spain,0.797
 Global Gender Gap Report,2024,Finland,0.875
 Global Gender Gap Report,2024,France,0.781
-Global Gender Gap Report,2024,United Kingdom,0.789
+Global Gender Gap Report,2024,Germany,0.81
 Global Gender Gap Report,2024,Greece,0.714
 Global Gender Gap Report,2024,Hungary,0.686
+Global Gender Gap Report,2024,Iceland,0.935
 Global Gender Gap Report,2024,Ireland,0.802
 Global Gender Gap Report,2024,Israel,0.699
-Global Gender Gap Report,2024,Iceland,0.935
 Global Gender Gap Report,2024,Italy,0.703
 Global Gender Gap Report,2024,Japan,0.663
-Global Gender Gap Report,2024,South Korea,0.696
+Global Gender Gap Report,2024,Latvia,0.773
 Global Gender Gap Report,2024,Lithuania,0.793
 Global Gender Gap Report,2024,Luxembourg,0.744
-Global Gender Gap Report,2024,Latvia,0.773
 Global Gender Gap Report,2024,Mexico,0.768
 Global Gender Gap Report,2024,Netherlands,0.775
-Global Gender Gap Report,2024,Norway,0.875
 Global Gender Gap Report,2024,New Zealand,0.835
+Global Gender Gap Report,2024,Norway,0.875
 Global Gender Gap Report,2024,Poland,0.74
 Global Gender Gap Report,2024,Portugal,0.787
-Global Gender Gap Report,2024,Sweden,0.816
-Global Gender Gap Report,2024,Slovenia,0.766
 Global Gender Gap Report,2024,Slovakia,0.731
+Global Gender Gap Report,2024,Slovenia,0.766
+Global Gender Gap Report,2024,South Korea,0.696
+Global Gender Gap Report,2024,Spain,0.797
+Global Gender Gap Report,2024,Sweden,0.816
+Global Gender Gap Report,2024,Switzerland,0.785
 Global Gender Gap Report,2024,Türkiye,0.645
+Global Gender Gap Report,2024,United Kingdom,0.789
 Global Gender Gap Report,2024,United States,0.747
-Global Organized Crime Index: Criminality,2023,Austria,4.13
 Global Organized Crime Index: Criminality,2023,Australia,4
+Global Organized Crime Index: Criminality,2023,Austria,4.13
 Global Organized Crime Index: Criminality,2023,Belgium,4.43
 Global Organized Crime Index: Criminality,2023,Canada,3.88
-Global Organized Crime Index: Criminality,2023,Switzerland,4.87
 Global Organized Crime Index: Criminality,2023,Chile,5.18
 Global Organized Crime Index: Criminality,2023,Colombia,7.75
 Global Organized Crime Index: Criminality,2023,Costa Rica,5.53
 Global Organized Crime Index: Criminality,2023,Czechia,4.68
-Global Organized Crime Index: Criminality,2023,Germany,5.33
 Global Organized Crime Index: Criminality,2023,Denmark,4.02
 Global Organized Crime Index: Criminality,2023,Estonia,4.25
-Global Organized Crime Index: Criminality,2023,Spain,5.9
 Global Organized Crime Index: Criminality,2023,Finland,2.98
 Global Organized Crime Index: Criminality,2023,France,5.82
-Global Organized Crime Index: Criminality,2023,United Kingdom,5.75
+Global Organized Crime Index: Criminality,2023,Germany,5.33
 Global Organized Crime Index: Criminality,2023,Greece,5.35
 Global Organized Crime Index: Criminality,2023,Hungary,4.62
+Global Organized Crime Index: Criminality,2023,Iceland,3.37
 Global Organized Crime Index: Criminality,2023,Ireland,5.08
 Global Organized Crime Index: Criminality,2023,Israel,4.85
-Global Organized Crime Index: Criminality,2023,Iceland,3.37
 Global Organized Crime Index: Criminality,2023,Italy,6.22
 Global Organized Crime Index: Criminality,2023,Japan,4.28
-Global Organized Crime Index: Criminality,2023,South Korea,4.43
+Global Organized Crime Index: Criminality,2023,Latvia,3.9
 Global Organized Crime Index: Criminality,2023,Lithuania,3.9
 Global Organized Crime Index: Criminality,2023,Luxembourg,2.85
-Global Organized Crime Index: Criminality,2023,Latvia,3.9
 Global Organized Crime Index: Criminality,2023,Mexico,7.57
 Global Organized Crime Index: Criminality,2023,Netherlands,4.97
-Global Organized Crime Index: Criminality,2023,Norway,3.75
 Global Organized Crime Index: Criminality,2023,New Zealand,4.08
+Global Organized Crime Index: Criminality,2023,Norway,3.75
 Global Organized Crime Index: Criminality,2023,Poland,4.48
 Global Organized Crime Index: Criminality,2023,Portugal,4.88
-Global Organized Crime Index: Criminality,2023,Sweden,4.7
-Global Organized Crime Index: Criminality,2023,Slovenia,4.37
 Global Organized Crime Index: Criminality,2023,Slovakia,4.72
+Global Organized Crime Index: Criminality,2023,Slovenia,4.37
+Global Organized Crime Index: Criminality,2023,South Korea,4.43
+Global Organized Crime Index: Criminality,2023,Spain,5.9
+Global Organized Crime Index: Criminality,2023,Sweden,4.7
+Global Organized Crime Index: Criminality,2023,Switzerland,4.87
 Global Organized Crime Index: Criminality,2023,Türkiye,7.03
+Global Organized Crime Index: Criminality,2023,United Kingdom,5.75
 Global Organized Crime Index: Criminality,2023,United States,5.67
-Global Organized Crime Index: Resilience,2023,Austria,7.5
 Global Organized Crime Index: Resilience,2023,Australia,7.38
+Global Organized Crime Index: Resilience,2023,Austria,7.5
 Global Organized Crime Index: Resilience,2023,Belgium,7.04
 Global Organized Crime Index: Resilience,2023,Canada,7.21
-Global Organized Crime Index: Resilience,2023,Switzerland,7.04
 Global Organized Crime Index: Resilience,2023,Chile,6.17
 Global Organized Crime Index: Resilience,2023,Colombia,5.63
 Global Organized Crime Index: Resilience,2023,Costa Rica,5.63
 Global Organized Crime Index: Resilience,2023,Czechia,6.42
-Global Organized Crime Index: Resilience,2023,Germany,7.5
 Global Organized Crime Index: Resilience,2023,Denmark,8.13
 Global Organized Crime Index: Resilience,2023,Estonia,7.88
-Global Organized Crime Index: Resilience,2023,Spain,6.75
 Global Organized Crime Index: Resilience,2023,Finland,8.63
 Global Organized Crime Index: Resilience,2023,France,6.96
-Global Organized Crime Index: Resilience,2023,United Kingdom,7.54
+Global Organized Crime Index: Resilience,2023,Germany,7.5
 Global Organized Crime Index: Resilience,2023,Greece,5.17
 Global Organized Crime Index: Resilience,2023,Hungary,4.88
+Global Organized Crime Index: Resilience,2023,Iceland,8.21
 Global Organized Crime Index: Resilience,2023,Ireland,7.33
 Global Organized Crime Index: Resilience,2023,Israel,6.08
-Global Organized Crime Index: Resilience,2023,Iceland,8.21
 Global Organized Crime Index: Resilience,2023,Italy,6.46
 Global Organized Crime Index: Resilience,2023,Japan,7.38
-Global Organized Crime Index: Resilience,2023,South Korea,8.08
+Global Organized Crime Index: Resilience,2023,Latvia,7.58
 Global Organized Crime Index: Resilience,2023,Lithuania,7.29
 Global Organized Crime Index: Resilience,2023,Luxembourg,7.5
-Global Organized Crime Index: Resilience,2023,Latvia,7.58
 Global Organized Crime Index: Resilience,2023,Mexico,4.21
 Global Organized Crime Index: Resilience,2023,Netherlands,7.46
-Global Organized Crime Index: Resilience,2023,Norway,7.92
 Global Organized Crime Index: Resilience,2023,New Zealand,7.88
+Global Organized Crime Index: Resilience,2023,Norway,7.92
 Global Organized Crime Index: Resilience,2023,Poland,5.88
 Global Organized Crime Index: Resilience,2023,Portugal,6.5
-Global Organized Crime Index: Resilience,2023,Sweden,7.46
-Global Organized Crime Index: Resilience,2023,Slovenia,6.04
 Global Organized Crime Index: Resilience,2023,Slovakia,5.29
+Global Organized Crime Index: Resilience,2023,Slovenia,6.04
+Global Organized Crime Index: Resilience,2023,South Korea,8.08
+Global Organized Crime Index: Resilience,2023,Spain,6.75
+Global Organized Crime Index: Resilience,2023,Sweden,7.46
+Global Organized Crime Index: Resilience,2023,Switzerland,7.04
 Global Organized Crime Index: Resilience,2023,Türkiye,3.38
+Global Organized Crime Index: Resilience,2023,United Kingdom,7.54
 Global Organized Crime Index: Resilience,2023,United States,7.13
-Global Peace Index,2024,Austria,1.313
 Global Peace Index,2024,Australia,1.536
+Global Peace Index,2024,Austria,1.313
 Global Peace Index,2024,Belgium,1.51
 Global Peace Index,2024,Canada,1.449
-Global Peace Index,2024,Switzerland,1.35
 Global Peace Index,2024,Chile,1.978
 Global Peace Index,2024,Colombia,2.887
 Global Peace Index,2024,Costa Rica,1.95
 Global Peace Index,2024,Czechia,1.459
-Global Peace Index,2024,Germany,1.542
 Global Peace Index,2024,Denmark,1.382
 Global Peace Index,2024,Estonia,1.615
-Global Peace Index,2024,Spain,1.597
 Global Peace Index,2024,Finland,1.474
 Global Peace Index,2024,France,2.088
-Global Peace Index,2024,United Kingdom,1.703
+Global Peace Index,2024,Germany,1.542
 Global Peace Index,2024,Greece,1.793
 Global Peace Index,2024,Hungary,1.502
+Global Peace Index,2024,Iceland,1.112
 Global Peace Index,2024,Ireland,1.303
 Global Peace Index,2024,Israel,3.115
-Global Peace Index,2024,Iceland,1.112
 Global Peace Index,2024,Italy,1.692
 Global Peace Index,2024,Japan,1.525
-Global Peace Index,2024,South Korea,1.848
-Global Peace Index,2024,Lithuania,1.672
 Global Peace Index,2024,Latvia,1.661
+Global Peace Index,2024,Lithuania,1.672
 Global Peace Index,2024,Mexico,2.778
 Global Peace Index,2024,Netherlands,1.527
-Global Peace Index,2024,Norway,1.638
 Global Peace Index,2024,New Zealand,1.323
+Global Peace Index,2024,Norway,1.638
 Global Peace Index,2024,Poland,1.678
 Global Peace Index,2024,Portugal,1.372
-Global Peace Index,2024,Sweden,1.782
-Global Peace Index,2024,Slovenia,1.395
 Global Peace Index,2024,Slovakia,1.634
+Global Peace Index,2024,Slovenia,1.395
+Global Peace Index,2024,South Korea,1.848
+Global Peace Index,2024,Spain,1.597
+Global Peace Index,2024,Sweden,1.782
+Global Peace Index,2024,Switzerland,1.35
 Global Peace Index,2024,Türkiye,2.78
+Global Peace Index,2024,United Kingdom,1.703
 Global Peace Index,2024,United States,2.622
-Global Terrorism Index,2024,Austria,0.953
 Global Terrorism Index,2024,Australia,1.475
+Global Terrorism Index,2024,Austria,0.953
 Global Terrorism Index,2024,Belgium,1.904
 Global Terrorism Index,2024,Canada,1.753
-Global Terrorism Index,2024,Switzerland,0.627
 Global Terrorism Index,2024,Chile,5.679
 Global Terrorism Index,2024,Colombia,6.188
 Global Terrorism Index,2024,Costa Rica,0
 Global Terrorism Index,2024,Czechia,0
-Global Terrorism Index,2024,Germany,2.782
 Global Terrorism Index,2024,Denmark,0
 Global Terrorism Index,2024,Estonia,0
-Global Terrorism Index,2024,Spain,1.669
 Global Terrorism Index,2024,Finland,0
 Global Terrorism Index,2024,France,2.647
-Global Terrorism Index,2024,United Kingdom,2.373
+Global Terrorism Index,2024,Germany,2.782
 Global Terrorism Index,2024,Greece,3.028
 Global Terrorism Index,2024,Hungary,0
+Global Terrorism Index,2024,Iceland,0.233
 Global Terrorism Index,2024,Ireland,0.03
 Global Terrorism Index,2024,Israel,8.143
-Global Terrorism Index,2024,Iceland,0.233
 Global Terrorism Index,2024,Italy,1.447
 Global Terrorism Index,2024,Japan,1.189
-Global Terrorism Index,2024,South Korea,0
-Global Terrorism Index,2024,Lithuania,0.059
 Global Terrorism Index,2024,Latvia,0
+Global Terrorism Index,2024,Lithuania,0.059
 Global Terrorism Index,2024,Mexico,1.04
 Global Terrorism Index,2024,Netherlands,0.577
-Global Terrorism Index,2024,Norway,1.747
 Global Terrorism Index,2024,New Zealand,1.947
+Global Terrorism Index,2024,Norway,1.747
 Global Terrorism Index,2024,Poland,0
 Global Terrorism Index,2024,Portugal,0
-Global Terrorism Index,2024,Sweden,0.735
-Global Terrorism Index,2024,Slovenia,0
 Global Terrorism Index,2024,Slovakia,1.092
+Global Terrorism Index,2024,Slovenia,0
+Global Terrorism Index,2024,South Korea,0
+Global Terrorism Index,2024,Spain,1.669
+Global Terrorism Index,2024,Sweden,0.735
+Global Terrorism Index,2024,Switzerland,0.627
 Global Terrorism Index,2024,Türkiye,4.168
+Global Terrorism Index,2024,United Kingdom,2.373
 Global Terrorism Index,2024,United States,4.161
-Human Development Index,2022,Austria,0.926
 Human Development Index,2022,Australia,0.946
+Human Development Index,2022,Austria,0.926
 Human Development Index,2022,Belgium,0.942
 Human Development Index,2022,Canada,0.935
-Human Development Index,2022,Switzerland,0.967
 Human Development Index,2022,Chile,0.86
 Human Development Index,2022,Colombia,0.758
 Human Development Index,2022,Costa Rica,0.806
 Human Development Index,2022,Czechia,0.895
-Human Development Index,2022,Germany,0.95
 Human Development Index,2022,Denmark,0.952
 Human Development Index,2022,Estonia,0.899
-Human Development Index,2022,Spain,0.911
 Human Development Index,2022,Finland,0.942
 Human Development Index,2022,France,0.91
-Human Development Index,2022,United Kingdom,0.94
+Human Development Index,2022,Germany,0.95
 Human Development Index,2022,Greece,0.893
 Human Development Index,2022,Hungary,0.851
+Human Development Index,2022,Iceland,0.959
 Human Development Index,2022,Ireland,0.95
 Human Development Index,2022,Israel,0.915
-Human Development Index,2022,Iceland,0.959
 Human Development Index,2022,Italy,0.906
 Human Development Index,2022,Japan,0.92
-Human Development Index,2022,South Korea,0.929
+Human Development Index,2022,Latvia,0.879
 Human Development Index,2022,Lithuania,0.879
 Human Development Index,2022,Luxembourg,0.927
-Human Development Index,2022,Latvia,0.879
 Human Development Index,2022,Mexico,0.781
 Human Development Index,2022,Netherlands,0.946
-Human Development Index,2022,Norway,0.966
 Human Development Index,2022,New Zealand,0.939
+Human Development Index,2022,Norway,0.966
 Human Development Index,2022,Poland,0.881
 Human Development Index,2022,Portugal,0.874
-Human Development Index,2022,Sweden,0.952
-Human Development Index,2022,Slovenia,0.926
 Human Development Index,2022,Slovakia,0.855
+Human Development Index,2022,Slovenia,0.926
+Human Development Index,2022,South Korea,0.929
+Human Development Index,2022,Spain,0.911
+Human Development Index,2022,Sweden,0.952
+Human Development Index,2022,Switzerland,0.967
 Human Development Index,2022,Türkiye,0.855
+Human Development Index,2022,United Kingdom,0.94
 Human Development Index,2022,United States,0.927
-Legatum Prosperity Index,2023,Austria,79.38
 Legatum Prosperity Index,2023,Australia,79.36
+Legatum Prosperity Index,2023,Austria,79.38
 Legatum Prosperity Index,2023,Belgium,77.84
 Legatum Prosperity Index,2023,Canada,79.62
-Legatum Prosperity Index,2023,Switzerland,83.42
 Legatum Prosperity Index,2023,Chile,70.18
 Legatum Prosperity Index,2023,Colombia,58.01
 Legatum Prosperity Index,2023,Costa Rica,69.59
 Legatum Prosperity Index,2023,Czechia,75.08
-Legatum Prosperity Index,2023,Germany,80.81
 Legatum Prosperity Index,2023,Denmark,84.55
 Legatum Prosperity Index,2023,Estonia,77.31
-Legatum Prosperity Index,2023,Spain,76.03
 Legatum Prosperity Index,2023,Finland,83.47
 Legatum Prosperity Index,2023,France,76.73
-Legatum Prosperity Index,2023,United Kingdom,79.95
+Legatum Prosperity Index,2023,Germany,80.81
 Legatum Prosperity Index,2023,Greece,68.48
 Legatum Prosperity Index,2023,Hungary,66.88
+Legatum Prosperity Index,2023,Iceland,81.02
 Legatum Prosperity Index,2023,Ireland,80.31
 Legatum Prosperity Index,2023,Israel,72.25
-Legatum Prosperity Index,2023,Iceland,81.02
 Legatum Prosperity Index,2023,Italy,73.03
 Legatum Prosperity Index,2023,Japan,78.22
-Legatum Prosperity Index,2023,South Korea,74.07
+Legatum Prosperity Index,2023,Latvia,72.99
 Legatum Prosperity Index,2023,Lithuania,72.54
 Legatum Prosperity Index,2023,Luxembourg,81.83
-Legatum Prosperity Index,2023,Latvia,72.99
 Legatum Prosperity Index,2023,Mexico,59.3
 Legatum Prosperity Index,2023,Netherlands,82.32
-Legatum Prosperity Index,2023,Norway,83.59
 Legatum Prosperity Index,2023,New Zealand,80.47
+Legatum Prosperity Index,2023,Norway,83.59
 Legatum Prosperity Index,2023,Poland,70.15
 Legatum Prosperity Index,2023,Portugal,74.64
-Legatum Prosperity Index,2023,Sweden,83.67
-Legatum Prosperity Index,2023,Slovenia,74.54
 Legatum Prosperity Index,2023,Slovakia,71.15
+Legatum Prosperity Index,2023,Slovenia,74.54
+Legatum Prosperity Index,2023,South Korea,74.07
+Legatum Prosperity Index,2023,Spain,76.03
+Legatum Prosperity Index,2023,Sweden,83.67
+Legatum Prosperity Index,2023,Switzerland,83.42
 Legatum Prosperity Index,2023,Türkiye,55.5
+Legatum Prosperity Index,2023,United Kingdom,79.95
 Legatum Prosperity Index,2023,United States,77.44
-Social Progress Index,2023,Austria,86.73
 Social Progress Index,2023,Australia,87.77
+Social Progress Index,2023,Austria,86.73
 Social Progress Index,2023,Belgium,86.13
 Social Progress Index,2023,Canada,86
-Social Progress Index,2023,Switzerland,88.88
 Social Progress Index,2023,Chile,78.43
 Social Progress Index,2023,Colombia,67.97
 Social Progress Index,2023,Costa Rica,78.03
 Social Progress Index,2023,Czechia,84.82
-Social Progress Index,2023,Germany,87.64
 Social Progress Index,2023,Denmark,90.38
 Social Progress Index,2023,Estonia,85.17
-Social Progress Index,2023,Spain,83.87
 Social Progress Index,2023,Finland,89.96
 Social Progress Index,2023,France,83.88
-Social Progress Index,2023,United Kingdom,84.49
+Social Progress Index,2023,Germany,87.64
 Social Progress Index,2023,Greece,80.09
 Social Progress Index,2023,Hungary,77.47
+Social Progress Index,2023,Iceland,89.57
 Social Progress Index,2023,Ireland,86.57
 Social Progress Index,2023,Israel,81.68
-Social Progress Index,2023,Iceland,89.57
 Social Progress Index,2023,Italy,83.61
 Social Progress Index,2023,Japan,85.52
-Social Progress Index,2023,South Korea,85.26
+Social Progress Index,2023,Latvia,81.12
 Social Progress Index,2023,Lithuania,81.51
 Social Progress Index,2023,Luxembourg,87.86
-Social Progress Index,2023,Latvia,81.12
 Social Progress Index,2023,Mexico,68.49
 Social Progress Index,2023,Netherlands,87.73
-Social Progress Index,2023,Norway,90.32
 Social Progress Index,2023,New Zealand,86.06
+Social Progress Index,2023,Norway,90.32
 Social Progress Index,2023,Poland,79.53
 Social Progress Index,2023,Portugal,84.1
-Social Progress Index,2023,Sweden,89.09
-Social Progress Index,2023,Slovenia,84.6
 Social Progress Index,2023,Slovakia,79.54
+Social Progress Index,2023,Slovenia,84.6
+Social Progress Index,2023,South Korea,85.26
+Social Progress Index,2023,Spain,83.87
+Social Progress Index,2023,Sweden,89.09
+Social Progress Index,2023,Switzerland,88.88
 Social Progress Index,2023,Türkiye,66.23
+Social Progress Index,2023,United Kingdom,84.49
 Social Progress Index,2023,United States,81.7
-The Economist Democracy Index,2023,Austria,8.28
 The Economist Democracy Index,2023,Australia,8.66
+The Economist Democracy Index,2023,Austria,8.28
 The Economist Democracy Index,2023,Belgium,7.64
 The Economist Democracy Index,2023,Canada,8.69
-The Economist Democracy Index,2023,Switzerland,9.14
 The Economist Democracy Index,2023,Chile,7.98
 The Economist Democracy Index,2023,Colombia,6.55
 The Economist Democracy Index,2023,Costa Rica,8.29
 The Economist Democracy Index,2023,Czechia,7.97
-The Economist Democracy Index,2023,Germany,8.8
 The Economist Democracy Index,2023,Denmark,9.28
 The Economist Democracy Index,2023,Estonia,7.96
-The Economist Democracy Index,2023,Spain,8.07
 The Economist Democracy Index,2023,Finland,9.3
 The Economist Democracy Index,2023,France,8.07
-The Economist Democracy Index,2023,United Kingdom,8.28
+The Economist Democracy Index,2023,Germany,8.8
 The Economist Democracy Index,2023,Greece,8.14
 The Economist Democracy Index,2023,Hungary,6.72
+The Economist Democracy Index,2023,Iceland,9.52
 The Economist Democracy Index,2023,Ireland,9.19
 The Economist Democracy Index,2023,Israel,7.8
-The Economist Democracy Index,2023,Iceland,9.52
 The Economist Democracy Index,2023,Italy,7.69
 The Economist Democracy Index,2023,Japan,8.4
-The Economist Democracy Index,2023,South Korea,8.09
+The Economist Democracy Index,2023,Latvia,7.38
 The Economist Democracy Index,2023,Lithuania,7.31
 The Economist Democracy Index,2023,Luxembourg,8.81
-The Economist Democracy Index,2023,Latvia,7.38
 The Economist Democracy Index,2023,Mexico,5.14
 The Economist Democracy Index,2023,Netherlands,9
-The Economist Democracy Index,2023,Norway,9.81
 The Economist Democracy Index,2023,New Zealand,9.61
+The Economist Democracy Index,2023,Norway,9.81
 The Economist Democracy Index,2023,Poland,7.18
 The Economist Democracy Index,2023,Portugal,7.75
-The Economist Democracy Index,2023,Sweden,9.39
-The Economist Democracy Index,2023,Slovenia,7.75
 The Economist Democracy Index,2023,Slovakia,7.05
+The Economist Democracy Index,2023,Slovenia,7.75
+The Economist Democracy Index,2023,South Korea,8.09
+The Economist Democracy Index,2023,Spain,8.07
+The Economist Democracy Index,2023,Sweden,9.39
+The Economist Democracy Index,2023,Switzerland,9.14
 The Economist Democracy Index,2023,Türkiye,4.33
+The Economist Democracy Index,2023,United Kingdom,8.28
 The Economist Democracy Index,2023,United States,7.85
-World Happiness Report,2024,Austria,6.905
 World Happiness Report,2024,Australia,7.057
+World Happiness Report,2024,Austria,6.905
 World Happiness Report,2024,Belgium,6.894
-World Happiness Report,2024,Canada,6.900
-World Happiness Report,2024,Switzerland,7.060
-World Happiness Report,2024,Chile,6.360
+World Happiness Report,2024,Canada,6.9
+World Happiness Report,2024,Chile,6.36
 World Happiness Report,2024,Colombia,5.695
 World Happiness Report,2024,Costa Rica,6.955
 World Happiness Report,2024,Czechia,6.822
-World Happiness Report,2024,Germany,6.719
 World Happiness Report,2024,Denmark,7.583
 World Happiness Report,2024,Estonia,6.448
-World Happiness Report,2024,Spain,6.421
 World Happiness Report,2024,Finland,7.741
 World Happiness Report,2024,France,6.609
-World Happiness Report,2024,United Kingdom,6.749
+World Happiness Report,2024,Germany,6.719
 World Happiness Report,2024,Greece,5.934
 World Happiness Report,2024,Hungary,6.017
+World Happiness Report,2024,Iceland,7.525
 World Happiness Report,2024,Ireland,6.838
 World Happiness Report,2024,Israel,7.341
-World Happiness Report,2024,Iceland,7.525
 World Happiness Report,2024,Italy,6.324
-World Happiness Report,2024,Japan,6.060
-World Happiness Report,2024,South Korea,6.058
+World Happiness Report,2024,Japan,6.06
+World Happiness Report,2024,Latvia,6.234
 World Happiness Report,2024,Lithuania,6.818
 World Happiness Report,2024,Luxembourg,7.122
-World Happiness Report,2024,Latvia,6.234
 World Happiness Report,2024,Mexico,6.678
 World Happiness Report,2024,Netherlands,7.319
-World Happiness Report,2024,Norway,7.302
 World Happiness Report,2024,New Zealand,7.029
+World Happiness Report,2024,Norway,7.302
 World Happiness Report,2024,Poland,6.442
-World Happiness Report,2024,Portugal,6.030
-World Happiness Report,2024,Sweden,7.344
-World Happiness Report,2024,Slovenia,6.743
+World Happiness Report,2024,Portugal,6.03
 World Happiness Report,2024,Slovakia,6.257
+World Happiness Report,2024,Slovenia,6.743
+World Happiness Report,2024,South Korea,6.058
+World Happiness Report,2024,Spain,6.421
+World Happiness Report,2024,Sweden,7.344
+World Happiness Report,2024,Switzerland,7.06
 World Happiness Report,2024,Türkiye,4.975
+World Happiness Report,2024,United Kingdom,6.749
 World Happiness Report,2024,United States,6.725
