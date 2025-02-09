@@ -32,6 +32,8 @@ For more information about the OECD, please visit the [Organisation for Economic
 
 ![Results](./assets/results.png)
 
+**NOTE:** The bar chart may not include every OECD member state if they are not present in all datasets.
+
 ## Data Sources
 
 The data used in this project is sourced from the following reports:
