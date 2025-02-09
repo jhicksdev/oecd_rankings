@@ -1,150 +1,138 @@
 [
   {
-    "name": "Iceland",
-    "score": 0.85
-  },
-  {
-    "name": "Finland",
-    "score": 0.838
-  },
-  {
     "name": "Denmark",
-    "score": 0.832
+    "score": 0.867
   },
   {
     "name": "Norway",
-    "score": 0.828
+    "score": 0.844
+  },
+  {
+    "name": "Finland",
+    "score": 0.837
   },
   {
     "name": "Sweden",
-    "score": 0.791
-  },
-  {
-    "name": "Switzerland",
-    "score": 0.781
+    "score": 0.822
   },
   {
     "name": "Netherlands",
-    "score": 0.776
-  },
-  {
-    "name": "Germany",
-    "score": 0.766
+    "score": 0.797
   },
   {
     "name": "Ireland",
-    "score": 0.766
+    "score": 0.768
   },
   {
-    "name": "New Zealand",
-    "score": 0.751
+    "name": "Germany",
+    "score": 0.765
+  },
+  {
+    "name": "Switzerland",
+    "score": 0.764
   },
   {
     "name": "United Kingdom",
-    "score": 0.718
+    "score": 0.737
   },
   {
-    "name": "Australia",
-    "score": 0.716
+    "name": "New Zealand",
+    "score": 0.733
   },
   {
     "name": "Austria",
     "score": 0.709
   },
   {
-    "name": "Canada",
-    "score": 0.695
-  },
-  {
-    "name": "Belgium",
-    "score": 0.691
+    "name": "Spain",
+    "score": 0.7
   },
   {
     "name": "Estonia",
-    "score": 0.69
+    "score": 0.683
   },
   {
-    "name": "Spain",
-    "score": 0.67
+    "name": "Australia",
+    "score": 0.681
   },
   {
     "name": "France",
-    "score": 0.655
+    "score": 0.673
+  },
+  {
+    "name": "Belgium",
+    "score": 0.669
   },
   {
     "name": "Portugal",
-    "score": 0.627
+    "score": 0.668
   },
   {
     "name": "Slovenia",
-    "score": 0.626
+    "score": 0.644
+  },
+  {
+    "name": "Canada",
+    "score": 0.633
   },
   {
     "name": "Czechia",
-    "score": 0.617
-  },
-  {
-    "name": "Japan",
-    "score": 0.608
+    "score": 0.615
   },
   {
     "name": "Italy",
-    "score": 0.594
-  },
-  {
-    "name": "United States",
-    "score": 0.584
+    "score": 0.602
   },
   {
     "name": "Lithuania",
-    "score": 0.574
+    "score": 0.582
   },
   {
-    "name": "South Korea",
-    "score": 0.574
-  },
-  {
-    "name": "Latvia",
-    "score": 0.559
-  },
-  {
-    "name": "Costa Rica",
-    "score": 0.544
-  },
-  {
-    "name": "Poland",
-    "score": 0.531
+    "name": "Japan",
+    "score": 0.578
   },
   {
     "name": "Chile",
-    "score": 0.514
+    "score": 0.553
+  },
+  {
+    "name": "Latvia",
+    "score": 0.553
   },
   {
     "name": "Greece",
-    "score": 0.514
+    "score": 0.536
+  },
+  {
+    "name": "Poland",
+    "score": 0.522
+  },
+  {
+    "name": "South Korea",
+    "score": 0.521
+  },
+  {
+    "name": "United States",
+    "score": 0.52
   },
   {
     "name": "Slovakia",
-    "score": 0.499
-  },
-  {
-    "name": "Israel",
-    "score": 0.446
+    "score": 0.493
   },
   {
     "name": "Hungary",
-    "score": 0.44
+    "score": 0.45
   },
   {
     "name": "Mexico",
-    "score": 0.346
+    "score": 0.369
   },
   {
     "name": "Colombia",
-    "score": 0.313
+    "score": 0.329
   },
   {
     "name": "T\u00fcrkiye",
-    "score": 0.155
+    "score": 0.146
   }
 ]

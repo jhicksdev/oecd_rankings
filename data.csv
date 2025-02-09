@@ -1,4 +1,39 @@
 dataset,year,name,score
+Climate Change Performance Index (CCPI),2025,Australia,45.52
+Climate Change Performance Index (CCPI),2025,Austria,59.4
+Climate Change Performance Index (CCPI),2025,Belgium,54.89
+Climate Change Performance Index (CCPI),2025,Canada,28.37
+Climate Change Performance Index (CCPI),2025,Chile,67.29
+Climate Change Performance Index (CCPI),2025,Colombia,57.49
+Climate Change Performance Index (CCPI),2025,Czechia,47.57
+Climate Change Performance Index (CCPI),2025,Denmark,78.37
+Climate Change Performance Index (CCPI),2025,Estonia,66.79
+Climate Change Performance Index (CCPI),2025,Finland,54.24
+Climate Change Performance Index (CCPI),2025,France,59.18
+Climate Change Performance Index (CCPI),2025,Germany,64.91
+Climate Change Performance Index (CCPI),2025,Greece,59.41
+Climate Change Performance Index (CCPI),2025,Hungary,48.81
+Climate Change Performance Index (CCPI),2025,Ireland,57.17
+Climate Change Performance Index (CCPI),2025,Italy,49.81
+Climate Change Performance Index (CCPI),2025,Japan,39.23
+Climate Change Performance Index (CCPI),2025,Latvia,54.35
+Climate Change Performance Index (CCPI),2025,Lithuania,63.05
+Climate Change Performance Index (CCPI),2025,Luxembourg,67.29
+Climate Change Performance Index (CCPI),2025,Mexico,52.66
+Climate Change Performance Index (CCPI),2025,Netherlands,69.6
+Climate Change Performance Index (CCPI),2025,New Zealand,51.06
+Climate Change Performance Index (CCPI),2025,Norway,68.21
+Climate Change Performance Index (CCPI),2025,Poland,47.86
+Climate Change Performance Index (CCPI),2025,Portugal,66.59
+Climate Change Performance Index (CCPI),2025,Slovakia,48.44
+Climate Change Performance Index (CCPI),2025,Slovenia,57.16
+Climate Change Performance Index (CCPI),2025,South Korea,26.42
+Climate Change Performance Index (CCPI),2025,Spain,61.57
+Climate Change Performance Index (CCPI),2025,Sweden,67.62
+Climate Change Performance Index (CCPI),2025,Switzerland,56.1
+Climate Change Performance Index (CCPI),2025,Türkiye,45.06
+Climate Change Performance Index (CCPI),2025,United Kingdom,69.29
+Climate Change Performance Index (CCPI),2025,United States,40.58
 Corruption Perceptions Index,2023,Australia,75
 Corruption Perceptions Index,2023,Austria,71
 Corruption Perceptions Index,2023,Belgium,73
@@ -301,6 +336,44 @@ Global Terrorism Index,2024,Switzerland,0.627
 Global Terrorism Index,2024,Türkiye,4.168
 Global Terrorism Index,2024,United Kingdom,2.373
 Global Terrorism Index,2024,United States,4.161
+Happy Planet Index,2021,Australia,39.5
+Happy Planet Index,2021,Austria,45.3
+Happy Planet Index,2021,Belgium,38.9
+Happy Planet Index,2021,Canada,37.2
+Happy Planet Index,2021,Chile,51.3
+Happy Planet Index,2021,Colombia,42.9
+Happy Planet Index,2021,Costa Rica,54.1
+Happy Planet Index,2021,Czechia,46.8
+Happy Planet Index,2021,Denmark,53
+Happy Planet Index,2021,Estonia,38.3
+Happy Planet Index,2021,Finland,49.8
+Happy Planet Index,2021,France,52
+Happy Planet Index,2021,Germany,45.7
+Happy Planet Index,2021,Greece,48.3
+Happy Planet Index,2021,Hungary,42.9
+Happy Planet Index,2021,Iceland,40.3
+Happy Planet Index,2021,Ireland,47.7
+Happy Planet Index,2021,Israel,48.6
+Happy Planet Index,2021,Italy,49.6
+Happy Planet Index,2021,Japan,42.7
+Happy Planet Index,2021,Latvia,39.1
+Happy Planet Index,2021,Lithuania,41
+Happy Planet Index,2021,Luxembourg,24.6
+Happy Planet Index,2021,Mexico,43.3
+Happy Planet Index,2021,Netherlands,50.7
+Happy Planet Index,2021,New Zealand,43.4
+Happy Planet Index,2021,Norway,50.5
+Happy Planet Index,2021,Poland,40.3
+Happy Planet Index,2021,Portugal,51
+Happy Planet Index,2021,Slovakia,41
+Happy Planet Index,2021,Slovenia,48.1
+Happy Planet Index,2021,South Korea,38
+Happy Planet Index,2021,Spain,53
+Happy Planet Index,2021,Sweden,55.9
+Happy Planet Index,2021,Switzerland,42.9
+Happy Planet Index,2021,Türkiye,33.8
+Happy Planet Index,2021,United Kingdom,49.5
+Happy Planet Index,2021,United States,32.1
 Human Development Index,2022,Australia,0.946
 Human Development Index,2022,Austria,0.926
 Human Development Index,2022,Belgium,0.942

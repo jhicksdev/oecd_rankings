@@ -9,6 +9,7 @@ For more information about the OECD, please visit the [Organisation for Economic
 ## Table of Contents
 
 - [Data Sources](#data-sources)
+  - [Climate Change Performance Index (CCPI)](#climate-change-performance-index-ccpi)
   - [Corruption Perceptions Index](#corruption-perceptions-index)
   - [Environmental Performance Index](#environmental-performance-index)
   - [Equality Index](#equality-index)
@@ -16,6 +17,7 @@ For more information about the OECD, please visit the [Organisation for Economic
   - [Global Organized Crime Index](#global-organized-crime-index)
   - [Global Peace Index](#global-peace-index)
   - [Global Terrorism Index](#global-terrorism-index)
+  - [Happy Planet Index](#happy-planet-index)
   - [Human Development Index (HDI)](#human-development-index-hdi)
   - [Legatum Prosperity Index](#legatum-prosperity-index)
   - [Social Progress Index (SPI)](#social-progress-index-spi)
@@ -33,6 +35,10 @@ For more information about the OECD, please visit the [Organisation for Economic
 ## Data Sources
 
 The data used in this project is sourced from the following reports:
+
+### Climate Change Performance Index (CCPI)
+
+The Climate Change Performance Index (CCPI), published annually since 2005, is an independent monitoring tool for tracking countries’ climate mitigation performance. It increases transparency in national and international climate policy and enables comparison of individual countries’ climate action efforts and progress. For more information, visit the [Climate Change Performance Index (CCPI) page](https://ccpi.org/).
 
 ### Corruption Perceptions Index
 
@@ -62,6 +68,10 @@ The Global Peace Index ranks countries based on peace and stability, considering
 
 The Global Terrorism Index ranks countries based on the impact of terrorism and the extent of terrorist activities. It considers factors like the number of terrorist incidents, fatalities, injuries, and property damage. For more information, visit the [Global Terrorism Index page](https://www.visionofhumanity.org/global-terrorism-index/).
 
+### Happy Planet Index
+
+The Happy Planet Index measures what matters: sustainable wellbeing for all. It tells us how well nations are doing at achieving long, happy, and sustainable lives. For more information, visit the [Happy Planet Index page](https://happyplanetindex.org/).
+
 ### Human Development Index (HDI)
 
 The HDI ranks countries based on life expectancy, education, and per capita income. It provides a measure of well-being and development beyond economic performance. For more information, visit the [UNDP HDI page](http://hdr.undp.org/en/content/human-development-index-hdi).
@@ -86,20 +96,22 @@ This report ranks countries based on citizens' well-being and happiness, conside
 
 The datasets used in this project cover the following years:
 
-| Dataset                         | Year |
-| ------------------------------- | ---- |
-| Corruption Perceptions Index    | 2023 |
-| Environmental Performance Index | 2024 |
-| Equality Index                  | 2025 |
-| Global Gender Gap Report        | 2024 |
-| Global Organized Crime Index    | 2023 |
-| Global Peace Index              | 2024 |
-| Global Terrorism Index          | 2024 |
-| Human Development Index (HDI)   | 2022 |
-| Legatum Prosperity Index        | 2023 |
-| Social Progress Index (SPI)     | 2023 |
-| The Economist Democracy Index   | 2023 |
-| World Happiness Report          | 2024 |
+| Dataset                                 | Year |
+| --------------------------------------- | ---- |
+| Climate Change Performance Index (CCPI) | 2025 |
+| Corruption Perceptions Index            | 2023 |
+| Environmental Performance Index         | 2024 |
+| Equality Index                          | 2025 |
+| Global Gender Gap Report                | 2024 |
+| Global Organized Crime Index            | 2023 |
+| Global Peace Index                      | 2024 |
+| Global Terrorism Index                  | 2024 |
+| Happy Planet Index                      | 2021 |
+| Human Development Index (HDI)           | 2022 |
+| Legatum Prosperity Index                | 2023 |
+| Social Progress Index (SPI)             | 2023 |
+| The Economist Democracy Index           | 2023 |
+| World Happiness Report                  | 2024 |
 
 ## Data Calculation
 
